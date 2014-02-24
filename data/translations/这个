@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "这个", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "this", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "this", "POS" : "pron", "sense" : "sthg near", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "这，这个", "POS" : "pron", "sense" : "指面前或附近之物"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "this", "POS" : "adj", "sense" : "sthg or sb recently mentioned", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "这，这个", "POS" : "adj", "sense" : "指刚刚提到的人或事物"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

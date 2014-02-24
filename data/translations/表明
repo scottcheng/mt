@@ -1,0 +1,73 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "表明", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "indicate", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "indicate", "POS" : "vtr", "sense" : "state", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表明", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "attest", "POS" : "vi", "sense" : "demonstrate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表明", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "point to", "POS" : "vtr", "sense" : "indicate, suggest", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表明", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "pointing to", "POS" : "prep", "sense" : "indicating, suggesting", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表明", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "point, point to sth", "POS" : "vi", "sense" : "show or indicate sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表明，显示，体现", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "reflect", "POS" : "vtr", "sense" : "reveal, demonstrate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "显示，表明，表达出", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "evidence", "POS" : "vtr", "sense" : "law: demonstrate, prove", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "证明，表明", "POS" : "vtr", "sense" : "法律"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "indicate", "POS" : "vtr", "sense" : "be evidence of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表明，显示", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "signal", "POS" : "vi", "sense" : "is a sign of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "标志，表明，预示", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "manifest", "POS" : "vtr", "sense" : "display, show", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表明，显示", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "indication", "POS" : "n", "sense" : "sign, suggestion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "标示，暗示，表示，表明", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "迹象，象征", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "signify", "POS" : "vtr", "sense" : "be a sign of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "意味着，预示着，表明", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "proclaim", "POS" : "vtr", "sense" : "show, indicate", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "表明，显示", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "vindicate", "POS" : "vtr", "sense" : "justify", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "证明，表明（属实、正当、有效等）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "predicate", "POS" : "vtr", "sense" : "affirm", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "断定，断言，表明", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "evince", "POS" : "vtr", "sense" : "prove, demonstrate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "证明，表明，表示，显示", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "signalize, UK: signalise", "POS" : "vtr", "sense" : "indicate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "标志着，表明，表示", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "symptomatic", "POS" : "adj", "sense" : "indicative of sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表明…的，有…征兆的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "denotative", "POS" : "adj", "sense" : "indicating sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表示…的，表明…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "unbosom, unbosom oneself of sth", "POS" : "vtr", "sense" : "unburden: oneself of sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "吐露（心事），表明（心迹）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "sound off", "POS" : "vi", "sense" : "give one's opinion, complain", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "阐述，表明，畅所欲言", "POS" : "vi", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

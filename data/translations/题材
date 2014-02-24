@@ -1,0 +1,18 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "题材", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "subject matter, theme", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "subject", "POS" : "n", "sense" : "subject matter, theme", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "主题，题材", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "theme", "POS" : "n", "sense" : "topic", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "主题，题目，题材", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "topic", "POS" : "n", "sense" : "theme", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "题目，题材", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

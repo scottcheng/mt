@@ -1,0 +1,16 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "着", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "touch, contact", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "burn", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "living", "POS" : "n", "sense" : "those who are alive", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "活（着）的人，生者", "POS" : "n", "sense" : ""}, "Note" : "用作 the living"},
+	"1" :{
+		"OriginalTerm" : { "term" : "lounge around", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "懒懒地站（坐、躺）着", "POS" : "", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,92 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "地", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "ground", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "floor", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "earth", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "right", "POS" : "adv", "sense" : "squarely", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "正好地，恰恰好地，正（当中）地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "up", "POS" : "adv", "sense" : "more than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "多于…地，超过…地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "up", "POS" : "adv", "sense" : "sports: tied", "usage" : "US"}, 
+		"FirstTranslation" : {"term" : "平，双方皆为…地", "POS" : "adv", "sense" : "美国用法，体育运动"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "field", "POS" : "n", "sense" : "agriculture", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "田，地，田野", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "under", "POS" : "adv", "sense" : "in a lower degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "低于…地，比…低", "POS" : "adv", "sense" : "度数等"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "due", "POS" : "adv", "sense" : "exactly", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "正对着（某个方向）地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "earth", "POS" : "n", "sense" : "ground", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "地，地上", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "ground", "POS" : "n", "sense" : "surface of the earth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "地，地表，地面", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "plough", "POS" : "vtr", "sense" : "farming", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "犁（地）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "semi", "POS" : "adv", "sense" : "half", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一半地，半是…地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "percent", "POS" : "adv", "sense" : "out of 100", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "百分之…地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "commonly", "POS" : "adv", "sense" : "by many people", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "大众地，大家都…地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "orally", "POS" : "adv", "sense" : "by mouth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "口头（上）地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "terrifically", "POS" : "adv", "sense" : "extremely, wonderfully", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "极端地，非常（好）地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "diametrically", "POS" : "adv", "sense" : "at opposite extreme, contrary", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "完全地，截然（相反）地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "imperatively", "POS" : "adv", "sense" : "in a commanding manner", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "命令（式）地，专横地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "zonal", "POS" : "adj", "sense" : "relating to zones", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（地）带的，带状的，区域的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "at home with", "POS" : "adv", "sense" : "comfortable or familiar with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "精通…地，熟悉…地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "at wholesale", "POS" : "adv", "sense" : "in bulk", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "整批（批发）地，按照批发价格地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "direct to", "POS" : "adv", "sense" : "directly towards", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "直接朝着…地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "hand over hand", "POS" : "adv", "sense" : "grasping with alternate hands", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "两手交替握住…地", "POS" : "adv", "sense" : "本义"}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "in a circle", "POS" : "adv", "sense" : "movement: round", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "圆周（运动）地", "POS" : "adv", "sense" : "运动方式"}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "in aid of sb\/sth", "POS" : "adv", "sense" : "for the benefit of sb or sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "帮助（某人或某事）地，支援地，资助地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "in cooperation", "POS" : "adv", "sense" : "together, jointly", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "合作地，共同（努力）地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "on tour", "POS" : "adv", "sense" : "performers: on the road", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "巡回（演出）地，（表演者）在路上，巡演中", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "up to", "POS" : "adv", "sense" : "busy with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "忙于…地，从事…地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "head on", "POS" : "adv", "sense" : "in direct confrontation or collision", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "正面（冲突）地，面对面地，当面地", "POS" : "adv", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

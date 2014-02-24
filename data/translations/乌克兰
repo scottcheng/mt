@@ -1,0 +1,12 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "乌克兰", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "Ukraine", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "Ukraine", "POS" : "n", "sense" : "country in eastern Europe", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "乌克兰", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

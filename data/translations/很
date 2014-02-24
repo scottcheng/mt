@@ -1,0 +1,95 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "很", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "very, quite", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "only", "POS" : "adv", "sense" : "very", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "很，非常，十分", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "right", "POS" : "adv", "sense" : "very", "usage" : "colloquial"}, 
+		"FirstTranslation" : {"term" : "很，相当，非常", "POS" : "adv", "sense" : "口语"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "so", "POS" : "adv", "sense" : "intensifier: very", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "非常，极，很，十分", "POS" : "adv", "sense" : "强调"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "very", "POS" : "adv", "sense" : "extremely", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "非常，很", "POS" : "adv", "sense" : "与形容词、副词等连用"}, 
+		"SecondTranslation" : {"term" : "极其", "POS" : "adv", "sense" : "与形容词最高级等连用"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "well", "POS" : "adv", "sense" : "very", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "很，非常", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "bad", "POS" : "adv", "sense" : "badly", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "极其，非常，很", "POS" : "adv", "sense" : "非正式用语"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "enough", "POS" : "adv", "sense" : "fully", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "十足，非常，很", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "full", "POS" : "adv", "sense" : "very", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "非常，很", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "much", "POS" : "adj", "sense" : "of great degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到极大程度的，很，很多", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "much", "POS" : "adv", "sense" : "greatly", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到极大程度，很，很多", "POS" : "adv", "sense" : "加强比较级或最高级"}, 
+		"SecondTranslation" : {"term" : "非常，很，十分", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "pretty", "POS" : "adv", "sense" : "very", "usage" : "colloquial"}, 
+		"FirstTranslation" : {"term" : "挺，很", "POS" : "adv", "sense" : "口语"}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "too", "POS" : "adv", "sense" : "very, extremely", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "非常，很", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "ever", "POS" : "adv", "sense" : "emphatic: very", "usage" : "UK"}, 
+		"FirstTranslation" : {"term" : "非常，很", "POS" : "adv", "sense" : "英国用法，表强调"}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "far", "POS" : "adv", "sense" : "much, to a great degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "很大程度上地，很", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "quite", "POS" : "adv", "sense" : "considerably, positively", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "相当地，很", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "real", "POS" : "adv", "sense" : "really", "usage" : "US, colloquial"}, 
+		"FirstTranslation" : {"term" : "相当，非常，很", "POS" : "adv", "sense" : "美国用法，口语"}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "badly", "POS" : "adv", "sense" : "very", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "非常 ， 很", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "deeply", "POS" : "adv", "sense" : "very", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "深深地，很，非常，极其", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "mighty", "POS" : "adv", "sense" : "very", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "很，极其，非常", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "terribly", "POS" : "adv", "sense" : "very much", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "很，非常", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "ultra", "POS" : "adv", "sense" : "extremely", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "极大的，极其，非常，很", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "rattling", "POS" : "adj", "sense" : "extremely, really", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "很，非常，极其", "POS" : "adj", "sense" : "俚语"}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "a great deal", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "大量，很多", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "很，非常", "POS" : "", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "a lot", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "很，非常，极其", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "经常", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "大量，很多", "POS" : "", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "in a big way", "POS" : "adv", "sense" : "very much, greatly", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "非常地，很，大规模地，隆重地", "POS" : "adv", "sense" : "非正式用语"}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "very much", "POS" : "adv", "sense" : "greatly", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "非常，很，十分", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "far too", "POS" : "adv", "sense" : "excessively", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "非常，太，极其，很", "POS" : "adv", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

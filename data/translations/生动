@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "生动", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "vivid", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "color, colour, US: color", "POS" : "n", "sense" : "vivid character", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "生动，生动的色彩", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "animation", "POS" : "n", "sense" : "liveliness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "生动，活泼，活跃", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,18 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "唱", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "sing", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "sing", "POS" : "vi", "sense" : "perform a song", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "唱，唱歌", "POS" : "vi", "sense" : "人"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "sing", "POS" : "vi", "sense" : "singer: perform", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "唱，歌唱，演唱", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "falsetto", "POS" : "adj", "sense" : "singing voice: high-pitched", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "用假声(唱)的", "POS" : "adj", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,63 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "许多", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "many, a lot, lots of", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "many", "POS" : "pron", "sense" : "many people or things", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "很多人（事物），许多", "POS" : "pron", "sense" : "人、事物"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "much", "POS" : "n", "sense" : "great amount", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "许多，大量", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "host", "POS" : "n", "sense" : "a large quantity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "大量，许多", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "forest", "POS" : "n", "sense" : "many", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "大量，许多", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "lot", "POS" : "n", "sense" : "large quantity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "许多，大量", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "million", "POS" : "n", "sense" : "very large amount, number", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "许多，大量", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "thousand", "POS" : "n", "sense" : "great amount", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "数量巨大，许多", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "load", "POS" : "n", "sense" : "a great amount of sthg, often plural", "usage" : "colloquial"}, 
+		"FirstTranslation" : {"term" : "大量，许多", "POS" : "n", "sense" : "口语"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "mass", "POS" : "n", "sense" : "large quantity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "大量，大宗，许多", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "slew", "POS" : "n", "sense" : "large number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "很多，许多", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "galore", "POS" : "adv", "sense" : "in abundance, aplenty", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "大量，许多", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "oodles", "POS" : "npl", "sense" : "large quantity", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "大量，许多", "POS" : "npl", "sense" : "非正式用语"}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "plurality", "POS" : "n", "sense" : "multiplicity, large number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "许多，大量", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "scads", "POS" : "npl", "sense" : "large number of sth", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "大量，许多，巨额", "POS" : "npl", "sense" : "非正式用语"}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "good deal", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "许多，大量", "POS" : "", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "large amount", "POS" : "n", "sense" : "a lot", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "大量，许多", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "not a little", "POS" : "adv", "sense" : "a lot, a great deal", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不少地，不小地，许多", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "so much", "POS" : "adv", "sense" : "a lot", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "很多，许多", "POS" : "adv", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

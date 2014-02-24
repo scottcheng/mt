@@ -1,0 +1,161 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "以", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "by,  with,  through", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "so as to, in order to", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "as", "POS" : "conj", "sense" : "in the manner of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…的方式，照…一样", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "by", "POS" : "prep", "sense" : "close: distance measure", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…之差", "POS" : "prep", "sense" : "距离等"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "how", "POS" : "adv", "sense" : "in what manner", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "怎样，如何，以…方式", "POS" : "adv", "sense" : "表示方式"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "how", "POS" : "adv", "sense" : "by what means", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "怎么，以…手段，如何", "POS" : "adv", "sense" : "表示方法、手段"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "in", "POS" : "prep", "sense" : "by means of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "用，以…方式，以", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "on", "POS" : "prep", "sense" : "attached to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…上，挂在…上，以…为支撑", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "on", "POS" : "prep", "sense" : "means", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…方式，通过", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "feature, feature sth", "POS" : "vtr", "sense" : "characteristically have", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "有…特色，以 …为特色", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "result", "POS" : "vi", "sense" : "terminate in a given way", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "造成，导致，以…告终", "POS" : "vi", "sense" : ""}, "Note" : "常作 result in"},
+	"9" :{
+		"OriginalTerm" : { "term" : "based", "POS" : "v past p", "sense" : "past participle of to base", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为基础，基于", "POS" : "v past p", "sense" : ""}, "Note" : "base的过去分词"},
+	"10" :{
+		"OriginalTerm" : { "term" : "bet", "POS" : "vtr", "sense" : "amount", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "下…的注 ， 以…打赌", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "bet", "POS" : "vtr", "sense" : "sb money", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…打赌 ， 与…以（财物）打赌", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "dedicate", "POS" : "vtr", "sense" : "in honour of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…供奉，以…奉献", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "mortgage", "POS" : "vtr", "sense" : "future", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "把…许给，以…为担保", "POS" : "vtr", "sense" : "比喻 "}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "mortgage", "POS" : "vtr", "sense" : "the house", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…作为按揭贷款的抵押，抵押", "POS" : "vtr", "sense" : "房产等"}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "towards", "POS" : "prep", "sense" : "aimed at obtaining", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "用于，为，以…为目的", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "toward", "POS" : "prep", "sense" : "aimed at obtaining", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "用于，为，以…为目的", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "oriented", "POS" : "adj", "sense" : "positioned", "usage" : "US"}, 
+		"FirstTranslation" : {"term" : "以…为方向的，以……为目的的", "POS" : "adj", "sense" : ""}, "Note" : "美国英语"},
+	"18" :{
+		"OriginalTerm" : { "term" : "underwrite", "POS" : "vtr", "sense" : "insurance: cover", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "承保，以…为承保范围", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "fringed", "POS" : "adj", "sense" : "bordered, surrounded", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "环绕的，以…为边界的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "sensationalize, sensationalise", "POS" : "vtr", "sense" : "exaggerate drama or scandal of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "使…耸人听闻，以…哗众取宠", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "build on", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为基础", "POS" : "", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "end up", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…结束，以…告终", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "死亡", "POS" : "", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "feed on", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "吃…生存，以…为食", "POS" : "", "sense" : "生物"}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "go by the name of", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…的名义", "POS" : "", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "pride yourself on sth", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为傲，为…感到骄傲", "POS" : "", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "set your sights on", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为目标，决心做到", "POS" : "", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "start off with", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…开始，首先进行", "POS" : "", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "take pride in", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为傲，为…而自豪", "POS" : "", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "base sth on", "POS" : "vtr", "sense" : "use as evidence", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "凭据…，以…为依据", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "base sth on", "POS" : "vtr", "sense" : "use as source or inspiration", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "基于…，以…为基础", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "cash in on", "POS" : "vtr", "sense" : "seek to profit opportunistically from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "趁机利用，以…获利，靠…赚钱", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "centre on, US: center on", "POS" : "vtr", "sense" : "focus on, be all about", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "集中于…，以…为中心", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "delight in", "POS" : "vtr", "sense" : "take pleasure in", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为乐", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "give as a pretext", "POS" : "vtr", "sense" : "make an excuse of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为借口，以…为托词", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "in the form of", "POS" : "prep", "sense" : "as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以 ... 的形式，就像…", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "in the vein of", "POS" : "prep", "sense" : "in the manner of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…的方式，以…的风格（特色等）", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "land up", "POS" : "v", "sense" : "end up, finish", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "最后处于…，以…而结束", "POS" : "v", "sense" : "非正式用语"}, "Note" : ""},
+	"38" :{
+		"OriginalTerm" : { "term" : "pay homage to", "POS" : "vtr", "sense" : "do sth as a tribute to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…向…致敬", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"39" :{
+		"OriginalTerm" : { "term" : "pivot on", "POS" : "vtr", "sense" : "turn or rotate on", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "以..为轴转动", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"40" :{
+		"OriginalTerm" : { "term" : "pivot on", "POS" : "vtr", "sense" : "have as its determining factor", "usage" : "US, figurative"}, 
+		"FirstTranslation" : {"term" : "依靠，依赖，以…为中心，围着…转", "POS" : "vtr", "sense" : "美国用法，比喻"}, "Note" : ""},
+	"41" :{
+		"OriginalTerm" : { "term" : "predicated on", "POS" : "prep", "sense" : "based or founded on", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "建立在…基础之上，以…为依据，基于…，根据…", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"42" :{
+		"OriginalTerm" : { "term" : "take pleasure in", "POS" : "vtr", "sense" : "enjoy", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为乐，从…中得到乐趣", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"43" :{
+		"OriginalTerm" : { "term" : "trade in", "POS" : "vtr", "sense" : "turn sth in as partial payment for new one", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（补差价）以旧换新，以（旧商品）抵价换新商品", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"44" :{
+		"OriginalTerm" : { "term" : "treat with", "POS" : "vtr", "sense" : "show sb an attitude of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以（某种态度）对待（某人）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"45" :{
+		"OriginalTerm" : { "term" : "wind up", "POS" : "vtr", "sense" : "become, end up", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "以…告终", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"46" :{
+		"OriginalTerm" : { "term" : "aim for", "POS" : "vtr", "sense" : "try to reach or achieve", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为目标，试图达到…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"47" :{
+		"OriginalTerm" : { "term" : "be named after", "POS" : "vtr", "sense" : "be given the same name as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…命名", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"48" :{
+		"OriginalTerm" : { "term" : "be proud of", "POS" : "vtr", "sense" : "take pride in", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为骄傲，为…自豪", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"49" :{
+		"OriginalTerm" : { "term" : "consist in", "POS" : "vtr", "sense" : "have as important part", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "以…为主要构成部分", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

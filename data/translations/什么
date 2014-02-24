@@ -1,0 +1,42 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "什么", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "what", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "how", "POS" : "adv", "sense" : "what", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "什么", "POS" : "adv", "sense" : "请对方说明"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "what", "POS" : "pron", "sense" : "motive", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "什么", "POS" : "pron", "sense" : "动机、目标等"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "what", "POS" : "pron", "sense" : "subject: questions", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "什么", "POS" : "pron", "sense" : "作主语的疑问代词"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "what on earth", "POS" : "pron", "sense" : "what", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "什么", "POS" : "pron", "sense" : "非正式用语"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "what the fuck", "POS" : "pron", "sense" : "what", "usage" : "slang, vulgar"}, 
+		"FirstTranslation" : {"term" : "什么", "POS" : "pron", "sense" : "俚语，粗俗语"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "what the hell", "POS" : "pron", "sense" : "what", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "什么", "POS" : "pron", "sense" : "俚语"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "what", "POS" : "pron", "sense" : "questions: tell me", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "什么，什么样的人，什么样的事物", "POS" : "pron", "sense" : "疑问代词"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "what", "POS" : "pron", "sense" : "identity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "什么，什么东西", "POS" : "pron", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "what", "POS" : "interj", "sense" : "surprise", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "什么，不会吧", "POS" : "interj", "sense" : "表示惊讶"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "what", "POS" : "interj", "sense" : "repeat what you said", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "什么，请再说一遍", "POS" : "interj", "sense" : "请对方重复"}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "eh", "POS" : "interj", "sense" : "pardon?", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "什么？嗯？呃？", "POS" : "interj", "sense" : "感叹词，表示有疑惑，请求对方再复述一遍"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

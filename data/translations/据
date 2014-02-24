@@ -1,0 +1,10 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "据", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "occupy", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "depend, rely", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "according to", "POS" : "", "sense" : ""}, "Note" : ""}},
+"Lines" : "End Reached", "END" : true
+}

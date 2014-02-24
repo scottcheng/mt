@@ -1,0 +1,44 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "one", "POS" : "n", "sense" : "die, domino with one pip", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一点", "POS" : "n", "sense" : "骰子等上的"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "any", "POS" : "adj", "sense" : "some", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "若干，一些，一点，丝毫", "POS" : "adj", "sense" : "一般用于疑问句、否定句、条件从句中"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "little", "POS" : "n", "sense" : "sthg small", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "少量，一点", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "touch", "POS" : "n", "sense" : "small amount", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一点，少许，些许", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "dash", "POS" : "n", "sense" : "cooking", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "少许，一些，一点", "POS" : "n", "sense" : "（烹调中）表示数量，调味品等"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "ounce", "POS" : "n", "sense" : "small amount", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "一点，少量", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "piece", "POS" : "n", "sense" : "bit or part of something", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一点，一块，一段", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "shade", "POS" : "n", "sense" : "little bit", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "一点，些许", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "whatsoever", "POS" : "adj", "sense" : "at all", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一点…都（不），丝毫（不）", "POS" : "adj", "sense" : "用在与no, any连用的名词后"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "stitch", "POS" : "n", "sense" : "the least bit of sth", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "少许，些微，一点，丝毫", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "whit", "POS" : "n", "sense" : "slightest bit", "usage" : "formal"}, 
+		"FirstTranslation" : {"term" : "一点，些微，丝毫", "POS" : "n", "sense" : ""}, "Note" : "正式用语"},
+	"11" :{
+		"OriginalTerm" : { "term" : "whisker", "POS" : "n", "sense" : "very close margin", "usage" : "informal, figurative"}, 
+		"FirstTranslation" : {"term" : "细微之差，一点，一丝", "POS" : "n", "sense" : "非正式用法，比喻"}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "smattering", "POS" : "n", "sense" : "small amount or number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "少量，一点", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

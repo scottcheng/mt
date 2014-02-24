@@ -1,0 +1,11 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "skating rink", "POS" : "n", "sense" : "arena for ice skating", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "滑冰场", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "ice rink", "POS" : "n", "sense" : "arena with ice-covered floor", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "滑冰场，溜冰场", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

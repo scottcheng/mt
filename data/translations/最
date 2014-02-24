@@ -1,0 +1,27 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "最", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "[adverb, to the highest or lowest degree]", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "best", "POS" : "adv", "sense" : "most fully", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "最，极", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "best", "POS" : "adv", "sense" : "to the highest degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "最大程度，最", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "most", "POS" : "adj", "sense" : "greatest degree of sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "最…的，…至极的", "POS" : "adj", "sense" : "程度"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "most", "POS" : "n", "sense" : "greatest quantity or degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "最，极", "POS" : "n", "sense" : "最高级"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "most", "POS" : "adv", "sense" : "to the greatest extent", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "最大程度地，最", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "most", "POS" : "adv", "sense" : "to the greatest degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "最…", "POS" : "adv", "sense" : "修饰形容词和副词，表示程度"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

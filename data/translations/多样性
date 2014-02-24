@@ -1,0 +1,11 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "variety", "POS" : "n", "sense" : "diversity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "多样性", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "diversity", "POS" : "n", "sense" : "of things: variety", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "多样性", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

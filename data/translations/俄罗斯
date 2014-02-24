@@ -1,0 +1,8 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "Russia", "POS" : "n", "sense" : "Russian Federation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "俄罗斯，俄罗斯联邦", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

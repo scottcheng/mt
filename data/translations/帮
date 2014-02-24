@@ -1,0 +1,25 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "帮", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "help", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "gang, band", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "group", "POS" : "n", "sense" : "a number of associated people", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "团体，组，群，帮", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "band", "POS" : "n", "sense" : "group of persons", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（一）群（人），（一）帮（人）", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "screen", "POS" : "vtr", "sense" : "shelter", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "帮…挡（风、雨、寒冷等）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "come to sb's assistance", "POS" : "v", "sense" : "offer to help sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "向…提供帮助，帮…的忙", "POS" : "v", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "come to the aid of", "POS" : "vtr", "sense" : "offer to help", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "向…提供帮助，帮…的忙", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

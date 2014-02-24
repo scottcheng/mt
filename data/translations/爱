@@ -1,0 +1,31 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "爱", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "love, affection", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "cherish", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "love", "POS" : "n", "sense" : "feeling of affection", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "爱，爱情 ", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "love", "POS" : "n", "sense" : "person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "爱，爱恋，爱意，深情，钟情", "POS" : "n", "sense" : "特指，对人"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "love", "POS" : "vtr", "sense" : "feel affection for sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "爱，热爱，爱好，喜爱", "POS" : "vtr", "sense" : "对事物"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "love", "POS" : "vtr", "sense" : "feel affection for sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "爱，热爱", "POS" : "vtr", "sense" : "对人"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "love", "POS" : "vtr", "sense" : "romantic affection", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "爱，爱恋，钟情于…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "love", "POS" : "vi", "sense" : "have deep affection", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "爱，热爱", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "luv", "POS" : "n", "sense" : "love: term of affection", "usage" : "UK, slang"}, 
+		"FirstTranslation" : {"term" : "爱，爱情", "POS" : "n", "sense" : "英国用法，俚语"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

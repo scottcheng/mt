@@ -1,0 +1,26 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "话", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "words, remark", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "speak, talk", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "language", "POS" : "n", "sense" : "speech", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "话语，话", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "word", "POS" : "n", "sense" : "linguistic unit", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "字，单词", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "话，言语", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "deliver", "POS" : "vtr", "sense" : "speech", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "演讲，讲（话）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "barge into", "POS" : "vtr", "sense" : "interrupt", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "插（话）", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "in mid-sentence", "POS" : "adv", "sense" : "halfway through saying sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（话）说了一半，话没说完，说到中途", "POS" : "adv", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,28 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "气", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "angry, unhappy", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "chi", "POS" : "n", "sense" : "Chinese medicine: energy", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "气", "POS" : "n", "sense" : "中医学术语"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "catch", "POS" : "vtr", "sense" : "regain", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "喘（气）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "fume", "POS" : "npl", "sense" : "smoke, gas", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "烟，烟雾，气，汽", "POS" : "npl", "sense" : "浓烈的"}, "Note" : "用作 fumes"},
+	"3" :{
+		"OriginalTerm" : { "term" : "fumes", "POS" : "npl", "sense" : "vapours, gases", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "烟，气体，烟雾，气", "POS" : "npl", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "水汽", "POS" : "npl", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "xenon", "POS" : "n", "sense" : "chemical element: gas", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "氙（气）", "POS" : "n", "sense" : "一种惰性气体元素"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "umbilical hernia", "POS" : "n", "sense" : "protruding intestines", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "脐疝（气），脐突出", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

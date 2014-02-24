@@ -1,0 +1,54 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "避免", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "avoid", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "help", "POS" : "vtr", "sense" : "avoid, prevent", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "避免，防止，控制住，忍住", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "save", "POS" : "vtr", "sense" : "remove the need for", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "减少，避免", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "avoid", "POS" : "vtr", "sense" : "stay away from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "避免，避开", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "shake", "POS" : "vtr", "sense" : "elude", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "避免，摆脱", "POS" : "vtr", "sense" : "俚语"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "eschew", "POS" : "vtr", "sense" : "avoid, reject", "usage" : "formal"}, 
+		"FirstTranslation" : {"term" : "避免，避开，回避", "POS" : "vtr", "sense" : "正式用语 "}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "avert", "POS" : "vtr", "sense" : "avoid: sthg bad", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "避免，避开", "POS" : "vtr", "sense" : "危险、危害等"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "obviate", "POS" : "vtr", "sense" : "make unnecessary", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "避免，使成为不必要", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "abstention", "POS" : "n", "sense" : "not indulging in sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "戒除，避免，节制", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "sidestep", "POS" : "vtr", "sense" : "avoid", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "避免，回避", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "circumvention", "POS" : "n", "sense" : "avoidance of sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "规避，避免", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "obviation", "POS" : "n", "sense" : "elimination of the need for sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "避免，排除，消除", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "get round, get around US", "POS" : "vtr", "sense" : "circumvent, avoid", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "规避，避免", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "keep off", "POS" : "vtr", "sense" : "do not walk on", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不接近，避开，避免（践踏）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "stay away", "POS" : "vi", "sense" : "avoid, keep clear", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "避免，远离，退避三舍，躲开", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "stay clear of", "POS" : "vtr", "sense" : "avoid", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "避开…，避免…，躲开…", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

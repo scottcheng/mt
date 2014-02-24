@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "意大利", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "Italy", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "Italy", "POS" : "n", "sense" : "country", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "意大利", "POS" : "n", "sense" : "国家名"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "vermicelli", "POS" : "n", "sense" : "long thin pasta", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（意大利）细面条，线面", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

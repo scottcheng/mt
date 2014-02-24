@@ -1,0 +1,33 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "思想", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "thoughts", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "open", "POS" : "vi", "sense" : "become receptive", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "开放（思想），乐意接受新思想", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "thought", "POS" : "n", "sense" : "philosophy", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "思想，思潮", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "gather", "POS" : "vtr", "sense" : "in mind: muster", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "集中（思想），使精力集中", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "concept", "POS" : "n", "sense" : "idea", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "观念，思想", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "export", "POS" : "vtr", "sense" : "ideas", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "把（思想、文化等）带到别的地方", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "marketplace", "POS" : "n", "sense" : "competitive place", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "（思想、观念等）争鸣的场所、竞争的场所", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "ingrain", "POS" : "vtr", "sense" : "instil, implant", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "使（思想、习惯等）根深蒂固", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "ideologist", "POS" : "n", "sense" : "supporter of a doctrine or ethos", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "思想（理论）家，意识形态专家，观念学家", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

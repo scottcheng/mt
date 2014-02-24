@@ -1,0 +1,35 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "forever", "POS" : "adv", "sense" : "always", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "永远", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "for all time", "POS" : "adv", "sense" : "forever, for eternity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "永远", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "world without end", "POS" : "adv", "sense" : "forever", "usage" : "literary"}, 
+		"FirstTranslation" : {"term" : "永远", "POS" : "adv", "sense" : "书面语"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "always", "POS" : "adv", "sense" : "forever", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "永远，始终", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "eternity", "POS" : "n", "sense" : "infinite time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "永恒，永远，无穷", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "evermore", "POS" : "adv", "sense" : "for all time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "永远，始终", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "eternally", "POS" : "adv", "sense" : "forever", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "永远，永恒地，不绝地，永久地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "for good", "POS" : "adv", "sense" : "permanently", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "永远，永久地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "have no end", "POS" : "vi", "sense" : "be infinite", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "直到永远，永远", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "kingdom come", "POS" : "n", "sense" : "forever, eternity", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "永远，永恒", "POS" : "n", "sense" : "比喻"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

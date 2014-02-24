@@ -1,0 +1,95 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "没有", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "do not have", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "nope", "POS" : "adv", "sense" : "no", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "不，不行", "POS" : "adv", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "没有", "POS" : "adv", "sense" : ""}, "Note" : "非正式用语"},
+	"1" :{
+		"OriginalTerm" : { "term" : "not", "POS" : "adv", "sense" : "negation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不，不是，没，没有", "POS" : "adv", "sense" : "表示否定"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "not", "POS" : "adv", "sense" : "denial", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不是，没有", "POS" : "adv", "sense" : "表示否认"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "lack", "POS" : "vtr", "sense" : "does not have", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "缺少，缺乏，没有", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "without", "POS" : "prep", "sense" : "lacking", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有，没拿，没带", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "without", "POS" : "prep", "sense" : "excluding", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有，无…在一起", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "empty", "POS" : "adj", "sense" : "devoid of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有（表情的），空洞洞的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "bare", "POS" : "adj", "sense" : "place, thing: with nothing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有…的 ， 缺少…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "devoid", "POS" : "adj", "sense" : "without", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有，缺乏", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "minus", "POS" : "prep", "sense" : "without", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有，缺少", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "zip", "POS" : "n", "sense" : "say: nothing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "无，没有，零", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "absence", "POS" : "n", "sense" : "lack", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "缺乏 ， 没有", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "naught", "POS" : "n", "sense" : "nothing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "无，没有", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "0", "POS" : "n", "sense" : "zero, nought", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "零", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "没有，无", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "destitute", "POS" : "adj", "sense" : "lacking sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "缺乏…的，没有…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "uncharacteristic", "POS" : "adj", "sense" : "unusual, not typical", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不典型的，没有（典型）特征的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "nought", "POS" : "n", "sense" : "nothing", "usage" : "UK"}, 
+		"FirstTranslation" : {"term" : "无，没有", "POS" : "n", "sense" : "英国用法"}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "sans", "POS" : "prep", "sense" : "without", "usage" : "archaic"}, 
+		"FirstTranslation" : {"term" : "无，没有", "POS" : "prep", "sense" : "古语"}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "destitute of", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "缺乏，没有…", "POS" : "", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "devoid of", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "缺乏，没有…", "POS" : "", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "deprived of", "POS" : "adj", "sense" : "without, lacking", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "缺少…的，没有..的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "do without", "POS" : "vi", "sense" : "forgo, cope without having", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有…也行，将就，用不着", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "hear nothing", "POS" : "vi", "sense" : "receive no news of sb or sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "什么也没听说，没有…的消息", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "no ma'am", "POS" : "interj", "sense" : "no, madam", "usage" : "formal"}, 
+		"FirstTranslation" : {"term" : "不，夫人；没有，夫人；不是的，夫人", "POS" : "interj", "sense" : "正式用语"}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "not have a place", "POS" : "v", "sense" : "be unwelcome or uncatered for", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不欢迎，没有…的位置", "POS" : "v", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "void of", "POS" : "prep", "sense" : "empty of, having no", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有…的", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "be out of", "POS" : "vtr", "sense" : "have none left", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "without", "POS" : "prep", "sense" : "lacking", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有…，缺…", "POS" : "prep", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

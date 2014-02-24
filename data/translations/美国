@@ -1,0 +1,42 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "美国", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "the United States of America, U.S.A., the States", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "America", "POS" : "n", "sense" : "United States", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "美国", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "USA", "POS" : "n", "sense" : "United States of America", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "美利坚合众国，美国", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "NY", "POS" : "n", "sense" : "state: New York", "usage" : "abbr"}, 
+		"FirstTranslation" : {"term" : "（美国）纽约", "POS" : "n", "sense" : "缩写"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "congresswoman", "POS" : "n", "sense" : "female politician in US Congress", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（美国）国会女议员（尤指众议院女议员）", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "republicanism, Republicanism", "POS" : "n", "sense" : "conservative political beliefs", "usage" : "US"}, 
+		"FirstTranslation" : {"term" : "（美国）共和信仰", "POS" : "n", "sense" : "保守的政治信仰"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "saguaro", "POS" : "n", "sense" : "American cactus", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（美国）树形仙人掌，巨柱仙人掌", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "veep", "POS" : "n", "sense" : "VP: vice president", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "（美国）副总统", "POS" : "n", "sense" : "俚语"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "army brat", "POS" : "n", "sense" : "child of a US Army member", "usage" : "US, slang"}, 
+		"FirstTranslation" : {"term" : "（美国）军人的孩子", "POS" : "n", "sense" : "俚语"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "independence day", "POS" : "n", "sense" : "4th July: United States national holiday", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（美国）独立日", "POS" : "n", "sense" : "7月4日"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "United States, United States of America", "POS" : "n", "sense" : "US: country in North America", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "美国，美利坚合众国", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "United States of America, United States", "POS" : "n", "sense" : "USA: country in North America", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "美国，美利坚合众国", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

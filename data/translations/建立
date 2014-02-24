@@ -1,0 +1,45 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "建立", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "establish", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "establish", "POS" : "vtr", "sense" : "make happen", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "建立", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "cultivate", "POS" : "vtr", "sense" : "strive for", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "培养", "POS" : "vtr", "sense" : "兴趣、品德修养，比喻"}, 
+		"SecondTranslation" : {"term" : "结交", "POS" : "vtr", "sense" : "交朋友，比喻"}, 
+		"ThirdTranslation" : {"term" : "建立", "POS" : "vtr", "sense" : "人际关系，比喻"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "put into place", "POS" : "vtr", "sense" : "establish", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "建立", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "form", "POS" : "vtr", "sense" : "friendship", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "建立，培养", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "start", "POS" : "vtr", "sense" : "establish", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "创立，成立，建立", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "development", "POS" : "n", "sense" : "creation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "开发，建立", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "found", "POS" : "vtr", "sense" : "set up, establish", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "建立，创建", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "establishment", "POS" : "n", "sense" : "creation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "建立，创立", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "institute", "POS" : "vtr", "sense" : "establish", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "建立，成立，设立", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "制定", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "erect", "POS" : "vtr", "sense" : "building: construct", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "建立，建造", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "set up", "POS" : "vtr", "sense" : "establish, found", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "建立，创立，设立", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

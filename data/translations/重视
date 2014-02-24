@@ -1,0 +1,24 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "重视", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "pay attention to; attach importance to", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "take seriously", "POS" : "vtr", "sense" : "be genuinely concerned by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "重视", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "value", "POS" : "vtr", "sense" : "consider the importance of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "重视，珍视", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "stress", "POS" : "n", "sense" : "emphasis", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "强调，着重，重视", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "prize", "POS" : "vtr", "sense" : "find important", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "重视，珍视", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "attach importance to", "POS" : "vtr", "sense" : "consider significant", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "重视，认为…很重要", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

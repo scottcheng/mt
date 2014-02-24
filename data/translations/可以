@@ -1,0 +1,54 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "可以", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "can, may", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "can", "POS" : "v aux", "sense" : "be allowed to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "可以", "POS" : "v aux", "sense" : "表示准许"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "might", "POS" : "v past", "sense" : "past of may", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "可以", "POS" : "v past", "sense" : ""}, "Note" : "may的过去式"},
+	"2" :{
+		"OriginalTerm" : { "term" : "could", "POS" : "v aux", "sense" : "polite suggestion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "可以", "POS" : "v aux", "sense" : "礼貌地建议"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "can", "POS" : "v aux", "sense" : "have the right to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "有权，可以", "POS" : "v aux", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "may", "POS" : "v aux", "sense" : "request: present singular 1st person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "可以，允许，可能，能够", "POS" : "v aux", "sense" : "情态动词，表示请求，第一人称单数"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "will", "POS" : "v aux", "sense" : "ability", "usage" : "negative"}, 
+		"FirstTranslation" : {"term" : "能，可以", "POS" : "v aux", "sense" : "常与否定连用"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "could", "POS" : "v past", "sense" : "past tense of can", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "能，可以", "POS" : "v past", "sense" : ""}, "Note" : "can的过去式"},
+	"7" :{
+		"OriginalTerm" : { "term" : "sure", "POS" : "interj", "sense" : "Yes!", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "当然！可以！好啊！", "POS" : "interj", "sense" : "语气词"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "fine", "POS" : "adj", "sense" : "OK", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "好，可以，没关系", "POS" : "adj", "sense" : "口语"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "could", "POS" : "v aux", "sense" : "ability", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "能，可以", "POS" : "v aux", "sense" : "表示能力"}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "could", "POS" : "v aux", "sense" : "polite request", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "能，可以", "POS" : "v aux", "sense" : "礼貌请求"}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "okay", "POS" : "interj", "sense" : "OK, yes, agreed", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "好的，可以，行", "POS" : "interj", "sense" : "非正式用语"}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "righto", "POS" : "interj", "sense" : "used to acknowledge or agree", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "好，行，可以", "POS" : "interj", "sense" : "非正式用语"}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "be able", "POS" : "vi", "sense" : "have the power or ability", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "能够，可以", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "be allowed to", "POS" : "vtr", "sense" : "have permission to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被允许…，可以…", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,30 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "自由", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "liberty", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "freedom", "POS" : "n", "sense" : "liberty", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自由", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "freedom", "POS" : "n", "sense" : "not slavery", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自由", "POS" : "n", "sense" : "摆脱奴隶地位"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "freedom", "POS" : "n", "sense" : "lack of restriction", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自由", "POS" : "n", "sense" : "不受限制"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "liberty", "POS" : "n", "sense" : "freedom from oppression", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自由", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "at liberty", "POS" : "adj", "sense" : "free", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自由", "POS" : "", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "let", "POS" : "vtr", "sense" : "release", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "放走，给予…自由", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "unshackle, unshackle sth or sb", "POS" : "vtr", "sense" : "free, remove restraints from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "释放…，使…自由", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

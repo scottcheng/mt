@@ -1,0 +1,16 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "日", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "sun", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "day", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "set", "POS" : "n", "sense" : "of sun, moon", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（日、月）落山", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "sun", "POS" : "n", "sense" : "star in our solar system", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "太阳，日", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

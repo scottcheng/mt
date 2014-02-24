@@ -1,0 +1,25 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "里", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "inside", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "[Chinese measure of length, =500 meters]", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "at", "POS" : "prep", "sense" : "location", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…上，在…里，在…旁", "POS" : "prep", "sense" : "地点"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "into", "POS" : "prep", "sense" : "to the inside of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "向…里，到…里面，进入", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "cutaneous", "POS" : "adj", "sense" : "in or of the skin", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "皮肤（里）的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "at home", "POS" : "adv", "sense" : "in one's own house", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "在家（里）", "POS" : "adv", "sense" : "本义"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "wrapped in", "POS" : "prep", "sense" : "covered or packaged in", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "包裹在…里", "POS" : "prep", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

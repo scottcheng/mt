@@ -1,0 +1,132 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "联系", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "contact", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "link", "POS" : "vtr", "sense" : "connect", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "连接，接合", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "联系", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "bond", "POS" : "n", "sense" : "tie", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "联系", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "up", "POS" : "adv", "sense" : "in contact with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联系，了解", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "reach", "POS" : "vtr", "sense" : "telephone: make contact", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…联系，联系上", "POS" : "vtr", "sense" : "指用电话"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "relationship", "POS" : "n", "sense" : "logical connection", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "关系，联系，关联", "POS" : "n", "sense" : "逻辑上的因果关系"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "relationship", "POS" : "n", "sense" : "tie, connection to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "关系，联系，关联", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "contact", "POS" : "n", "sense" : "social interaction", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联系，交往，来往", "POS" : "n", "sense" : "社会关系"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "contact", "POS" : "n", "sense" : "communications", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联系，联络", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "contact", "POS" : "vtr", "sense" : "get in touch with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…联系", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "link", "POS" : "n", "sense" : "connection", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联系，关系", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "tie", "POS" : "n", "sense" : "bond", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "联系，关系", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "touch", "POS" : "n", "sense" : "contact", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "接触，触摸，抚摸", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "联系，接触", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "touch", "POS" : "n", "sense" : "communication", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联系，交际", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "bond", "POS" : "n", "sense" : "union", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联系，纽带", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "radio", "POS" : "vtr", "sense" : "use two-way radio", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "用无线电传送", "POS" : "vtr", "sense" : "单向运作"}, 
+		"SecondTranslation" : {"term" : "用无线通讯与…联系", "POS" : "vtr", "sense" : "双向运作"}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "relation", "POS" : "n", "sense" : "how connected", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "关系，联系", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "associate", "POS" : "vtr", "sense" : "connect", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联合 ， 结合", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "联想 ， 联系", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "association", "POS" : "n", "sense" : "act of associating", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联合 ， 结合", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "联想 ， 联系", "POS" : "n", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "n", "POS" : "", "sense" : "交往"}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "connection", "POS" : "n", "sense" : "link, association", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "关系，联系，关联", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "linkage", "POS" : "n", "sense" : "connection, association", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联系，关联", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "linkage", "POS" : "n", "sense" : "act of connecting", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "连接，联系", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "interconnect", "POS" : "vtr", "sense" : "connect up, link", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "连接，联系", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "nexus", "POS" : "n", "sense" : "connection, centre", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联系，关系", "POS" : "n", "sense" : "事物之间的"}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "concatenation", "POS" : "n", "sense" : "act of linking or connecting", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "连接，串联，联系", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "linkup", "POS" : "n", "sense" : "connection, contact", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "连接，联系，会合", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "osculate, osculate sth", "POS" : "vtr", "sense" : "come in contact with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "接触，联系，交往", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "be in touch", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联系，保持联系", "POS" : "", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "get onto", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "骑上（马等），登上（车等）", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "与…联系，接触", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "学会，掌握", "POS" : "", "sense" : ""}, 
+		"FourthTranslation" : {"term" : "察觉，发现（秘密等）", "POS" : "", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "associate with", "POS" : "vtr", "sense" : "keep the company of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…打交道，和…来往，联系…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "common bond", "POS" : "n", "sense" : "sth shared, unifying", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "共同的纽带，联系", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "get on to", "POS" : "vtr", "sense" : "contact", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "联系，联络", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "in association with", "POS" : "prep", "sense" : "jointly with, in conjunction with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…联系，与…联合", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "in contact with", "POS" : "prep", "sense" : "corresponding or communicating with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…（保持）联系", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "make contact with", "POS" : "vtr", "sense" : "contact, communicate with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "联系，联络", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "put on to", "POS" : "vtr", "sense" : "put in touch with", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "联系（某人）", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "try to reach", "POS" : "vtr", "sense" : "attempt to get in touch with", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "试着联系…，设法与…联系", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "in touch", "POS" : "adv", "sense" : "into contact", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "接触，联系", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "touch base", "POS" : "v", "sense" : "make contact", "usage" : "figurative, informal"}, 
+		"FirstTranslation" : {"term" : "接触，联系，联络", "POS" : "v", "sense" : "比喻，非正式用语"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

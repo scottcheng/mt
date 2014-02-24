@@ -1,0 +1,20 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "深情", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "profound feeling, deep love", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "love", "POS" : "n", "sense" : "person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "爱，爱恋，爱意，深情，钟情", "POS" : "n", "sense" : "特指，对人"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "fondness", "POS" : "n", "sense" : "affection, tenderness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "钟爱，深情，痴情", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "溺爱，慈爱", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "devotion", "POS" : "n", "sense" : "attachment: to a person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "挚爱，关爱", "POS" : "n", "sense" : "对人"}, 
+		"SecondTranslation" : {"term" : "深情，用情致深", "POS" : "n", "sense" : "对伴侣、情人"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

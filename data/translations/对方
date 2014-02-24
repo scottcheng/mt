@@ -1,0 +1,21 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "对方", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "the opposite side", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "each other", "POS" : "prep", "sense" : "reciprocally", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "互相，彼此，对方", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "skunk", "POS" : "vtr", "sense" : "game: others do not score", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "使（对方）得零分", "POS" : "vtr", "sense" : "游戏"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "opposing", "POS" : "adj", "sense" : "sport: opponent", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对方，对手", "POS" : "adj", "sense" : "运动"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "opposing", "POS" : "adj", "sense" : "military: enemy", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对方，敌方", "POS" : "adj", "sense" : "军事"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

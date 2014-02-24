@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "阴暗", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "dark, gloomy", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "blackness", "POS" : "n", "sense" : "darkness, lack of light", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "黑暗，漆黑，阴暗", "POS" : "n", "sense" : "缺少光照"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "obscurity", "POS" : "n", "sense" : "darkness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "阴暗，黑暗", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

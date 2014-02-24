@@ -1,0 +1,48 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "也", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "too, also", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "either", "POS" : "adv", "sense" : "'also' in the negative", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "也", "POS" : "adv", "sense" : "否定句中"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "also", "POS" : "adv", "sense" : "too", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "也，同样", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "also", "POS" : "adv", "sense" : "likewise", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "同样地，也", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "and", "POS" : "conj", "sense" : "as opposed to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "也，还", "POS" : "conj", "sense" : "表示对比"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "so", "POS" : "adv", "sense" : "too, also", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "同样，亦，也，也一样", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "too", "POS" : "adv", "sense" : "also", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "也，还", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "too", "POS" : "adv", "sense" : "as well as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "还，也，又", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "besides", "POS" : "adv", "sense" : "as well", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "也，此外还", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "as well", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "也，又", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "同样地，完全有理由地", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "还不如", "POS" : "", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "as well as", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "除…之外（也）", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "与…（程度）一样", "POS" : "", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "and also", "POS" : "conj", "sense" : "and in addition, and … as well", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "此外，也，还", "POS" : "conj", "sense" : "非正式用语"}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "in addition to", "POS" : "prep", "sense" : "as well as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "除了…之外，还…，也…", "POS" : "prep", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

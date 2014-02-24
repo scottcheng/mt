@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "称", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "name as", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "name, title", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "weigh", "POS" : "", "sense" : ""}, 
+		"FourthTranslation" : {"term" : "fit, match", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "term", "POS" : "vtr", "sense" : "express", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "称…为", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

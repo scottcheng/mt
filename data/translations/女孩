@@ -1,0 +1,24 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "女孩", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "girl", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "girl", "POS" : "n", "sense" : "adolescent female", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "女孩，姑娘", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "girl", "POS" : "n", "sense" : "female child", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "女孩，女童", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "number", "POS" : "n", "sense" : "girl, young woman", "usage" : "slang, dated"}, 
+		"FirstTranslation" : {"term" : "女孩，青年女子", "POS" : "n", "sense" : "俚语，过时用语"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "gal", "POS" : "n", "sense" : "girl", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "女孩，少女，女生", "POS" : "n", "sense" : "非正式用语"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "colleen", "POS" : "n", "sense" : "Irish word for 'girl'", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "少女，女孩", "POS" : "n", "sense" : "爱尔兰语"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

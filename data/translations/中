@@ -1,0 +1,67 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "中", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "middle, center", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "among", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "during, in the process of", "POS" : "", "sense" : ""}, 
+		"FourthTranslation" : {"term" : "China, Chinese", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "in", "POS" : "prep", "sense" : "inside", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…内，在…中，在…里面", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "in", "POS" : "prep", "sense" : "transition of state", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "达到或处于…状态或情况，处于…中，在…情形下", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "bed", "POS" : "vtr", "sense" : "place in a layer", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…放入一层…中", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "case", "POS" : "vtr", "sense" : "put in a case", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "把…装入容器（如箱子、盒、套等）中", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "box", "POS" : "vtr", "sense" : "put in a box", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "把…装入盒（箱）中", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "pull", "POS" : "vtr", "sense" : "extract", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "(从…中)取出，拿出", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "roll, roll sth", "POS" : "vtr", "sense" : "envelop", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "用…把…包裹起来，把…卷进…中", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "crate", "POS" : "vtr", "sense" : "encase", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "把…装入板条箱（柳条箱等）中", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "amongst", "POS" : "prep", "sense" : "in the midst of", "usage" : "UK"}, 
+		"FirstTranslation" : {"term" : "在…中间，在…中，在…之中，在…其中", "POS" : "prep", "sense" : ""}, "Note" : "英国英语"},
+	"9" :{
+		"OriginalTerm" : { "term" : "amongst", "POS" : "prep", "sense" : "divided: between", "usage" : "UK"}, 
+		"FirstTranslation" : {"term" : "在…中，在…当中", "POS" : "prep", "sense" : "分配或选择"}, "Note" : "英国英语"},
+	"10" :{
+		"OriginalTerm" : { "term" : "amid", "POS" : "prep", "sense" : "in the middle of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…中，四周是", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "outta", "POS" : "prep", "sense" : "out of", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "从…离开", "POS" : "prep", "sense" : "非正式用语"}, 
+		"SecondTranslation" : {"term" : "从…中（取、拿）出", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "sheathe, sheathe sth", "POS" : "vtr", "sense" : "place in a protective cover", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "覆盖…，将…装入保护套（外壳）中", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "enter into", "POS" : "vtr", "sense" : "involve oneself in", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "使自己卷入…，参与到…中", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "on the road", "POS" : "adv", "sense" : "on tour", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在巡回（演出）中", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "put in", "POS" : "vtr", "sense" : "insert, place inside", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "插入…，把…放入…中", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "soak in", "POS" : "vi", "sense" : "liquid: be absorbed", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "浸泡，泡在（液体）中", "POS" : "vi", "sense" : "本义"}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "consist in", "POS" : "vtr", "sense" : "be part of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "存在于…中", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

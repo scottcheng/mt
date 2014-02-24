@@ -1,6 +1,7 @@
+import json
 import string
 
-def read_sentences(f):
+def extract_sentences(f):
     """Read sentences from file f."""
     sentences = []
     with open(f) as infile:
@@ -12,13 +13,17 @@ def read_sentences(f):
 
     return sentences
 
+def read_json(json_file):
+    with open(json_file, 'rb') as in_file:
+        return json.load(in_file)
+
 if __name__ == '__main__':
     import sys
     if len(sys.argv) < 2:
         print 'python %s <sentence_file>' % sys.argv[0]
         sys.exit(-1)
 
-    sts = read_sentences(sys.argv[1])
+    sts = extract_sentences(sys.argv[1])
     print 'read', len(sts), 'sentences:'
     for i, st in enumerate(sts, 1):
         print i, st

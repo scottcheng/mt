@@ -1,0 +1,76 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "问题", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "question, issue", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "case", "POS" : "n", "sense" : "question", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "issue", "POS" : "n", "sense" : "problem, dispute", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题，议题，争议，争端", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "issue", "POS" : "n", "sense" : "problems", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题，难题", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "issue", "POS" : "n", "sense" : "question", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题，事件", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "problem", "POS" : "n", "sense" : "difficulty", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "困难，问题，麻烦，毛病，不妥之处", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "problem", "POS" : "n", "sense" : "question", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题，事务，麻烦", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "problem", "POS" : "n", "sense" : "math", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题，题目，作业", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "matter", "POS" : "n", "sense" : "concern", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题，有争议的问题", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "matter", "POS" : "n", "sense" : "situation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "事态，问题，状况", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "matter", "POS" : "n", "sense" : "difficulty with sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（什么东西有）困难，麻烦，问题", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "put", "POS" : "vtr", "sense" : "a question", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "提出（问题），发问", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "question", "POS" : "n", "sense" : "query", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题，疑问", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "question", "POS" : "n", "sense" : "matter, doubt", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "难题，问题，争议", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "疑问，不确定", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "question", "POS" : "n", "sense" : "problem", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题，难题", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "raise", "POS" : "vtr", "sense" : "question: bring forward", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "提出（…问题），提及（…问题）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "glitch", "POS" : "n", "sense" : "problem", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题，障碍", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "snag", "POS" : "n", "sense" : "problem: unexpected", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "障碍，问题，困难", "POS" : "n", "sense" : "意料之外的"}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "woe", "POS" : "n", "sense" : "problem", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "困难，问题，麻烦", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "poser", "POS" : "n", "sense" : "question, puzzle", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "问题，谜题，难题", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "thrash out", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "通过讨论解决（问题）", "POS" : "", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "trouble with", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（某人\/某方面的）问题", "POS" : "", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "come up", "POS" : "vi", "sense" : "topic: be raised, mentioned", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "（观点，问题）被提出", "POS" : "vi", "sense" : "比喻"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

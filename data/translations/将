@@ -1,0 +1,162 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "将", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "commander in chief, general", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "will, would, shall", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "will", "POS" : "v aux", "sense" : "future: prediction or schedule", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将，会", "POS" : "v aux", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "group", "POS" : "vtr", "sense" : "classify", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…分类，将…归类", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "launch", "POS" : "vtr", "sense" : "marketing: introduce", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "推出，将...投放市场", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "discount", "POS" : "vtr", "sense" : "finance", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…贴现", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "lean", "POS" : "vtr", "sense" : "incline sthg against", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…斜靠", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "title, title sth", "POS" : "vtr", "sense" : "name", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…加标题，将…题为", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "deem", "POS" : "vtr", "sense" : "view as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…视为，把…看作，认为", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "pocket", "POS" : "vtr", "sense" : "money: take", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将（钱）据为己有", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "redeem", "POS" : "vtr", "sense" : "finance: bonds", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…兑取成现金，兑现", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "reduce", "POS" : "vtr", "sense" : "to simple explanation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…概括成，将…简化为", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "reset", "POS" : "vtr", "sense" : "return to original state", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…恢复原状", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "warehouse", "POS" : "vtr", "sense" : "keep in warehouse", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "把…入库，将…储存在仓库", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "zone", "POS" : "vtr", "sense" : "land use", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…分区，对…进行区域或范围划分，把…划作特殊区域", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "butcher", "POS" : "vtr", "sense" : "do a bad job", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将（某事物）弄得一团糟", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "dice", "POS" : "vtr", "sense" : "culinary: cut", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将（肉、菜等）切成丁", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "quench", "POS" : "vi, vtr", "sense" : "metallurgy: cool by submersion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "淬火", "POS" : "vi", "sense" : "冶金"}, 
+		"SecondTranslation" : {"term" : "将…淬火", "POS" : "vtr", "sense" : "冶金"}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "rice", "POS" : "vtr", "sense" : "culinary: chop", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将...压成米粒状", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "ban", "POS" : "vtr", "sense" : "expel, block from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将...逐出教门", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "anchor", "POS" : "vtr", "sense" : "fix in ground", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "使稳固 ， 将…固定住", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "encapsulate", "POS" : "vtr", "sense" : "put in a capsule", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…装入胶囊", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "mould", "POS" : "vtr", "sense" : "sb's personality", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "使形成，将…塑造成", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "utilize", "POS" : "vtr", "sense" : "put to practical use", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…投入实用，应用", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "behead", "POS" : "vtr", "sense" : "decapitate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "斩…的头，将…杀头", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "downplay", "POS" : "vtr", "sense" : "minimize importance of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "轻视…，将…轻描淡写，对…不予重视", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "evict", "POS" : "vtr", "sense" : "force out of house", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将（房客，租户等）赶出，逐出（住户）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "expatriate", "POS" : "vtr", "sense" : "exile, deport", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…流放（国外），放逐，将…逐出（本国）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "jumble", "POS" : "vtr", "sense" : "mix up", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…混杂在一起", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "nestle", "POS" : "vtr", "sense" : "press closely", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将 头、脸、肩膀等贴靠", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "soaking", "POS" : "adj", "sense" : "laundry: immersed in water", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将（衣物）浸泡在水中的", "POS" : "adj", "sense" : "洗衣"}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "subsume", "POS" : "vtr", "sense" : "put in broader category", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…归入\/纳入某一类", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "subsume", "POS" : "vtr", "sense" : "include, swallow up", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "包括，将…包含在内", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "categorize", "POS" : "vtr", "sense" : "classify", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…分类，归类", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "coop", "POS" : "vtr", "sense" : "confine, enclose", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…关进笼子", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "把…拘禁起来", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "bequeath", "POS" : "vtr", "sense" : "hand down", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "将…传给（后代）", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "digitize", "POS" : "vtr", "sense" : "convert to digital form", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…数字化", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "remand", "POS" : "vtr", "sense" : "law: send back into custody", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…还押候审", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "syndicate", "POS" : "vtr", "sense" : "combine, unite", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…组成辛迪加", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "transcribe", "POS" : "vtr", "sense" : "transliterate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "译，将…改写为文字，把…译成文字", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"38" :{
+		"OriginalTerm" : { "term" : "overcook", "POS" : "vtr", "sense" : "cook for too long", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…煮得过久，使…烹调过度", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"39" :{
+		"OriginalTerm" : { "term" : "pulverize", "POS" : "vtr", "sense" : "crush, grind to dust", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "磨碎，将…弄成粉末，研磨成粉末", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"40" :{
+		"OriginalTerm" : { "term" : "relegate", "POS" : "vtr", "sense" : "sport: assign to lower division", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "使…降级，将…降级", "POS" : "vtr", "sense" : "体育运动中"}, "Note" : ""},
+	"41" :{
+		"OriginalTerm" : { "term" : "crucify", "POS" : "vtr", "sense" : "put to death on a cross", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "将…钉死在十字架上", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"42" :{
+		"OriginalTerm" : { "term" : "dissociate", "POS" : "vtr", "sense" : "distance, separate: from sth or sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…与…分开，使分离", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"43" :{
+		"OriginalTerm" : { "term" : "distract attention from", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…的注意力吸引过来", "POS" : "", "sense" : ""}, "Note" : ""},
+	"44" :{
+		"OriginalTerm" : { "term" : "contrast with", "POS" : "vtr", "sense" : "note differences with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…与…进行对比", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"45" :{
+		"OriginalTerm" : { "term" : "cram in", "POS" : "vtr", "sense" : "fit in: a large amount", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "勉强塞入，将…挤进去，把…塞进去", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"46" :{
+		"OriginalTerm" : { "term" : "dispose of", "POS" : "vtr", "sense" : "get rid of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…处理掉", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"47" :{
+		"OriginalTerm" : { "term" : "draw up", "POS" : "vtr", "sense" : "come forward, move closer", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…拉上前，使靠近", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"48" :{
+		"OriginalTerm" : { "term" : "follow-through", "POS" : "n", "sense" : "act of continuing to completion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…进行到底，坚持", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"49" :{
+		"OriginalTerm" : { "term" : "hedge in", "POS" : "vtr", "sense" : "enclose, surround", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…围起来，包围…", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

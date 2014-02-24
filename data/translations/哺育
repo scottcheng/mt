@@ -1,0 +1,12 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "哺育", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "feed; nurture, foster", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "nursing", "POS" : "n", "sense" : "suckling, feeding infant", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "哺育，喂奶", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,26 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "该", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "should, ought to", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "deserve", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "serve somebody right", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "should", "POS" : "v aux", "sense" : "would", "usage" : "dated"}, 
+		"FirstTranslation" : {"term" : "情愿，该", "POS" : "v aux", "sense" : "过时用法，相当于would，表示意愿"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "should, should have", "POS" : "v aux", "sense" : "failed possibility", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（本来）应该，（本）该", "POS" : "v aux", "sense" : "表示应该实现但是没有实现的可能"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "should", "POS" : "v aux", "sense" : "decision", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "该，应该", "POS" : "v aux", "sense" : "表示决定"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "said", "POS" : "adj", "sense" : "mentioned", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "提到的，该", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "would", "POS" : "v", "sense" : "in conditional", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "就，该", "POS" : "v", "sense" : "虚拟语气"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

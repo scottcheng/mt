@@ -1,0 +1,30 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "愿意", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "be willing to", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "will", "POS" : "v aux", "sense" : "be willing or disposed to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "愿意，愿", "POS" : "v aux", "sense" : "表示意愿"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "will", "POS" : "vi", "sense" : "wish, desire", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "愿意，希望，想要", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "readiness", "POS" : "n", "sense" : "willingness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "愿意，乐意", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "eagerness", "POS" : "n", "sense" : "willingness, readiness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "愿意，情愿，乐于", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "love to", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "喜欢，愿意", "POS" : "", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "ready and willing", "POS" : "adj", "sense" : "keen to do sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "愿意（做某事）的，乐于…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "be willing to", "POS" : "vtr", "sense" : "agree freely to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自愿去…，愿意…", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

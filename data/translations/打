@@ -1,0 +1,102 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "打", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "beat", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "fight", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "smash", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "place", "POS" : "vtr", "sense" : "call", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打（电话）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "play", "POS" : "vtr", "sense" : "sports, games", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "踢（球），打（球）", "POS" : "vtr", "sense" : "运动"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "design, design sth", "POS" : "vtr", "sense" : "sketch", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "画设计草图", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "画草图，打…的图样", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "put", "POS" : "vtr", "sense" : "wager", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打…的赌，下…赌注", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "beat", "POS" : "vtr", "sense" : "strike repeatedly", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（连续地）打、击", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "敲，击", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "beat", "POS" : "vtr", "sense" : "eggs", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "快速搅拌（蛋液等），打（蛋）", "POS" : "vtr", "sense" : "蛋"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "hit", "POS" : "vi", "sense" : "strike a blow", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打，击", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "hit, hit sb", "POS" : "vtr", "sense" : "punch: sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "击，打，敲，打击", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "lay", "POS" : "vtr", "sense" : "install", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打（地基等），安设", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "tie", "POS" : "vtr", "sense" : "make a knot in", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（在…）打（结）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "hole", "POS" : "vtr", "sense" : "dig", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "挖（洞），打（洞）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "pull", "POS" : "vtr", "sense" : "printing: take a sample", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打（样），打印（样张）", "POS" : "vtr", "sense" : "印刷"}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "strike, strike sth or sb", "POS" : "vtr", "sense" : "hit", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打，击，打击", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "flag", "POS" : "vtr", "sense" : "taxi", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "使（出租车）停下，打（车）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "beating", "POS" : "n", "sense" : "hitting", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打 ， 敲打", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "dozen", "POS" : "n", "sense" : "twelve", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "十二个，打", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "hiding", "POS" : "n", "sense" : "punishment by hitting", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "鞭打，打", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "knock", "POS" : "vi", "sense" : "hit", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "击、打", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "smack", "POS" : "vtr", "sense" : "hit with open hand", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打，掴", "POS" : "vtr", "sense" : "用掌"}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "spank", "POS" : "vtr", "sense" : "hit as punishment", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打……屁股", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "wager", "POS" : "vtr", "sense" : "money, bet", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "下（赌注），打（赌）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "drill", "POS" : "vtr", "sense" : "make hole with drill", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "钻（孔），打（孔），在…上钻孔", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "cuff", "POS" : "vtr", "sense" : "hit", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "拍，打，用手掌打", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "twat", "POS" : "vtr", "sense" : "hit, strike", "usage" : "UK, vulgar"}, 
+		"FirstTranslation" : {"term" : "打，袭击，给…一下狠的", "POS" : "vtr", "sense" : ""}, "Note" : "英国用法，粗俗用语"},
+	"24" :{
+		"OriginalTerm" : { "term" : "biff, biff sb", "POS" : "n", "sense" : "hit, punch", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "打，猛击", "POS" : "n", "sense" : "非正式用语"}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "biff, biff sb", "POS" : "vtr", "sense" : "punch, hit", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "打，猛击", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "beat up", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "抬高（价格）", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "打（蛋）", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "痛打，毒打", "POS" : "", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "punch out", "POS" : "vtr", "sense" : "make perforations", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（用专用工具）打（孔），钻（孔）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "tap out", "POS" : "vtr", "sense" : "beat: a rhythm", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打（拍子）", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

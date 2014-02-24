@@ -1,0 +1,16 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "坏", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "bad, evil", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "go bad", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "bad", "POS" : "n", "sense" : "bad condition", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不良状态，坏", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "evil", "POS" : "n", "sense" : "moral badness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "邪恶，坏，恶", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

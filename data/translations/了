@@ -1,0 +1,12 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "了", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "finish, complete", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "have no more of sth", "POS" : "vtr", "sense" : "have used up the supply of sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有更多的…了，就这些了", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

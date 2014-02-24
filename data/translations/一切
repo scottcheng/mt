@@ -1,0 +1,25 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "一切", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "all", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "anything", "POS" : "pron", "sense" : "all that is", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一切，无论什么", "POS" : "pron", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "everything", "POS" : "pron", "sense" : "all things", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "每件事，所有事物，一切", "POS" : "pron", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "aught", "POS" : "n", "sense" : "anything, all", "usage" : "archaic"}, 
+		"FirstTranslation" : {"term" : "任何事物", "POS" : "n", "sense" : "古语"}, 
+		"SecondTranslation" : {"term" : "全部，一切", "POS" : "n", "sense" : "古语"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "all that", "POS" : "n", "sense" : "everything that, everything which", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "所有，一切", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "ball of wax", "POS" : "n", "sense" : "everything", "usage" : "US, slang"}, 
+		"FirstTranslation" : {"term" : "一切，所有的东西", "POS" : "n", "sense" : "美国用法，俚语"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

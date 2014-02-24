@@ -1,0 +1,18 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "政治", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "politics", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "action", "POS" : "n", "sense" : "political measures", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（政治）行动", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "cabal", "POS" : "n", "sense" : "secret society or group", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（政治、社会上的）秘密组织，阴谋小集团、派系等", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "hustings", "POS" : "n", "sense" : "politics: election rally", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（政治）竞选活动，选举运动（演说、游说等）", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

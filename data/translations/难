@@ -1,0 +1,10 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "难", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "hard, difficult", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "impossible", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "tragedy,  catastrophe", "POS" : "", "sense" : ""}, "Note" : ""}},
+"Lines" : "End Reached", "END" : true
+}

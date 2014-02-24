@@ -1,0 +1,117 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "是", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "be", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "yes", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "be", "POS" : "vi", "sense" : "belong", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是", "POS" : "vi", "sense" : "表示所属（职业）"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "is", "POS" : "v pres", "sense" : "he, she, it: present indicative for 'to be'", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是", "POS" : "v pres", "sense" : ""}, "Note" : "be 的第三人称单数现在时"},
+	"2" :{
+		"OriginalTerm" : { "term" : "am", "POS" : "v pres", "sense" : "1st person singular of be", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是", "POS" : "v pres", "sense" : ""}, "Note" : "be 的第一人称单数"},
+	"3" :{
+		"OriginalTerm" : { "term" : "are", "POS" : "v pres", "sense" : "present indicative of be", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在，存在", "POS" : "v pres", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "是，就是", "POS" : "v pres", "sense" : ""}, "Note" : "be 的现在式，复数形式"},
+	"4" :{
+		"OriginalTerm" : { "term" : "make", "POS" : "vtr", "sense" : "total", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "等于，是…的总和", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "of", "POS" : "prep", "sense" : "from: derivation, origin", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "来自…，属于…的，是…的", "POS" : "prep", "sense" : "表示地域、国籍"}, 
+		"SecondTranslation" : {"term" : "出自…，产自…，产于…", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "on", "POS" : "prep", "sense" : "liability", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是...的任务（责任)", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "or", "POS" : "conj", "sense" : "connects alternatives", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（是…）还是", "POS" : "conj", "sense" : "连接词"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "see", "POS" : "vtr", "sense" : "regard as, consider", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "认为…是，把…看作", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "follow", "POS" : "vtr", "sense" : "result from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "随…之后发生，是…的结果", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "result", "POS" : "vi", "sense" : "be the outcome", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "结果是，归结为，是…的结果", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "why", "POS" : "conj", "sense" : "for what reason", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是…的理由", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "why", "POS" : "conj", "sense" : "on account of which", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是…的原因", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "yes", "POS" : "adv", "sense" : "affirmatively", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是，是的，对", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "yes", "POS" : "adv", "sense" : "affirmative, emphatic reply to negation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是，对，没错", "POS" : "adv", "sense" : "肯定回答"}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "behind", "POS" : "prep", "sense" : "responsible", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…的幕后，是…的潜在原因", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "belong, belong to", "POS" : "vi", "sense" : "be a member", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是…的成员", "POS" : "vi", "sense" : "人"}, 
+		"SecondTranslation" : {"term" : "隶属", "POS" : "vi", "sense" : "机构、单位"}, "Note" : "与to连用"},
+	"17" :{
+		"OriginalTerm" : { "term" : "determine", "POS" : "vtr", "sense" : "outcome", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是…的决定因素，形成，影响", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "divide", "POS" : "vtr", "sense" : "separate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "分，分开，分割", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "分隔，使隔开，是…的分界线", "POS" : "vtr", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "使分开，使分离", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "double", "POS" : "vtr", "sense" : "mathematics", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "把…增加一倍，是…的两倍", "POS" : "vtr", "sense" : "数学"}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "headline", "POS" : "vtr", "sense" : "be the star of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成为重要人物，是…的主角", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "yeah", "POS" : "exclm", "sense" : "yes", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "是，对，嗯", "POS" : "exclm", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "possess", "POS" : "vtr", "sense" : "legally own", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "拥有，是…的所有者", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "frequent", "POS" : "vtr", "sense" : "visit often", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "经常光顾，是…的常客", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "personify", "POS" : "vtr", "sense" : "typify, embody", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是…的典型，是…的化身", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "yep", "POS" : "interj", "sense" : "yes", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "是，是的", "POS" : "interj", "sense" : "俚语"}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "aye", "POS" : "interj", "sense" : "yes", "usage" : "UK, regional"}, 
+		"FirstTranslation" : {"term" : "是，对", "POS" : "interj", "sense" : "英国用法，方言"}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "contribute to", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "捐献，捐赠", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "为…撰稿", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "促成，引起，是…的部分原因", "POS" : "", "sense" : ""}, 
+		"FourthTranslation" : {"term" : "做出贡献，出一分力", "POS" : "", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "descend from", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "起源于…，是…的后裔", "POS" : "", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "do credit to", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "归功于…，是…的功劳", "POS" : "", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "aye-aye", "POS" : "interj", "sense" : "to a senior naval officer: yes", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是的，是", "POS" : "interj", "sense" : "古英语，海军沿用至今，士兵回答长官的话，相当于：yes"}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "is the responsibility of", "POS" : "prep", "sense" : "is the duty of, falls to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是…的责任", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "proper to", "POS" : "prep", "sense" : "characteristic of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是…特有的，为…的特色", "POS" : "prep", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

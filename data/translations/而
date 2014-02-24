@@ -1,0 +1,28 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "而", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "and", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "but", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "when", "POS" : "adv", "sense" : "whereas", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "而，然而，可是", "POS" : "adv", "sense" : "转折语"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "overcome", "POS" : "adj", "sense" : "exhausted", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "精疲力尽的，（因…而）耗尽的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "shame", "POS" : "vtr", "sense" : "motivate with shame", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "使人痛感羞愧（难为情）而...", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "whilst", "POS" : "conj", "sense" : "whereas", "usage" : "UK"}, 
+		"FirstTranslation" : {"term" : "然而，而", "POS" : "conj", "sense" : "英国用法"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "absorbed by", "POS" : "adj", "sense" : "person: engrossed in", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "（因为…而）全神贯注", "POS" : "", "sense" : "比喻，人"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "absorbed in", "POS" : "adj", "sense" : "engrossed in", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（因为…而）全神贯注", "POS" : "", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

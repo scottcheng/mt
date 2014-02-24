@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "男孩", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "boy", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "boy", "POS" : "n", "sense" : "young man", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "男孩", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "lad", "POS" : "n", "sense" : "boy", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "男孩，小伙子", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

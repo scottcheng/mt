@@ -1,0 +1,58 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "不", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "no, not", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "nay", "POS" : "adv", "sense" : "no", "usage" : "archaic, official or humorous"}, 
+		"FirstTranslation" : {"term" : "不", "POS" : "adv", "sense" : "古语，官方用语或幽默用语"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "not even", "POS" : "interj", "sense" : "no!  ", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "不", "POS" : "interj", "sense" : "俚语"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "any", "POS" : "adv", "sense" : "at all", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "根本（不），一点也（不）", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "no", "POS" : "adv", "sense" : "negative for refusal", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不，不行，不好，不可以", "POS" : "adv", "sense" : "表示拒绝"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "no", "POS" : "adv", "sense" : "dissent", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不，不同意", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "no", "POS" : "adv", "sense" : "denial", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不，不行", "POS" : "adv", "sense" : "表示否认"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "not", "POS" : "adv", "sense" : "negation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不，不是，没，没有", "POS" : "adv", "sense" : "表示否定"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "bad", "POS" : "adj", "sense" : "insensitive", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不（礼貌的），对人态度差的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "whatsoever", "POS" : "adj", "sense" : "at all", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一点…都（不），丝毫（不）", "POS" : "adj", "sense" : "用在与no, any连用的名词后"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "nope", "POS" : "adv", "sense" : "no", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "不，不行", "POS" : "adv", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "没有", "POS" : "adv", "sense" : ""}, "Note" : "非正式用语"},
+	"10" :{
+		"OriginalTerm" : { "term" : "nay", "POS" : "interj", "sense" : "no", "usage" : "archaic"}, 
+		"FirstTranslation" : {"term" : "不！", "POS" : "interj", "sense" : "古语"}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "nae", "POS" : "interj", "sense" : "no", "usage" : "Scot"}, 
+		"FirstTranslation" : {"term" : " 不！不行！", "POS" : "interj", "sense" : "苏格兰用法"}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "nah", "POS" : "interj", "sense" : "no", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : " 不！不行！", "POS" : "interj", "sense" : "俚语"}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "abstainer", "POS" : "n", "sense" : "teetotaller", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不（饮酒、吸烟等）的人，戒绝不良习惯者", "POS" : "n", "sense" : "人"}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "nonjudgmental, non-judgmental, UK: nonjudgemental, non-judgemental", "POS" : "adj", "sense" : "not morally critical", "usage" : "US"}, 
+		"FirstTranslation" : {"term" : "不（按照个人好恶）进行道德评判的，客观评定的", "POS" : "adj", "sense" : "美国用法"}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "no ma'am", "POS" : "interj", "sense" : "no, madam", "usage" : "formal"}, 
+		"FirstTranslation" : {"term" : "不，夫人；没有，夫人；不是的，夫人", "POS" : "interj", "sense" : "正式用语"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

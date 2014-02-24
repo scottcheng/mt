@@ -1,0 +1,23 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "get", "POS" : "vi", "sense" : "become", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "变得", "POS" : "vi", "sense" : "非正式用语"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "become", "POS" : "vi", "sense" : "grow to be", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "变成，成为，变得", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "run", "POS" : "vi", "sense" : "become", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "变得，成为", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "take", "POS" : "vi", "sense" : "become", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成为，变为，变得", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "fall", "POS" : "vi", "sense" : "become", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "变得，成为", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "overheat", "POS" : "vi", "sense" : "become too hot", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（变得）过热，加热过度", "POS" : "vi", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

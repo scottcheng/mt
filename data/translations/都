@@ -1,0 +1,30 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "都", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "both, all", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "already", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "capital", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "both", "POS" : "pron", "sense" : "one as well as another", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "两个（都），两人（都）", "POS" : "pron", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "both", "POS" : "adj", "sense" : "one and the other thing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "两个（…都），两者（…都）", "POS" : "adj", "sense" : "事物"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "both", "POS" : "adj", "sense" : "one and the other person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "两个…（都）", "POS" : "adj", "sense" : "人"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "alike", "POS" : "adv", "sense" : "in the same manner", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "同样地，类似，差不多", "POS" : "adv", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "同样地，两者（或更多的）都…", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "already", "POS" : "adv", "sense" : "so soon", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "都，已经", "POS" : "adv", "sense" : "表示惊奇"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "whatsoever", "POS" : "adj", "sense" : "at all", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一点…都（不），丝毫（不）", "POS" : "adj", "sense" : "用在与no, any连用的名词后"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

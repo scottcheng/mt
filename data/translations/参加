@@ -1,0 +1,78 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "参加", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "participate, take part in", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "take part", "POS" : "vi", "sense" : "participate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参加", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "at", "POS" : "prep", "sense" : "presence", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参加，出席", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "into", "POS" : "prep", "sense" : "profession, hobby", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从事，入行，参加…工作", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "play", "POS" : "vi", "sense" : "take part in", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参与，参加", "POS" : "vi", "sense" : "比赛、游戏等"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "attend", "POS" : "vtr", "sense" : "be present", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "出席，参加，到场", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "attend", "POS" : "vi", "sense" : "be present", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "出席，参加，到场", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "hear", "POS" : "vtr", "sense" : "mass: attend", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "出席，参加（弥撒）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "sit", "POS" : "vtr", "sense" : "take an exam", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参加…考试", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "start", "POS" : "vi", "sense" : "participate in an event", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参加，参与", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "join", "POS" : "vtr", "sense" : "become a member of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成为…的一员，参加，加入", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "input", "POS" : "n", "sense" : "participation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参与，参加", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "engage", "POS" : "vtr", "sense" : "in conversation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参加，参与", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "participation", "POS" : "n", "sense" : "action in group", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参与，参加", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "rope, rope into", "POS" : "vtr", "sense" : "make do sth", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "说服…参加", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "attendance", "POS" : "n", "sense" : "going to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "出席 ， 参加", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "partake", "POS" : "vi", "sense" : "participate, take part", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参与，参加", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "compete in", "POS" : "vtr", "sense" : "take part in: a sports event", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参加…的比赛，在…领域竞赛", "POS" : "vtr", "sense" : "体育"}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "get in on", "POS" : "v", "sense" : "obtain a part in, share in", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参加，加入", "POS" : "v", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "involve yourself", "POS" : "v", "sense" : "participate, contribute", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参加，参与", "POS" : "v", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "join in sth", "POS" : "v", "sense" : "participate in sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参与，参加", "POS" : "v", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "take part in", "POS" : "vtr", "sense" : "join in with, participate in", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参加，参与", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "turn out", "POS" : "vi", "sense" : "attend", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "出席，参加", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "join in", "POS" : "vi", "sense" : "participate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "加入，参加", "POS" : "vi", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

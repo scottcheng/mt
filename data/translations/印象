@@ -1,0 +1,24 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "印象", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "impression", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "impression", "POS" : "n", "sense" : "impress others", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "印象", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "show", "POS" : "n", "sense" : "impression", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "印象，外表，外观", "POS" : "n", "sense" : "非正式用语"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "feeling", "POS" : "n", "sense" : "impression", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "印象，感觉，想法", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "idea", "POS" : "n", "sense" : "impression", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "印象，模糊的想法，感觉", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "image", "POS" : "n", "sense" : "perception: personal", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "印象，概念", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

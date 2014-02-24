@@ -1,0 +1,12 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "雷达", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "radar", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "radar", "POS" : "n", "sense" : "location device", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "雷达", "POS" : "n", "sense" : "无线电探测定位设备"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

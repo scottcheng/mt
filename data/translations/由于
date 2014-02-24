@@ -1,0 +1,86 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "by reason of", "POS" : "prep", "sense" : "because of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "by virtue of", "POS" : "prep", "sense" : "because of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "after", "POS" : "prep", "sense" : "because of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于，鉴于", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "as", "POS" : "conj", "sense" : "because", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "因为，由于", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "at", "POS" : "prep", "sense" : "cause", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "因为，由于", "POS" : "prep", "sense" : "原因"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "for", "POS" : "prep", "sense" : "because of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "因为，由于", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "for", "POS" : "prep", "sense" : "because of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "因为，由于", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "for", "POS" : "conj", "sense" : "because, since", "usage" : "formal, written"}, 
+		"FirstTranslation" : {"term" : "因为，由于", "POS" : "conj", "sense" : "正式用语，书面语"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "from", "POS" : "prep", "sense" : "as a result of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于，因为", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "through", "POS" : "prep", "sense" : "due to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "因为，由于，靠着  ", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "through", "POS" : "prep", "sense" : "because of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "因为，由于", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "with", "POS" : "prep", "sense" : "owing to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于，因为", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "under", "POS" : "prep", "sense" : "because of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于，因为，在（原因、条件）之下", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "due, due to", "POS" : "adj", "sense" : "owing, because of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "因为，由于", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "owing", "POS" : "adj", "sense" : "due to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于，因为", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "seeing", "POS" : "conj", "sense" : "considering", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于…，鉴于…", "POS" : "conj", "sense" : "连词"}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "attributable", "POS" : "adj", "sense" : "that can be ascribed", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "可归因于…的，由于…原因的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "because of", "POS" : "conj", "sense" : "due to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "因为，由于，由于…的缘故", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "due to", "POS" : "adj", "sense" : "caused by, because of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "因为，由于", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "for that reason", "POS" : "adv", "sense" : "consequently", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "鉴于此，由于…缘故，因为…原因", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "forasmuch as", "POS" : "conj", "sense" : "since", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "鉴于，既然，由于", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "in consequence", "POS" : "adv", "sense" : "as a result", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "结果，因此，由于", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "in consequence of", "POS" : "prep", "sense" : "resulting from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于…的缘故，因为…", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "in consideration of", "POS" : "prep", "sense" : "in view of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "考虑到…，鉴于…，由于…", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "proceed from", "POS" : "vtr", "sense" : "be caused by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于…，源自…，出自…，起因于…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "thanks to", "POS" : "prep", "sense" : "because of, due to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于，因为", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "owing to", "POS" : "prep", "sense" : "because of, due to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由于，因为", "POS" : "prep", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

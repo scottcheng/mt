@@ -1,0 +1,8 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "twenty-two", "POS" : "n", "sense" : "cardinal number: 22", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "二十二，22", "POS" : "n", "sense" : "基数词"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

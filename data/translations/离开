@@ -1,0 +1,188 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "离开", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "leave, depart", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "out", "POS" : "adv", "sense" : "deprived, away", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "depart", "POS" : "vtr", "sense" : "leave", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "exit", "POS" : "vi", "sense" : "leave", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "leaving", "POS" : "n", "sense" : "departure", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "aside", "POS" : "adv", "sense" : "away from others", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "depart from", "POS" : "vtr", "sense" : "leave", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "离开", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "shove off", "POS" : "vi", "sense" : "leave reluctantly", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "离开", "POS" : "vi", "sense" : "俚语"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "come away", "POS" : "vi", "sense" : "distance oneself", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "from", "POS" : "prep", "sense" : "distinction, exclusion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，分开", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "go", "POS" : "vi", "sense" : "depart", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，离去", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "go", "POS" : "vi", "sense" : "leave", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，离去，去", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "leave", "POS" : "vtr", "sense" : "go away from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，离去，从…出发", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "leave", "POS" : "vtr", "sense" : "remove oneself from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…离开", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "leave", "POS" : "vi", "sense" : "depart", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，离去，走了", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "out", "POS" : "prep", "sense" : "movement away from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，走开，通过…而去", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "part", "POS" : "vi", "sense" : "depart, leave", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，离去", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "down", "POS" : "prep", "sense" : "away", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，离去", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "going", "POS" : "n", "sense" : "departure", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，离去", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "off", "POS" : "adv", "sense" : "away from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，远离", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "blow", "POS" : "vi", "sense" : "depart", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "离开，忽然离去", "POS" : "vi", "sense" : "俚语"}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "desert", "POS" : "vtr", "sense" : "abandon a person or place", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "抛弃，离弃", "POS" : "vtr", "sense" : "人"}, 
+		"SecondTranslation" : {"term" : "放弃，离开", "POS" : "vtr", "sense" : "物、地方"}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "farewell", "POS" : "n", "sense" : "departure", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，离别，辞别", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "departure", "POS" : "n", "sense" : "leaving", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，出发，启程", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "exit", "POS" : "n", "sense" : "sb: leaving", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，退出", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "离场，出去", "POS" : "n", "sense" : "演员"}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "evacuate", "POS" : "vtr", "sense" : "make exit a building", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "退出、离开（建筑物），撤离，撤空", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "evacuate", "POS" : "vi", "sense" : "exit: a building", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（从建筑物中）撤离，撤空，离开", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "decamp", "POS" : "vi", "sense" : "run away, leave", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "逃离，离开，逃走，逃亡", "POS" : "vi", "sense" : "比喻"}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "outta", "POS" : "prep", "sense" : "out of", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "从…离开", "POS" : "prep", "sense" : "非正式用语"}, 
+		"SecondTranslation" : {"term" : "从…中（取、拿）出", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "be off", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，滚开", "POS" : "", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "detach oneself", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "挣脱，摆脱，离开", "POS" : "", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "fly off", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "突然离去，离开", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "匆匆逃走，溜掉", "POS" : "", "sense" : "比喻"}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "go forth", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "启程，离开", "POS" : "", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "leave the scene of", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开…的现场", "POS" : "", "sense" : ""}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "move off", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，走开", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "死去", "POS" : "", "sense" : ""}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "pass out", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "昏倒，醉倒", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "（军校学生）毕业", "POS" : "", "sense" : "英国用法"}, 
+		"ThirdTranslation" : {"term" : "离开，出去", "POS" : "", "sense" : ""}, 
+		"FourthTranslation" : {"term" : "去世", "POS" : "", "sense" : "婉转语"}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "absent yourself from", "POS" : "vtr", "sense" : "leave", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开…，不到场", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "bugger off", "POS" : "vi", "sense" : "go away", "usage" : "UK, slang, vulgar"}, 
+		"FirstTranslation" : {"term" : "走开，离开", "POS" : "vi", "sense" : "英国用法，俚语，粗俗"}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "bugger off", "POS" : "interj", "sense" : "go away", "usage" : "UK, slang, vulgar"}, 
+		"FirstTranslation" : {"term" : "走开，离开，滚开", "POS" : "interj", "sense" : "英国用法，俚语，粗俗"}, "Note" : ""},
+	"38" :{
+		"OriginalTerm" : { "term" : "draw back", "POS" : "vtr", "sense" : "pull away, pull back", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "撤退，离开，后退", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"39" :{
+		"OriginalTerm" : { "term" : "drop out, drop-out", "POS" : "vi", "sense" : "withdraw from sth", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "退出，离开", "POS" : "vi", "sense" : "非正式用语"}, "Note" : "hyphen used when term is a noun 短语用于名词前时需用连字符连接"},
+	"40" :{
+		"OriginalTerm" : { "term" : "go off", "POS" : "vi", "sense" : "go away", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，走开", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"41" :{
+		"OriginalTerm" : { "term" : "move away", "POS" : "vi", "sense" : "retreat, step back", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "撤退，离开", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"42" :{
+		"OriginalTerm" : { "term" : "part from", "POS" : "vtr", "sense" : "say goodbye to, leave company of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"43" :{
+		"OriginalTerm" : { "term" : "pull away", "POS" : "vtr", "sense" : "retreat, remove oneself", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，走开，挣脱，抽出，脱身", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"44" :{
+		"OriginalTerm" : { "term" : "pull out", "POS" : "vi", "sense" : "vehicle: move off, move away", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离站，离开，驶出，驶离", "POS" : "vi", "sense" : "车辆等"}, "Note" : ""},
+	"45" :{
+		"OriginalTerm" : { "term" : "skip out with", "POS" : "v", "sense" : "leave taking sb, sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "带着…离开", "POS" : "v", "sense" : ""}, "Note" : ""},
+	"46" :{
+		"OriginalTerm" : { "term" : "step out of", "POS" : "vtr", "sense" : "exit, walk from", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "从…走出去，从…离开，走出…", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"47" :{
+		"OriginalTerm" : { "term" : "step out of", "POS" : "vtr", "sense" : "leave or renounce", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "放弃…，脱离…，离开…", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"48" :{
+		"OriginalTerm" : { "term" : "turn away", "POS" : "vi", "sense" : "move away from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，走开", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"49" :{
+		"OriginalTerm" : { "term" : "turn off", "POS" : "vtr", "sense" : "exit; a road", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开（路口），转往（另一条路）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"50" :{
+		"OriginalTerm" : { "term" : "walk out", "POS" : "vi", "sense" : "abandon sth or sb", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "抛弃，遗弃，离开", "POS" : "vi", "sense" : "比喻"}, "Note" : ""},
+	"51" :{
+		"OriginalTerm" : { "term" : "walk out on", "POS" : "vtr", "sense" : "abandon, cease to participate in: sth", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "离开，退场（以示抗议）", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"52" :{
+		"OriginalTerm" : { "term" : "walk out on", "POS" : "vtr", "sense" : "abandon, leave: sb", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "抛弃，遗弃，离开（某人）", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"53" :{
+		"OriginalTerm" : { "term" : "withdraw from", "POS" : "vtr", "sense" : "end one's involvement in", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "退出，离开", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"54" :{
+		"OriginalTerm" : { "term" : "away from", "POS" : "prep", "sense" : "at a distance or remove from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…离开", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"55" :{
+		"OriginalTerm" : { "term" : "be away", "POS" : "vi", "sense" : "be absent", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不在，离开", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"56" :{
+		"OriginalTerm" : { "term" : "get away from", "POS" : "vtr", "sense" : "escape, evade", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "摆脱…，离开…，逃离…，脱离…，逃脱…", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

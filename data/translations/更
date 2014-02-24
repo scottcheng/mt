@@ -1,0 +1,17 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "更", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "more, even more", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "furthermore", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "[measure word, modifying time]", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "more", "POS" : "adv", "sense" : "to a greater degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "更，更多", "POS" : "adv", "sense" : "程度"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "still", "POS" : "adv", "sense" : "even", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "甚至，还要，更，愈", "POS" : "adv", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

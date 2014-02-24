@@ -1,0 +1,33 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "它", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "it", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "it", "POS" : "pron", "sense" : "inanimate thing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "它", "POS" : "pron", "sense" : "指无生命的东西"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "it", "POS" : "pron", "sense" : "animal", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "它", "POS" : "pron", "sense" : "指动物"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "it", "POS" : "pron", "sense" : "idea, concept", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "它", "POS" : "pron", "sense" : "指理念、概念"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "it", "POS" : "pron", "sense" : "direct object", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "它", "POS" : "pron", "sense" : "作直接宾语"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "it", "POS" : "pron", "sense" : "after preposition", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "它", "POS" : "pron", "sense" : "跟在介词后"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "it", "POS" : "pron", "sense" : "indirect object", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "它", "POS" : "pron", "sense" : "作间接宾语"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "she", "POS" : "n", "sense" : "sthg considered female", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "她，它", "POS" : "n", "sense" : "拟人化"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "she", "POS" : "pron", "sense" : "short for \"he or she\"", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "她，它", "POS" : "pron", "sense" : "用于不知性别的人或动物"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

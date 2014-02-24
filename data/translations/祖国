@@ -1,0 +1,27 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "祖国", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "homeland, motherland", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "motherland", "POS" : "n", "sense" : "country of one's birth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "祖国", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "fatherland", "POS" : "n", "sense" : "native country, homeland", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "祖国", "POS" : "n", "sense" : "尤用于指二战期间的德国"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "mother country", "POS" : "n", "sense" : "country of birth, native land", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "祖国", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "native soil", "POS" : "n", "sense" : "homeland, country of birth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "祖国", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "country", "POS" : "n", "sense" : "homeland", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "祖国，家乡", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "homeland", "POS" : "n", "sense" : "land of birth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "祖国，家乡", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

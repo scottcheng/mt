@@ -1,0 +1,12 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "儿子", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "son", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "son", "POS" : "n", "sense" : "male child", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "儿子", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

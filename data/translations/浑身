@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "浑身", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "all over the body", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "all over", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "全部结束", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "覆盖着，满是", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "到处，浑身", "POS" : "", "sense" : ""}, 
+		"FourthTranslation" : {"term" : "向…献殷勤", "POS" : "", "sense" : "俚语"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

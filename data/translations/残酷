@@ -1,0 +1,13 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "残酷", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "cruel, ruthless", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "cruelty", "POS" : "n", "sense" : "deliberate causing of pain", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "残酷，残暴", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "残酷的行为", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,64 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "担心", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "worried", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "care", "POS" : "n", "sense" : "anxiety", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "忧虑，焦急，担心", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "care", "POS" : "vi", "sense" : "be concerned", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "关心，感兴趣，在乎，担心", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "concern", "POS" : "n", "sense" : "preoccupation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "担心，担忧，忧虑，疑虑，关切的事", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "concern", "POS" : "vtr", "sense" : "to trouble", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "担心，担忧，忧虑", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "fear", "POS" : "n", "sense" : "apprehension", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "担心，忧虑，不安", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "fear", "POS" : "vtr", "sense" : "be afraid of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "恐怕，担心", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "害怕，畏惧", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "worry", "POS" : "n", "sense" : "concern", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "关心，担心", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "worry", "POS" : "vi", "sense" : "feel uneasy", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "担心，担忧", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "worry", "POS" : "vi", "sense" : "be preoccupied", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "担心，忧虑，焦急", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "trouble", "POS" : "vi", "sense" : "worry", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "担心，担忧", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "caring", "POS" : "n", "sense" : "worrying", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "担心，忧虑", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "lest", "POS" : "conj", "sense" : "for fear that", "usage" : "formal"}, 
+		"FirstTranslation" : {"term" : "唯恐，恐怕，担心", "POS" : "conj", "sense" : "正式用语"}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "worrying", "POS" : "n", "sense" : "activity: being worried", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "焦虑，担心，忧心忡忡", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "disquietude", "POS" : "n", "sense" : "anxiety", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "忧虑，担心，不安", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "worriment", "POS" : "n", "sense" : "worry", "usage" : "US, informal, dated"}, 
+		"FirstTranslation" : {"term" : "焦虑，忧虑，担心，发愁，苦恼，烦恼", "POS" : "n", "sense" : "美国用法，非正式用语，过时用语"}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "concern yourself with", "POS" : "vtr", "sense" : "worry about", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…感到忧虑，担心…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "be worried about", "POS" : "vtr", "sense" : "be concerned or anxious about", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "为…担心", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "worry about", "POS" : "vtr", "sense" : "be concerned or anxious about", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "担心，挂念", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

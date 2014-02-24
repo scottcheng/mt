@@ -1,0 +1,164 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "给", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "give", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "for", "POS" : "prep", "sense" : "in order to benefit: sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "为，为了，给", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "give", "POS" : "vtr", "sense" : "provide", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "提供，供应，给", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "give", "POS" : "vtr", "sense" : "hand sb sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给，给予，递给", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "move, move sth", "POS" : "vtr", "sense" : "alter the location of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "移动，挪动，给…换地方", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "name, name sb", "POS" : "vtr", "sense" : "give a name to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "把…命名为，给…起名为", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "name, name sb", "POS" : "vtr", "sense" : "give the name of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…取名", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "water", "POS" : "vtr", "sense" : "irrigate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "灌溉，浇灌，给…浇水", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "man", "POS" : "vtr", "sense" : "staff", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…提供人手，给…配备人手", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "number, number sth", "POS" : "vtr", "sense" : "assign numbers to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…编号", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "value", "POS" : "vtr", "sense" : "appraise, give a price", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…估价，给…定价", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "color, colour, US: color", "POS" : "vtr", "sense" : "apply colour to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "涂颜色，给…着色", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "dress", "POS" : "vtr", "sense" : "put clothes on", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "穿上，给（别人）穿上衣服", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "dress", "POS" : "vi", "sense" : "put clothes on oneself", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "穿上，给（自己）穿上衣服", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "frame", "POS" : "vtr", "sense" : "apply a border to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…设框，把…框住", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "pay", "POS" : "vtr", "sense" : "offer as a salary", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给(报酬)，支付(工资)", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "serve, serve sb sth", "POS" : "vtr", "sense" : "distribute food to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…提供，为…端上，为…摆出", "POS" : "vtr", "sense" : "食物、饮料等"}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "supply", "POS" : "vtr", "sense" : "provided sb with sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "提供…给，为…提供", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "surprise", "POS" : "vtr", "sense" : "do sth unexpected and nice for", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "使…感到惊喜，给…惊喜", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "award", "POS" : "vtr", "sense" : "grant", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给予，给", "POS" : "vtr", "sense" : "给应得者或需要者"}, 
+		"SecondTranslation" : {"term" : "授予，把…奖给", "POS" : "vtr", "sense" : "奖品，奖项"}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "define", "POS" : "vtr", "sense" : "word, term", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…下定义，解释", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "outline", "POS" : "vtr", "sense" : "draw around", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "画…的外形，给…画轮廓", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "tip", "POS" : "vtr", "sense" : "leave extra money", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…小费，付…小费", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "direct", "POS" : "vtr", "sense" : "give directions", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…指示方向，为…指路", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "cap, cap sth", "POS" : "vtr", "sense" : "set an upper limit on", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…设定上限", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "given", "POS" : "v past p", "sense" : "give: past participle", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给，交给", "POS" : "v past p", "sense" : ""}, "Note" : "give 的过去分词"},
+	"25" :{
+		"OriginalTerm" : { "term" : "guide", "POS" : "vtr", "sense" : "lead", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "为…领路，带领，给…导游", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "salt", "POS" : "vtr", "sense" : "add salt to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…放盐，给…加盐，用盐腌", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "title, title sth", "POS" : "vtr", "sense" : "name", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…加标题，将…题为", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "toast", "POS" : "vtr", "sense" : "honour with drink", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…敬酒，向…祝酒", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "ballast", "POS" : "vtr", "sense" : "a ship", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给...装压舱物", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "bathe", "POS" : "vtr", "sense" : "wash sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…洗澡", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "crown", "POS" : "vtr", "sense" : "be on top of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "形成…的顶部，给…加顶，覆盖…的顶部", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "crown", "POS" : "vtr", "sense" : "tooth", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "给（牙）镶假齿冠", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "cue", "POS" : "vtr", "sense" : "prompt sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…提示，给…暗示", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "cuff", "POS" : "vtr", "sense" : "handcuff", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "铐住，给…戴上手铐", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "devote", "POS" : "vtr", "sense" : "self", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "献（身），（把自己）奉献（给）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "drug", "POS" : "vtr", "sense" : "give drug to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "把麻醉药（毒品等）掺入饮料或食品中", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "给…服药", "POS" : "vtr", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "用药麻醉，给人服麻醉剂", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "dub", "POS" : "vtr", "sense" : "give nickname", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…取外号，给…起绰号", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"38" :{
+		"OriginalTerm" : { "term" : "dub", "POS" : "vtr", "sense" : "movies", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…配音，译制，配（音）", "POS" : "vtr", "sense" : "电影、电视"}, "Note" : ""},
+	"39" :{
+		"OriginalTerm" : { "term" : "dye", "POS" : "vtr", "sense" : "fabric a colour", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…染色", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"40" :{
+		"OriginalTerm" : { "term" : "entitle", "POS" : "vtr", "sense" : "give right to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…权利，赋予…资格", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"41" :{
+		"OriginalTerm" : { "term" : "fuel", "POS" : "vtr", "sense" : "add energy to", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "给…加油，刺激", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"42" :{
+		"OriginalTerm" : { "term" : "garnish", "POS" : "vtr", "sense" : "food", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…加上饰菜", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"43" :{
+		"OriginalTerm" : { "term" : "gas", "POS" : "vtr", "sense" : "car", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给（汽车等）加油", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "为（汽车）添油，为（汽车）打油", "POS" : "vtr", "sense" : "马来西亚，新加坡"}, "Note" : ""},
+	"44" :{
+		"OriginalTerm" : { "term" : "gate", "POS" : "vtr", "sense" : "provide a gate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…安装大门", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"45" :{
+		"OriginalTerm" : { "term" : "gate", "POS" : "vtr", "sense" : "regulator", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…安装阀门", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"46" :{
+		"OriginalTerm" : { "term" : "blemish", "POS" : "vtr", "sense" : "leave a mark", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "弄脏 ， 弄上污渍", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "给…留下疤痕", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"47" :{
+		"OriginalTerm" : { "term" : "crown", "POS" : "vtr", "sense" : "appoint", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…加冕，立…为君主，正式承认某人为", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"48" :{
+		"OriginalTerm" : { "term" : "dose", "POS" : "vtr", "sense" : "administer", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给（药），（按剂量）开（药），（按剂量）分（药）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"49" :{
+		"OriginalTerm" : { "term" : "amuse", "POS" : "vtr", "sense" : "entertain", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…提供娱乐", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

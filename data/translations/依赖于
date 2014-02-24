@@ -1,0 +1,8 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "dependent on", "POS" : "adj", "sense" : "person: depending financially on", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（经济上）依赖于…的", "POS" : "adj", "sense" : "指人"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "这些", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "these", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "these", "POS" : "pron", "sense" : "plural of this", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "这些", "POS" : "pron", "sense" : ""}, "Note" : "this 的复数"},
+	"1" :{
+		"OriginalTerm" : { "term" : "these", "POS" : "adj", "sense" : "plural of this", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "这些", "POS" : "adj", "sense" : ""}, "Note" : "this 的复数"}}},
+"Lines" : "End Reached", "END" : true
+}

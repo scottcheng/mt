@@ -1,0 +1,8 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "fuel", "POS" : "vtr", "sense" : "argument, debate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "火上加油，推波助澜", "POS" : "vtr", "sense" : "争吵，争论"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

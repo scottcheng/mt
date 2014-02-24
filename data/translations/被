@@ -1,0 +1,127 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "被", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "quilt", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "by [used before a verb to form a passive phrase]", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "by", "POS" : "prep", "sense" : "agent in passives", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…，由…", "POS" : "prep", "sense" : "常置于表被动的动词后，后面接动作发出者"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "big", "POS" : "adj", "sense" : "filled with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "装满…的，被…充满的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "escape", "POS" : "vtr", "sense" : "forget", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…忘记，让…想不起来", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "reach", "POS" : "vtr", "sense" : "TV, radio: is seen by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…看到（听到）", "POS" : "vtr", "sense" : "电视、广播等"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "overcome", "POS" : "vtr", "sense" : "emotions", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…所压倒的", "POS" : "vtr", "sense" : "指情绪"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "stuck, be stuck on", "POS" : "adj", "sense" : "infatuated with sb", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "对…着迷的，被…深深吸引的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "prosecution", "POS" : "n", "sense" : "law: court", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（被）起诉，（被）告发", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "overlaid", "POS" : "adj", "sense" : "covered by sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…覆盖的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "inundate", "POS" : "vtr", "sense" : "overwhelm with sthg", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "压倒，被（感情等）淹没", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "whacked", "POS" : "adj", "sense" : "murdered by a hired killer", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "被（雇佣杀手）谋杀的", "POS" : "adj", "sense" : "俚语"}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "count against", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（被）认为对…不利", "POS" : "", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "get stuck", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "陷入…", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "被…卡住", "POS" : "", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "get stuck", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（肢体）陷入…，被…卡住", "POS" : "", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "gummed up", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被（糖，胶等）粘住的", "POS" : "", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "instruments of", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…利用的人，…的工具", "POS" : "", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "known as", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…认为是", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "被叫做，被称为", "POS" : "", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "labor under", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "错觉，被…所蒙蔽", "POS" : "", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "under a spell", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "中了魔咒", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "被…迷住", "POS" : "", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "won over", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（被）争取过来", "POS" : "", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "absorbed by", "POS" : "adj", "sense" : "liquid: soaked up by", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "被…吸收", "POS" : "", "sense" : "本义，液体"}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "attracted to", "POS" : "adj", "sense" : "interested by: an idea, etc.", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被（想法、观念等）吸引的，对…产生极大兴趣的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "attracted to", "POS" : "adj", "sense" : "moved towards by electric or magnetic charge", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被（电荷、磁荷等）吸引的，附着的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "bursting with", "POS" : "adj", "sense" : "full of, packed with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "装满了…的，被…撑得鼓鼓的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "covered in", "POS" : "adj", "sense" : "coated with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…覆盖", "POS" : "", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "gag on", "POS" : "vtr", "sense" : "choke on, be unable to swallow", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被...卡住喉咙，被…噎住", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "impressed by", "POS" : "adj", "sense" : "strongly and favourably affected by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…留下深刻印象的，对…很感兴趣的，被…吸引的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "impressed with", "POS" : "adj", "sense" : "strongly and favourably affected by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…留下深刻印象的，对…很感兴趣的，被…吸引的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "in a cloud", "POS" : "adv", "sense" : "enveloped, shrouded: by sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被（烟、雾、尘埃等）包围地，被笼罩地，被覆盖地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "reveal itself", "POS" : "v", "sense" : "become known or seen", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "出现，呈现，被…知道", "POS" : "v", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "sink into", "POS" : "vtr", "sense" : "be absorbed by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…吸收", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "sink into", "POS" : "vtr", "sense" : "be overwhelmed by: feeling, state", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…淹没", "POS" : "vtr", "sense" : "被感情等"}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "surrounded with, surrounded by", "POS" : "prep", "sense" : "enclosed or encircled by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…环绕，为…所包围", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "tied up", "POS" : "adj", "sense" : "otherwise engaged, busy", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "被（工作等）缠住的，无法分身的", "POS" : "adj", "sense" : "比喻"}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "unanimously elected, unanimously-elected", "POS" : "adj", "sense" : "voted for by everyone", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被（大家）一致推选的，一致当选的，全部推选的", "POS" : "adj", "sense" : ""}, "Note" : "hyphen used when term is an adj before a noun"},
+	"34" :{
+		"OriginalTerm" : { "term" : "under the aegis of", "POS" : "prep", "sense" : "being guided or protected by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…保护，在…庇护之下，得到…的保护或支持", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "under the cloak of", "POS" : "prep", "sense" : "being guided or protected by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…的掩护下，被…保护", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "under the protection of", "POS" : "prep", "sense" : "being guided or supported by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…保护，得到…的保护，处于…的保护之下", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "trip over", "POS" : "vtr", "sense" : "fall by stepping on", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…绊倒", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

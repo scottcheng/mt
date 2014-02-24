@@ -1,0 +1,16 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "人民", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "people", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "people", "POS" : "n", "sense" : "nation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "民族，种族", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "某国人，国民，人民", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "people", "POS" : "n", "sense" : "citizens", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "公民，人民，国民", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,45 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "听", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "listen, hear", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "can [measure word]", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "listen", "POS" : "n", "sense" : "act of listening", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "听", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "hark", "POS" : "interj", "sense" : "listen", "usage" : "literary, archaic"}, 
+		"FirstTranslation" : {"term" : "听", "POS" : "interj", "sense" : "书面语，古语"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "can", "POS" : "n", "sense" : "metal container, usu. cylindrical", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "金属罐", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "听，铁罐头", "POS" : "n", "sense" : "用于装食物、饮料"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "can", "POS" : "n", "sense" : "food", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "罐头，罐，听", "POS" : "n", "sense" : "食品"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "hear", "POS" : "vtr", "sense" : "listen to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "听，注意听", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "hear", "POS" : "vtr", "sense" : "be in an audience", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "听，收听（音乐会、广播等）", "POS" : "vtr", "sense" : "作为听众"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "hear", "POS" : "vi", "sense" : "be able to perceive sound", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "听，听到", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "listen, listen to", "POS" : "vi", "sense" : "actively hear", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "听，注意地听，聆听", "POS" : "vi", "sense" : ""}, "Note" : "常作 listen to"},
+	"8" :{
+		"OriginalTerm" : { "term" : "listen", "POS" : "vi", "sense" : "consider", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "听（以考虑）", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "heard", "POS" : "v past, pp", "sense" : "of hear", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "听，听见", "POS" : "v past, pp", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "听说，听到，得知", "POS" : "v past, pp", "sense" : ""}, "Note" : "hear 的过去式与过去分词"},
+	"10" :{
+		"OriginalTerm" : { "term" : "listen to", "POS" : "vtr", "sense" : "sound: pay attention to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "听，仔细听，倾听", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

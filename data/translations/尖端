@@ -1,0 +1,21 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "尖端", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "sophisticated; sharp end", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "tip", "POS" : "n", "sense" : "pointed end", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "尖端", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "point", "POS" : "n", "sense" : "tip", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "尖，尖端，尖头", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "cusp", "POS" : "n", "sense" : "pointy end", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "尖头，尖端，尖顶，尖头", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "cutting edge, cutting-edge", "POS" : "n", "sense" : "forefront, leading edge", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "前沿，尖端，主导", "POS" : "n", "sense" : "比喻"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,8 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "one-night stand", "POS" : "n", "sense" : "isolated sexual encounter with sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一夜情", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

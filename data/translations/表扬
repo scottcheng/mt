@@ -1,0 +1,23 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "praise", "POS" : "vtr", "sense" : "speak highly of sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "赞扬，表扬", "POS" : "vtr", "sense" : "对人"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "praise", "POS" : "n", "sense" : "commendation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表扬，赞扬", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "cite", "POS" : "vtr", "sense" : "military: mention honourably", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表彰，嘉奖，表扬", "POS" : "vtr", "sense" : "军队等"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "exalt", "POS" : "vtr", "sense" : "praise, glorify", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "赞扬，表扬，赞美", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "accolade", "POS" : "n", "sense" : "praise", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "称赞，赞美，赞许，表扬", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "compliments", "POS" : "npl", "sense" : "praise, flattery", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "称赞，恭维，表扬", "POS" : "npl", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

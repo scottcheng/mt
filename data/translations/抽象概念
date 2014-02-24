@@ -1,0 +1,14 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "abstract", "POS" : "n", "sense" : "sth not concrete", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "抽象概念", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "abstraction", "POS" : "n", "sense" : "abstract image", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "抽象概念", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "abstract idea", "POS" : "n", "sense" : "intellectual concept", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "抽象概念", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

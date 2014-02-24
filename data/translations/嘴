@@ -1,0 +1,38 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "嘴", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "mouth", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "lip", "POS" : "n", "sense" : "projecting opening", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "嘴", "POS" : "n", "sense" : "杯、壶等的"}, 
+		"SecondTranslation" : {"term" : "口，边缘", "POS" : "n", "sense" : "洞口等凹陷地方的"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "mug", "POS" : "n", "sense" : "mouth", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "嘴", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "gob", "POS" : "n", "sense" : "mouth", "usage" : "UK, slang"}, 
+		"FirstTranslation" : {"term" : "嘴", "POS" : "n", "sense" : "英国用法，俚语"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "kisser", "POS" : "n", "sense" : "mouth", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "嘴", "POS" : "n", "sense" : "俚语"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "bill", "POS" : "n", "sense" : "duck, bird: beak", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "喙，嘴", "POS" : "n", "sense" : "鸭子、鸟等的"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "mouth", "POS" : "n", "sense" : "source of speech", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（说话的）嘴", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "purse", "POS" : "vtr", "sense" : "pucker", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "嘟起（嘴），撅起（嘴）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "trap", "POS" : "n", "sense" : "mouth", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "嘴巴，嘴", "POS" : "n", "sense" : "俚语"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "smacker", "POS" : "n", "sense" : "mouth or face", "usage" : "US, slang"}, 
+		"FirstTranslation" : {"term" : "嘴，嘴唇", "POS" : "n", "sense" : "美国用法，俚语"}, 
+		"SecondTranslation" : {"term" : "脸", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

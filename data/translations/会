@@ -1,0 +1,29 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "会", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "be able to, know how to", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "understand", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "meet", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "can", "POS" : "v aux", "sense" : "know how to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "会", "POS" : "v aux", "sense" : "表示技能"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "can", "POS" : "v aux", "sense" : "be possible", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "可能，会", "POS" : "v aux", "sense" : "表示可能性"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "go", "POS" : "vi", "sense" : "tend or serve", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "会，将", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "will", "POS" : "v aux", "sense" : "future: prediction or schedule", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将，会", "POS" : "v aux", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "meeting", "POS" : "n", "sense" : "business", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（商务）会，会议", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "Orthodox", "POS" : "adj", "sense" : "of Orthodox church", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "东正教（会）的", "POS" : "adj", "sense" : "宗教"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

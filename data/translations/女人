@@ -1,0 +1,42 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "女人", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "woman", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "broad", "POS" : "n", "sense" : "woman", "usage" : "slang, dated"}, 
+		"FirstTranslation" : {"term" : "女人", "POS" : "n", "sense" : "俚语，过时用语"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "mama", "POS" : "n", "sense" : "woman", "usage" : "US, slang"}, 
+		"FirstTranslation" : {"term" : "女人", "POS" : "n", "sense" : ""}, "Note" : "美国俚语"},
+	"2" :{
+		"OriginalTerm" : { "term" : "girl", "POS" : "n", "sense" : "female", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "女性，女子，女人", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "woman", "POS" : "n", "sense" : "adult female", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "女人，妇女", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "pussy", "POS" : "n", "sense" : "woman", "usage" : "vulgar, slang"}, 
+		"FirstTranslation" : {"term" : "女人，女子", "POS" : "n", "sense" : "粗俗用语，俚语"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "tail", "POS" : "n", "sense" : "woman as sexual object", "usage" : "vulgar, figurative slang"}, 
+		"FirstTranslation" : {"term" : "（作为性对象的）女人", "POS" : "n", "sense" : "粗俗语，比喻，俚语，"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "dame", "POS" : "n", "sense" : "woman", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "女人，女子", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "broody", "POS" : "adj", "sense" : "woman: wanting a child", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "（女人）想生孩子的", "POS" : "adj", "sense" : "非正式用语"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "womankind", "POS" : "n", "sense" : "women, adult females", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "妇女，女人，女性，女子", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "womenfolk", "POS" : "npl", "sense" : "women, adult females", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "妇女，女人，女性，女子", "POS" : "npl", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "big-breasted, big breasted", "POS" : "adj", "sense" : "woman: having large breasts", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（女人）胸部丰满的", "POS" : "adj", "sense" : ""}, "Note" : "hyphen used when term is before noun 短语用于名词前时须用连字符连接"}}},
+"Lines" : "End Reached", "END" : true
+}

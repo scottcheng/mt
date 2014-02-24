@@ -1,0 +1,8 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "air pollution", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "空气污染", "POS" : "", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

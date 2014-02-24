@@ -1,0 +1,21 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "过", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "cross, pass", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "lead", "POS" : "vtr", "sense" : "live", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "过（…的生活）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "across", "POS" : "prep", "sense" : "from one side to the other", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "横跨，过", "POS" : "prep", "sense" : "从一边到另一边"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "pass", "POS" : "vi", "sense" : "games: decline", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "过，不要", "POS" : "vi", "sense" : "游戏"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "did you ever", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "你是否曾经…过", "POS" : "", "sense" : "表示强调"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,27 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "她", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "she, her", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "her", "POS" : "pron", "sense" : "objective case of she", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "她", "POS" : "pron", "sense" : "宾格"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "her", "POS" : "pron", "sense" : "dative case of she", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "她", "POS" : "pron", "sense" : "与格"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "she", "POS" : "pron", "sense" : "female in question", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "她", "POS" : "pron", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "she", "POS" : "pron", "sense" : "the woman, that woman", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "她", "POS" : "pron", "sense" : "指女人"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "she", "POS" : "n", "sense" : "sthg considered female", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "她，它", "POS" : "n", "sense" : "拟人化"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "she", "POS" : "pron", "sense" : "short for \"he or she\"", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "她，它", "POS" : "pron", "sense" : "用于不知性别的人或动物"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,42 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "地方", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "place", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "place", "POS" : "n", "sense" : "location", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "地方，地点，处所，场所", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "place", "POS" : "n", "sense" : "space", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "空间，地方", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "place", "POS" : "n", "sense" : "area", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "地方，区域", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "point", "POS" : "n", "sense" : "geography: location", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "地点，地方", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "way, make way", "POS" : "n", "sense" : "space", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "空间，（供穿过的）地方", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "where", "POS" : "conj", "sense" : "in, at what place", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…地方，在…处", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "where", "POS" : "conj", "sense" : "to what place", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…地方，去…处", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "area", "POS" : "n", "sense" : "section", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "区，场地，地方", "POS" : "n", "sense" : "房间、建筑"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "room", "POS" : "n", "sense" : "space", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "空间，地方", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "ground", "POS" : "n", "sense" : "area", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "整片地区，地方", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "police force", "POS" : "n", "sense" : "local law-enforcement team", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（地方）警察机关，警察", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

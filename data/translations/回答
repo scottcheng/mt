@@ -1,0 +1,58 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "回答", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "answer, reply", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "answer", "POS" : "n", "sense" : "response", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "答复，回答", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "answer", "POS" : "vtr", "sense" : "respond", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "答复，回答，答复", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "对…作出反应，响应", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "response", "POS" : "n", "sense" : "reply", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回答，答复", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "reply", "POS" : "n", "sense" : "verbal answer", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回答，答复", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "reply, reply to sb", "POS" : "vi", "sense" : "answer, respond", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回答，作答，回应，应答", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "reply", "POS" : "vtr", "sense" : "answer, say in response", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回答，答复", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "respond", "POS" : "vi", "sense" : "answer", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回答，答复，答话", "POS" : "vi", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "响应，呼应", "POS" : "vi", "sense" : "号召"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "rejoin", "POS" : "vtr", "sense" : "say in reply", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回答，应答，答辩", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "反驳", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "rejoin", "POS" : "vi", "sense" : "reply, respond", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回答，应答", "POS" : "vi", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "反驳", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "rejoinder", "POS" : "n", "sense" : "reply or retort", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回答，答复，反驳，应答，答辩", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "riposte", "POS" : "n", "sense" : "witty retort", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "机敏的对答（回答），迅速的反驳，尖锐的反击", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "answer back", "POS" : "vtr", "sense" : "reply to sth", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "回答，应答", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "reply to", "POS" : "vtr", "sense" : "answer, respond to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回答，回应", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "respond to", "POS" : "vtr", "sense" : "reply to, answer", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回复，回答", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "answer to", "POS" : "vtr", "sense" : "respond to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "回应…，回答…", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

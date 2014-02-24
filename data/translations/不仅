@@ -1,0 +1,8 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "不仅", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "not only", "POS" : "", "sense" : ""}, "Note" : ""}},
+"Lines" : "End Reached", "END" : true
+}

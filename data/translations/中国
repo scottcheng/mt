@@ -1,0 +1,12 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "中国", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "China", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "China", "POS" : "n", "sense" : "PRC, large country in Asia", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "中国", "POS" : "n", "sense" : "亚洲国家"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,8 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "produce", "POS" : "vtr", "sense" : "cinema, theatre", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "制作（影视作品）", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

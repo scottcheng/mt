@@ -1,0 +1,12 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "任何", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "any", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "whatever", "POS" : "pron", "sense" : "anything that", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "任何，任何事", "POS" : "pron", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

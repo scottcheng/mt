@@ -1,0 +1,19 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "就是", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "exactly", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "are", "POS" : "v pres", "sense" : "present indicative of be", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在，存在", "POS" : "v pres", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "是，就是", "POS" : "v pres", "sense" : ""}, "Note" : "be 的现在式，复数形式"},
+	"1" :{
+		"OriginalTerm" : { "term" : "just", "POS" : "adv", "sense" : "precisely", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "就是，正是，正好，恰恰", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "precisely", "POS" : "interj", "sense" : "exactly!", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "就是！正是！确实如此！", "POS" : "interj", "sense" : "语气词"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

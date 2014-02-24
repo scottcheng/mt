@@ -1,0 +1,24 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "政府", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "government", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "state", "POS" : "n", "sense" : "civil government", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "政府", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "state", "POS" : "n", "sense" : "political authority", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "政府，当局", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "government", "POS" : "n", "sense" : "group that governs a country", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "政府，政权", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "collapse", "POS" : "vi", "sense" : "stop working", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "（政府）倒台，倒闭", "POS" : "vi", "sense" : "比喻"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "federate", "POS" : "vtr", "sense" : "government: centralize", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "组成联邦（政府）", "POS" : "vtr", "sense" : "政府"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

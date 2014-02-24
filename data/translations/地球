@@ -1,0 +1,19 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "地球", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "the earth", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "Earth", "POS" : "n", "sense" : "planet: the world", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "地球", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "globe", "POS" : "n", "sense" : "world, planet Earth", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "世界，全球", "POS" : "n", "sense" : "比喻"}, 
+		"SecondTranslation" : {"term" : "地球", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "world", "POS" : "n", "sense" : "planet Earth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "世界，全球，地球", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

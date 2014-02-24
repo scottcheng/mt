@@ -1,0 +1,159 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "great", "POS" : "adj", "sense" : "expert", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "精通的，擅长的，精于…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "last", "POS" : "adj", "sense" : "latest possible", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "最后（一刻）的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "most", "POS" : "adj", "sense" : "greatest degree of sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "最…的，…至极的", "POS" : "adj", "sense" : "程度"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "of", "POS" : "prep", "sense" : "from: derivation, origin", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "来自…，属于…的，是…的", "POS" : "prep", "sense" : "表示地域、国籍"}, 
+		"SecondTranslation" : {"term" : "出自…，产自…，产于…", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "of", "POS" : "prep", "sense" : "possession, connection", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "…的", "POS" : "prep", "sense" : "表示所属关系，联系"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "busy", "POS" : "adj", "sense" : "occupied: person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "繁忙的，忙碌的，忙的，忙于…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "every", "POS" : "adj", "sense" : "periodically", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "每…一次的，每…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "free", "POS" : "adj", "sense" : "at liberty", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自由的，被允许的，有权作…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "successful", "POS" : "adj", "sense" : "good at", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成功的，擅长于…的，在…有成就的", "POS" : "adj", "sense" : "擅长"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "tall", "POS" : "adj", "sense" : "of a certain height", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "有某种高度的，身高为…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "used, used to sth, used to doing sth", "POS" : "adj", "sense" : "accustomed to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "惯常的，习惯于…的", "POS" : "adj", "sense" : ""}, "Note" : "常作 be used to"},
+	"11" :{
+		"OriginalTerm" : { "term" : "wide", "POS" : "adj", "sense" : "of a particular width", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "宽度为…的，有…宽的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "worth, be worth", "POS" : "adj", "sense" : "having the value of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "值…的，有…价值的，相当于…价值的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "worth, be worth", "POS" : "adj", "sense" : "meriting", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "值得的，应得的，值得…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "five", "POS" : "adj", "sense" : "count", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "五（的），五个（的）", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "eight", "POS" : "adj", "sense" : "number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "八（的），八个（的）", "POS" : "adj", "sense" : "数字"}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "fifteen", "POS" : "adj & n", "sense" : "number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "十五（的）", "POS" : "adj & n", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "private", "POS" : "adj", "sense" : "not public", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "私人（用）的，私有的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "bare", "POS" : "adj", "sense" : "place, thing: with nothing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有…的 ， 缺少…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "exempt", "POS" : "adj", "sense" : "sb: requirement", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被免除（某种要求）的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "minus", "POS" : "adj", "sense" : "grade, grading, B-", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "略差于…的", "POS" : "adj", "sense" : ""}, "Note" : "计分或计成绩时用，常放在被修饰词后，如“B minus”"},
+	"21" :{
+		"OriginalTerm" : { "term" : "placed", "POS" : "adj", "sense" : "situated", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "位于…的，坐落于…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "plus", "POS" : "adj", "sense" : "in grade: B+", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "略高于（A、B等）的", "POS" : "adj", "sense" : "计分系统"}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "prone", "POS" : "adj", "sense" : "tend to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "可能…的，倾向于…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "taken", "POS" : "adj", "sense" : "to mean", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被理解为…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "unaware", "POS" : "adj", "sense" : "not knowing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不知道的", "POS" : "adj", "sense" : "事先不知道"}, 
+		"SecondTranslation" : {"term" : "没有意识到…的，没有觉察到的", "POS" : "adj", "sense" : "没发现到"}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "lag", "POS" : "adj", "sense" : "screw, bolt", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "钉木桶板的，方头木（螺钉）的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "evocative", "POS" : "adj", "sense" : "reminiscent of sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "令人忆起…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "semi", "POS" : "adj", "sense" : "half", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一半的，半…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "avid", "POS" : "adj", "sense" : "eager, greedy for sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "急切的，热衷于…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "disposed", "POS" : "adj", "sense" : "willing, ready", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "乐于…的，乐意做…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "disposed", "POS" : "adj", "sense" : "inclined, tending", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "倾向于…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "improper", "POS" : "adj", "sense" : "unsuitable, not suited", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不适合的，不般配的，不适于…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "reliant", "POS" : "adj", "sense" : "person: dependent on sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "依赖的，依靠…的", "POS" : "adj", "sense" : "人"}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "reliant", "POS" : "", "sense" : "situation: depending on sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "依靠…的，有赖于…的", "POS" : "", "sense" : "局势"}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "bereft", "POS" : "adj", "sense" : "person: deprived of sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被剥夺了…的，丧失了…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "bereft", "POS" : "adj", "sense" : "devoid of, lacking sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "缺乏…的，缺少…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "resistant", "POS" : "adj", "sense" : "to water, shock: impervious", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "防…的，抗…的，耐…的", "POS" : "adj", "sense" : ""}, "Note" : "常构成复合词，如water-resistant等"},
+	"38" :{
+		"OriginalTerm" : { "term" : "seeming", "POS" : "adj", "sense" : "apparent", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表面上的，看似…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"39" :{
+		"OriginalTerm" : { "term" : "forbidden", "POS" : "adj", "sense" : "person: prohibited from doing sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被禁止…的", "POS" : "adj", "sense" : "人：不能做某事"}, "Note" : ""},
+	"40" :{
+		"OriginalTerm" : { "term" : "biased", "POS" : "adj", "sense" : "result: weighted", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "倾向的，偏向于…的，有利于的", "POS" : "adj", "sense" : "结果：有利"}, 
+		"SecondTranslation" : {"term" : "不利于的", "POS" : "", "sense" : "结果：不利"}, "Note" : ""},
+	"41" :{
+		"OriginalTerm" : { "term" : "spoken", "POS" : "adj", "sense" : "person: speaking in particular way", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "说话…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"42" :{
+		"OriginalTerm" : { "term" : "pursuant", "POS" : "adj", "sense" : "legal: in accordance", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "按照…的，根据…的", "POS" : "adj", "sense" : "司法"}, "Note" : ""},
+	"43" :{
+		"OriginalTerm" : { "term" : "ignorant", "POS" : "adj", "sense" : "person: unaware of sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "忽略…的，没有察觉…的", "POS" : "adj", "sense" : "人"}, "Note" : ""},
+	"44" :{
+		"OriginalTerm" : { "term" : "inferior", "POS" : "adj", "sense" : "lower in rank", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "低级的，下等的", "POS" : "adj", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "低于…的", "POS" : "adj", "sense" : "地位"}, "Note" : ""},
+	"45" :{
+		"OriginalTerm" : { "term" : "2", "POS" : "adj", "sense" : "two in number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "两个（的），二（的）", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"46" :{
+		"OriginalTerm" : { "term" : "4", "POS" : "adj", "sense" : "four in number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "四个（的），四（的）", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"47" :{
+		"OriginalTerm" : { "term" : "13", "POS" : "adj", "sense" : "13 in number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "十三个（的），十三（的）", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"48" :{
+		"OriginalTerm" : { "term" : "14", "POS" : "adj", "sense" : "14 in number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "十四个（的），十四（的）", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"49" :{
+		"OriginalTerm" : { "term" : "15", "POS" : "adj", "sense" : "15 in number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "十五个（的），十五（的）", "POS" : "adj", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,21 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "教练", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "coach", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "coach", "POS" : "n", "sense" : "sports", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "教练", "POS" : "n", "sense" : "体育运动"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "training", "POS" : "n", "sense" : "coaching process", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "训练，培训，教练", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "trainer", "POS" : "n", "sense" : "physical fitness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "教练，教练员", "POS" : "n", "sense" : "体育运动等"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "drillmaster", "POS" : "n", "sense" : "military training instructor", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（部队的）教练，教官", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

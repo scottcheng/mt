@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "前", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "front", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "before", "POS" : "prep", "sense" : "in the jurisdiction of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "由…审判，提交…，呈现到…前", "POS" : "prep", "sense" : "法律"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "before", "POS" : "prep", "sense" : "without considering", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…前，在将…纳入考虑前", "POS" : "prep", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

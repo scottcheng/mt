@@ -1,0 +1,24 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "配备", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "allocate, fit out", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "equipment", "POS" : "n", "sense" : "furnishings", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "配备，装备", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "outfit", "POS" : "vtr", "sense" : "equip", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "装备，配备", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "equip", "POS" : "vtr", "sense" : "supply: with equipment", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "为…供应装备，为…提供设施，配备", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "accouter", "POS" : "vtr", "sense" : "military: equip", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "为（军队）提供装备，配备", "POS" : "vtr", "sense" : "军用"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "fit out", "POS" : "vtr", "sense" : "equip", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "装配…，配备…，为…装备", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

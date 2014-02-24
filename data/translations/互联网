@@ -1,0 +1,14 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "internet", "POS" : "n", "sense" : "network of computer networks", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（局部的）互联网，局域网", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "web", "POS" : "n", "sense" : "Internet", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "网，互联网，全球资讯网", "POS" : "n", "sense" : "非正式用语"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "net", "POS" : "n", "sense" : "Internet", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "互联网，网络", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

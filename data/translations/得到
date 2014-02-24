@@ -1,0 +1,93 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "得到", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "gain, obtain", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "get, get sth", "POS" : "vtr", "sense" : "obtain", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "获得，弄到，搞到，得到", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "get, get sth", "POS" : "vtr", "sense" : "receive", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "收到，得到", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "get, get sth", "POS" : "vtr", "sense" : "earn, win", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "得到，赢得", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "get, get sth", "POS" : "vtr", "sense" : "attract", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "得到，获得", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "have, have sth", "POS" : "vtr", "sense" : "obtain", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "获得，得到，喝，吃", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "with", "POS" : "prep", "sense" : "in consideration of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "得到…（同意），取得…（支持），考虑到", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "allow", "POS" : "vtr", "sense" : "let have", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "允许给予…，让…得到…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "land, land sth", "POS" : "vtr", "sense" : "win", "usage" : "figurative, informal"}, 
+		"FirstTranslation" : {"term" : "赢得，得到，揽到", "POS" : "vtr", "sense" : "比喻，非正式用语"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "line", "POS" : "vtr", "sense" : "get hold of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "拿到，得到，争取到", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "receive", "POS" : "vtr", "sense" : "salary", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "得到（报酬、薪水等）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "receive", "POS" : "vtr", "sense" : "title", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "受到（表彰），得到（称号）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "receive", "POS" : "vtr", "sense" : "gift", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "收到，得到", "POS" : "vtr", "sense" : "礼物等"}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "receive", "POS" : "vtr", "sense" : "be informed of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "收到，得到（消息）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "sit", "POS" : "vi", "sense" : "be accepted", "usage" : "colloquial"}, 
+		"FirstTranslation" : {"term" : "为…所接受，得到…赞同", "POS" : "vi", "sense" : "口语"}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "purchase", "POS" : "vtr", "sense" : "acquire", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "得到，获得", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "reap", "POS" : "vtr", "sense" : "benefits, profit", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "获得，得到", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "acquirement", "POS" : "n", "sense" : "act of obtaining or attaining", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "得到，获得", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "obtainment", "POS" : "n", "sense" : "act of obtaining", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "获得，得到", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "have a chance at", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "得到…的机会", "POS" : "", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "lay hands on sth", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "得到，找到", "POS" : "", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "chalk up", "POS" : "vtr", "sense" : "achieve something", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "得到，取得", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "get hold of", "POS" : "vtr", "sense" : "obtain", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "得到，获得", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "get wind of", "POS" : "vtr", "sense" : "hear rumours of", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "得到...的风声，风闻…", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "put your hands on", "POS" : "vtr", "sense" : "obtain", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "获得…，得到…", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "take possession of", "POS" : "vtr", "sense" : "receive, acquire", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "得到，占据，占有", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "under the aegis of", "POS" : "prep", "sense" : "being guided or protected by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…保护，在…庇护之下，得到…的保护或支持", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "under the auspices of", "POS" : "prep", "sense" : "being guided or supported by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…支持之下，得到…的帮助或赞助", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "under the protection of", "POS" : "prep", "sense" : "being guided or supported by", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "被…保护，得到…的保护，处于…的保护之下", "POS" : "prep", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

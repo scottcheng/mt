@@ -1,0 +1,30 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "始终", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "always; all along", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "always", "POS" : "adv", "sense" : "forever", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "永远，始终", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "ever", "POS" : "adv", "sense" : "always", "usage" : "literary"}, 
+		"FirstTranslation" : {"term" : "一直，始终", "POS" : "adv", "sense" : "书面语"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "evermore", "POS" : "adv", "sense" : "for all time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "永远，始终", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "all along", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一直，始终", "POS" : "", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "all the time", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一直，始终", "POS" : "", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "all through", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一直，始终", "POS" : "", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "all the while", "POS" : "", "sense" : "the whole time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一直，始终", "POS" : "", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

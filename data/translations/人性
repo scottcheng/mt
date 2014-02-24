@@ -1,0 +1,18 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "人性", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "humanity", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "human nature", "POS" : "n", "sense" : "innate psychological characteristics of humans", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "人性", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "humanity", "POS" : "n", "sense" : "kindness, compassion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "人道，人性，仁爱，慈爱", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "humanize", "POS" : "vtr", "sense" : "make more humane", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "使…人格化，赋予…人性", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

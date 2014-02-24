@@ -1,0 +1,21 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "做法", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "work method, procedure", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "course", "POS" : "n", "sense" : "mode of activity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "行动，做法", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "fashion", "POS" : "n", "sense" : "manner", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "方式，做法", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "disagree with sb", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不同意某人（的看法，做法）", "POS" : "", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "course of action", "POS" : "n", "sense" : "procedure", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "做法，行动步骤", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

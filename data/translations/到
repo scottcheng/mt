@@ -1,0 +1,102 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "到", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "arrive", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "until", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "up to", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "into", "POS" : "prep", "sense" : "to the inside of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "向…里，到…里面，进入", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "see", "POS" : "vtr", "sense" : "consult", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…求医，看（医生）", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "找（律师等）咨询", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "as far as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "直到，到…为止", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "before, until", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…之前，到", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "in front of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…前面，在…前面", "POS" : "prep", "sense" : "表示方位"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "destination", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到，达", "POS" : "prep", "sense" : "某处"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "range, limit", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "达到，到", "POS" : "prep", "sense" : "表示范围、界限等"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "limit in condition", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "直到，到", "POS" : "prep", "sense" : "表示程度"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "until, up to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "直到，到", "POS" : "prep", "sense" : "表示时间"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "until", "POS" : "conj", "sense" : "up to the time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…为止", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "until", "POS" : "prep", "sense" : "onward to a time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "直到…时，到…为止", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "up", "POS" : "adv", "sense" : "to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到，给", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "where", "POS" : "conj", "sense" : "to what place", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…地方，去…处", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "once", "POS" : "adv", "sense" : "when, at the time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到...的时候", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "reach", "POS" : "vtr", "sense" : "to get to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到，到达，抵达", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "gain", "POS" : "vtr", "sense" : "arrive at", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到，到达", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "post", "POS" : "vtr", "sense" : "assign sb to a station", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "派遣（某人）到（某职位）工作，委派（某人）做…工作", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "post", "POS" : "vtr", "sense" : "assign sb to a job", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "分配（某人）到…工作", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "onto", "POS" : "prep", "sense" : "on top of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…之上，朝…之上", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "insomuch", "POS" : "adv", "sense" : "to such a degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…的程度", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "whither", "POS" : "conj", "sense" : "to which place", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…那里", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "all the way to", "POS" : "adv", "sense" : "the full distance to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…的一路上，整个一路中", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "so far as", "POS" : "conj", "sense" : "as far as, in as much as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "就…而言，到…程度，在…范围内", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "to what extent", "POS" : "conj", "sense" : "the degree to which", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…程度", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "up till, up 'til", "POS" : "prep", "sense" : "until, up to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "直到…，到…为止", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "up to the time of", "POS" : "prep", "sense" : "before or until the era of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "截止…时间为止，到…为止", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "up to this time", "POS" : "adv", "sense" : "until a specified point in the past", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到那时，到（过去的）某个时间为止", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "by the end", "POS" : "adv", "sense" : "before the final moment", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在……结束时，到……末为止", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "by the time", "POS" : "adv", "sense" : "at some point before", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…时候为止", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "up until", "POS" : "prep", "sense" : "in the time before", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "到…为止", "POS" : "prep", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

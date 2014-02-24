@@ -1,0 +1,79 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "get, get sth", "POS" : "vtr", "sense" : "hear", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "听到，明白", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "get, get sth", "POS" : "vtr", "sense" : "understand", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "了解，理解，明白", "POS" : "vtr", "sense" : "口语"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "have, have sth", "POS" : "vtr", "sense" : "mentally: have in mind", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "有，怀有", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "懂得，知道，明白", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "know", "POS" : "vtr", "sense" : "be aware of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "明白，清楚，知道，察觉，意识到", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "know", "POS" : "vtr", "sense" : "comprehend", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "知道，明白", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "see", "POS" : "vtr", "sense" : "comprehend", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "明白，理解", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "see", "POS" : "vi", "sense" : "understand", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "理解，明白，懂，醒悟", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "sense", "POS" : "vtr", "sense" : "understand", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "明白，理解", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "understand", "POS" : "vtr", "sense" : "comprehend", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "理解，明白，懂", "POS" : "vtr", "sense" : ""}, "Note" : "有时候，“Do you understand what I'm saying?” 是个口头禅；相等于中文的“你说是不是？”"},
+	"9" :{
+		"OriginalTerm" : { "term" : "realize, UK: realise, realize", "POS" : "vi", "sense" : "become aware of sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "认识，知道，明白", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "hear", "POS" : "vtr", "sense" : "understand", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "明白，理解", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "grasp", "POS" : "n", "sense" : "understanding", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "理解，领会，明白", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "grip", "POS" : "n", "sense" : "understanding", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "理解，明白，掌握，领会", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "perceive", "POS" : "vtr", "sense" : "discern, understand", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "理解，明白，懂得", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "roger", "POS" : "interj", "sense" : "radio: message received", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "收到！明白！", "POS" : "interj", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "find out", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "发现，查明", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "明白，得知", "POS" : "", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "gather that", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "明白，理解，了解到", "POS" : "", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "get it", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "明白，理解", "POS" : "", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "get the idea", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "理解，明白", "POS" : "", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "see the light", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "明白，理解", "POS" : "", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "wise up to sth", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "了解，明白", "POS" : "", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "catch on", "POS" : "vi", "sense" : "understand", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "理解，明白", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "come to grips with", "POS" : "vtr", "sense" : "gain an understanding of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "了解，明白", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "have the idea", "POS" : "vi", "sense" : "understand, grasp sth", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "知道，明白，了解", "POS" : "vi", "sense" : "非正式用语"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

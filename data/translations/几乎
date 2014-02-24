@@ -1,0 +1,73 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "几乎", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "nearly, almost", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "most", "POS" : "adv", "sense" : "almost", "usage" : "US, informal"}, 
+		"FirstTranslation" : {"term" : "几乎 ", "POS" : "adv", "sense" : "美国用法，非正式用语"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "about", "POS" : "adv", "sense" : "approximately", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "约摸，大约，几乎", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "next", "POS" : "adv", "sense" : "almost", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "几乎，差不多", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "almost", "POS" : "adv", "sense" : "nearly", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "几乎，就快，差不多", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "near", "POS" : "adv", "sense" : "around, approximately", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "大约，几乎", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "near", "POS" : "adv", "sense" : "all but, nearly", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "几乎，差不多", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "nearly", "POS" : "adv", "sense" : "almost", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "几乎，差点", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "virtually", "POS" : "adv", "sense" : "almost, nearly", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "几乎，差不多", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "halfway", "POS" : "adv", "sense" : "somewhat", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "几乎，差不多，快要", "POS" : "adv", "sense" : "非正式用语"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "practically", "POS" : "adv", "sense" : "nearly, almost", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "几乎，差不多，险些就", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "quasi", "POS" : "adv", "sense" : "almost", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "几乎，近乎，似乎", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "virtual", "POS" : "adj", "sense" : "effective, almost", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "实际上的，几乎…的，事实上的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "all but", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "除…外全部", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "几乎，差不多", "POS" : "", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "anywhere near", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "全然，压根儿", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "几乎，差不多", "POS" : "", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "close to", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "靠近，接近", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "几乎，马上，快要", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "与…关系密切", "POS" : "", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "by a hair's breadth", "POS" : "adv", "sense" : "by the slightest margin", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "险些，几乎，毫厘之差", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "just about", "POS" : "adv", "sense" : "more or less", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "几乎，差不多，大概", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "near to", "POS" : "prep", "sense" : "about to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "几乎，差不多快", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "pretty well", "POS" : "adv", "sense" : "almost completely", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "差不多，几乎", "POS" : "adv", "sense" : "非正式用语"}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "be about", "POS" : "adv", "sense" : "be near", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "几乎，大概", "POS" : "adv", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

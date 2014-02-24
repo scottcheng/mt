@@ -1,0 +1,8 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "这种", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "of this kind", "POS" : "", "sense" : ""}, "Note" : ""}},
+"Lines" : "End Reached", "END" : true
+}

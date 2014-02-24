@@ -1,0 +1,8 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "tennis ball", "POS" : "n", "sense" : "rubber ball used in tennis", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "网球", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

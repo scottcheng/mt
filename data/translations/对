@@ -1,0 +1,165 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "对", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "correct, right", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "do", "POS" : "vi", "sense" : "be satisfactory", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "满足…的需要，对…足够", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "for", "POS" : "prep", "sense" : "in sb's opinion, for sb's tastes", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对，对于", "POS" : "prep", "sense" : "就个人观点、兴趣等而言"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "tell", "POS" : "vtr", "sense" : "say, say to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…讲，对…说", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "讲述，说", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "in relationship with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对，面对", "POS" : "prep", "sense" : "表示相对位置"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "address", "POS" : "vtr", "sense" : "give a speech to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "向…发表演说，对…作正式讲话", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "benefit", "POS" : "vtr", "sense" : "give a service to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…有用，使…受益，帮助", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "challenge", "POS" : "vtr", "sense" : "be difficult", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "考验，对…来说是挑战", "POS" : "vtr", "sense" : "能力、技巧等"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "question", "POS" : "vtr", "sense" : "doubt", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "怀疑，对…表示疑问", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "yes", "POS" : "adv", "sense" : "affirmatively", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "是，是的，对", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "answer", "POS" : "vtr", "sense" : "respond", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "答复，回答，答复", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "对…作出反应，响应", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "influence", "POS" : "vtr", "sense" : "play a part in determining", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "影响，左右，支配，对……产生影响", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "interview", "POS" : "vtr", "sense" : "for a job", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…进行工作面试，面试", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "pay", "POS" : "vtr", "sense" : "be beneficial to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…有利，对…有好处", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "pressure", "POS" : "vtr", "sense" : "coerce", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "迫使，对…施加压力", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "tax, tax sth", "POS" : "vtr", "sense" : "apply duty or levy to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…征税，对…课税", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "ticket", "POS" : "vtr", "sense" : "give a summons", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…发出传票（罚款单等）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "dispute", "POS" : "vtr", "sense" : "challenge", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "质疑，对…提出异议", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "esteem", "POS" : "vtr", "sense" : "high regard", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…评价很高，敬重", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "knock", "POS" : "vtr", "sense" : "criticise", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "挑剔，对…吹毛求疵", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "mourn", "POS" : "vtr", "sense" : "sb's death", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…表示哀悼，为…感到悲痛，悼念", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "nag", "POS" : "vtr", "sense" : "by wife, mother", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…唠叨不休，不断向…抱怨", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "onto", "POS" : "prep", "sense" : "aware: scheme", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "察觉到，意识到，对…了解", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "poll", "POS" : "vtr", "sense" : "survey opinions", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…进行民意调查", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "rusty", "POS" : "adj", "sense" : "person: out of practice", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…生疏了的", "POS" : "adj", "sense" : "人"}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "salvage", "POS" : "vtr", "sense" : "from ship", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "打捞", "POS" : "vtr", "sense" : "沉没的船只"}, 
+		"SecondTranslation" : {"term" : "对…进行海上营救", "POS" : "vtr", "sense" : "遇难的船只"}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "tariff", "POS" : "vtr", "sense" : "tax, charge", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…征收关税", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "定…的关税率", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "versus", "POS" : "prep", "sense" : "against, vs.", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对，对抗", "POS" : "prep", "sense" : "司法、体育运动"}, "Note" : "常缩写为v., v.s.。"},
+	"27" :{
+		"OriginalTerm" : { "term" : "yeah", "POS" : "exclm", "sense" : "yes", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "是，对，嗯", "POS" : "exclm", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "zone", "POS" : "vtr", "sense" : "land use", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "将…分区，对…进行区域或范围划分，把…划作特殊区域", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "brief", "POS" : "vtr", "sense" : "give summary talk", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对...作简报", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "scorn", "POS" : "vtr", "sense" : "reject sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "轻视，对…不屑一顾", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "appease", "POS" : "vtr", "sense" : "to avoid conflict", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "绥靖 ， 姑息 ， 对…让步", "POS" : "vtr", "sense" : "为避免冲突"}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "appraise", "POS" : "vtr", "sense" : "situation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对（局势）进行估计", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "assure", "POS" : "vtr", "sense" : "say confidently", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…肯定地说 ， 向…断言", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "pr", "POS" : "abbr", "sense" : "pair", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（一）双，（一）对", "POS" : "abbr", "sense" : ""}, "Note" : "缩略语"},
+	"35" :{
+		"OriginalTerm" : { "term" : "unfamiliar", "POS" : "adj", "sense" : "person: not knowledgeable about sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…不熟悉的，对…生疏的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "idolize", "POS" : "vtr", "sense" : "worship: a god", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "崇拜，对…顶礼膜拜", "POS" : "vtr", "sense" : "对象为神"}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "mistreat", "POS" : "vtr", "sense" : "treat badly", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…不好，很差地对待", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"38" :{
+		"OriginalTerm" : { "term" : "among", "POS" : "prep", "sense" : "by many of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…中的大多数人而言，根据…的普遍看法", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"39" :{
+		"OriginalTerm" : { "term" : "resent", "POS" : "vtr", "sense" : "feel aggrieved at: sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "怨恨，愤恨，对…感到气愤", "POS" : "vtr", "sense" : "针对人"}, "Note" : ""},
+	"40" :{
+		"OriginalTerm" : { "term" : "resent", "POS" : "vtr", "sense" : "feel aggrieved about: sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "怨恨，愤恨，对…愤愤不平", "POS" : "vtr", "sense" : "针对物"}, "Note" : ""},
+	"41" :{
+		"OriginalTerm" : { "term" : "stereotype", "POS" : "vtr", "sense" : "generalize about", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…形成模式化的观念，对…抱有成见", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"42" :{
+		"OriginalTerm" : { "term" : "critique", "POS" : "vtr", "sense" : "review, analyze", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…进行评论，评判", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"43" :{
+		"OriginalTerm" : { "term" : "menace", "POS" : "vtr", "sense" : "threaten, endanger", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "威胁，威吓", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "危及，对…构成威胁", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"44" :{
+		"OriginalTerm" : { "term" : "allergic", "POS" : "adj", "sense" : "person: having an allergy", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（对…）过敏的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"45" :{
+		"OriginalTerm" : { "term" : "bemoan", "POS" : "vtr", "sense" : "complain about", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "哀怨，对…哀哀不满", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"46" :{
+		"OriginalTerm" : { "term" : "answer for", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…负责", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "担保，保证", "POS" : "", "sense" : ""}, "Note" : ""},
+	"47" :{
+		"OriginalTerm" : { "term" : "at ease with", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…在一起感到不拘束，对…感到自在", "POS" : "", "sense" : ""}, "Note" : ""},
+	"48" :{
+		"OriginalTerm" : { "term" : "be accountable to", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对（某人）负责", "POS" : "", "sense" : ""}, "Note" : ""},
+	"49" :{
+		"OriginalTerm" : { "term" : "be interested in", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "对…有兴趣", "POS" : "", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

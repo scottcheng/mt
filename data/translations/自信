@@ -1,0 +1,24 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "自信", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "confident; confidence", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "authority", "POS" : "n", "sense" : "assuredness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自信", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "confidence", "POS" : "n", "sense" : "assurance", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "信心，自信", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "aplomb", "POS" : "n", "sense" : "composure, self-assurance", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自信，沉着，泰然自若", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "self-worth", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自尊，自信，自我价值感", "POS" : "", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "self-confidence", "POS" : "n", "sense" : "assurance in one's qualities", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自信，自信心", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

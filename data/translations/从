@@ -1,0 +1,166 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "从", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "follow", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "from", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "secondary", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "by", "POS" : "prep", "sense" : "close: past", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "经过，走过，从…旁边过去", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "from", "POS" : "prep", "sense" : "starting point in movement", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "始于，从…起", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "from", "POS" : "prep", "sense" : "time: from ... to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自，从", "POS" : "prep", "sense" : "时间"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "from", "POS" : "prep", "sense" : "time: starting point", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从，从…起，自", "POS" : "prep", "sense" : "表示时期的开始"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "from", "POS" : "prep", "sense" : "removed", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自，从", "POS" : "prep", "sense" : "离开，脱离"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "from", "POS" : "prep", "sense" : "place: have lived", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "来自，从…来", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "leave", "POS" : "vtr", "sense" : "go away from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "离开，离去，从…出发", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "since", "POS" : "conj", "sense" : "following a specified time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "自…以来，自…以后，从…的时候起", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "off", "POS" : "adv", "sense" : "no longer enclosing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…脱离", "POS" : "adv", "sense" : "固定物、附着物"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "derive", "POS" : "vtr", "sense" : "have as origin", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…中提取，得自，来自，源自", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "dock", "POS" : "vtr", "sense" : "money", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "扣，扣除（工资等），从…中扣除", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "relish", "POS" : "vtr", "sense" : "enjoy greatly", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "享受，从…获得乐趣", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "rid", "POS" : "vtr", "sense" : "empty, remove", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…中清除，去除", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "render", "POS" : "vtr", "sense" : "melt down", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "熬化，从…中熬油", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "swab", "POS" : "vtr", "sense" : "medicine: take specimen from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…取化验标本", "POS" : "vtr", "sense" : "医疗"}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "whence", "POS" : "adv", "sense" : "from what origin", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从哪里，从…来源", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "unload", "POS" : "vtr", "sense" : "vehicle: take load off", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…卸货", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "卸（货）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "overshoot", "POS" : "vtr", "sense" : "miss, go over", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…上方射过（未中目标）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "purify", "POS" : "vtr", "sense" : "remove impurities from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…中剔除杂质，使…变纯净，净化…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "wheedle", "POS" : "vtr", "sense" : "coax, obtain: sth from sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…那里骗取…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "come away from", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…上脱落", "POS" : "", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "come off", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "能卸下，能除去", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "从…上摔下，掉下", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "成功", "POS" : "", "sense" : ""}, 
+		"FourthTranslation" : {"term" : "停止（服毒、酗酒等）", "POS" : "", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "deviate from", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…脱离，脱轨", "POS" : "", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "flee from", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…逃离，逃走", "POS" : "", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "gather from", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…得知，悟到", "POS" : "", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "it's been ages since", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…以来已经过了很久了", "POS" : "", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "jut out from", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…突出，从…伸出", "POS" : "", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "pass by", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从 …旁边经过", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "忽略，忽视", "POS" : "", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "profit by", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…中获利", "POS" : "", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "profit from", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…中获利", "POS" : "", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "clear the snow from", "POS" : "vtr", "sense" : "shovel snow away from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…除雪", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "come out of", "POS" : "vtr", "sense" : "emerge, exit from", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "从…出来，出现", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "come out of", "POS" : "vtr", "sense" : "costs: be subtracted from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…中出，从…中扣除", "POS" : "vtr", "sense" : "开支等"}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "escape from", "POS" : "vtr", "sense" : "flee, run away from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…逃离，从…逃跑", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "get out of", "POS" : "vtr", "sense" : "extricate oneself from, escape from", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "从...逃走，从...逃离", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "get over", "POS" : "vtr", "sense" : "recover from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…恢复过来，从…中康复", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "draw a pay check", "POS" : "vtr", "sense" : "from sb: work for", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（从…处）领薪水，（从…处）领工资", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "jump off", "POS" : "vtr", "sense" : "leap from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…跳下", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"38" :{
+		"OriginalTerm" : { "term" : "pick grapes off", "POS" : "vtr", "sense" : "pluck grapes from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…摘葡萄", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"39" :{
+		"OriginalTerm" : { "term" : "pinch from", "POS" : "vtr", "sense" : "steal from", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "从…偷", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"40" :{
+		"OriginalTerm" : { "term" : "pinch from", "POS" : "vtr", "sense" : "break off by pinching between two fingers", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…上掐断", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"41" :{
+		"OriginalTerm" : { "term" : "profit from", "POS" : "vtr", "sense" : "take advantage of, exploit", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…获利，利用…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"42" :{
+		"OriginalTerm" : { "term" : "reap the benefit of", "POS" : "vtr", "sense" : "profit from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "得益于…，从…获得益处，因…得到好处", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"43" :{
+		"OriginalTerm" : { "term" : "recover from", "POS" : "vtr", "sense" : "get over: illness, shock, etc.", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…中恢复", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"44" :{
+		"OriginalTerm" : { "term" : "resign from", "POS" : "vtr", "sense" : "step down from, leave: a job", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…引退，辞职", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"45" :{
+		"OriginalTerm" : { "term" : "spring from", "POS" : "vtr", "sense" : "emerge or arise from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "突然从…出现，从…冒出来", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"46" :{
+		"OriginalTerm" : { "term" : "steal from", "POS" : "vtr", "sense" : "take sth belonging to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…偷走（某物），偷走属于…的东西", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"47" :{
+		"OriginalTerm" : { "term" : "step off", "POS" : "vtr", "sense" : "alight from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…走下来，走下…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"48" :{
+		"OriginalTerm" : { "term" : "step out of", "POS" : "vtr", "sense" : "exit, walk from", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "从…走出去，从…离开，走出…", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"49" :{
+		"OriginalTerm" : { "term" : "take from", "POS" : "vtr", "sense" : "steal from", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "从…拿，从…偷", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

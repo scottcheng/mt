@@ -1,0 +1,22 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "总理", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "prime minister, premier", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "PM", "POS" : "n", "sense" : "Prime Minister", "usage" : "UK, abbr"}, 
+		"FirstTranslation" : {"term" : "首相", "POS" : "n", "sense" : "缩略语，首席宰相"}, 
+		"SecondTranslation" : {"term" : "总理", "POS" : "n", "sense" : "政府首脑头衔"}, "Note" : "英国英语，缩略语"},
+	"1" :{
+		"OriginalTerm" : { "term" : "premier", "POS" : "n", "sense" : "of country", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "首相，总理", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "chancellor", "POS" : "n", "sense" : "German prime minister", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（德国的）总理", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "prime minister", "POS" : "n", "sense" : "head of government", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "首相，总理", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

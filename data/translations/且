@@ -1,0 +1,9 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "且", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "and", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "while", "POS" : "", "sense" : ""}, "Note" : ""}},
+"Lines" : "End Reached", "END" : true
+}

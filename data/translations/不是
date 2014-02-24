@@ -1,0 +1,18 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "不是", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "be not", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "but", "POS" : "conj", "sense" : "rather", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "(不是…)而是…", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "not", "POS" : "adv", "sense" : "negation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不，不是，没，没有", "POS" : "adv", "sense" : "表示否定"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "not", "POS" : "adv", "sense" : "denial", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不是，没有", "POS" : "adv", "sense" : "表示否认"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

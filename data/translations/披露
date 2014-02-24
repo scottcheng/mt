@@ -1,0 +1,23 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "expose", "POS" : "vtr", "sense" : "information", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "披露", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "reveal", "POS" : "vtr", "sense" : "show", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "揭示，显示，披露", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "disclose", "POS" : "vtr", "sense" : "reveal: legal", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "披露，公开", "POS" : "vtr", "sense" : "法律"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "divulge", "POS" : "vtr", "sense" : "tell, reveal", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "说出，讲出，披露，泄露", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "blow the whistle", "POS" : "vi", "sense" : "tell the truth about sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "揭发，揭露，披露", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "blow the whistle on", "POS" : "vtr", "sense" : "tell the truth about: sth", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "揭发，揭露，披露", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "不能", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "can not", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "cannot", "POS" : "v aux", "sense" : "can not", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "无法, 不能", "POS" : "v aux", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "not be able", "POS" : "vi", "sense" : "be unable, be incapable", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "不能，做不到", "POS" : "vi", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

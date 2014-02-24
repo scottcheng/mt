@@ -1,0 +1,11 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "bureaucrat", "POS" : "n", "sense" : "official", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "官员", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "officialdom", "POS" : "n", "sense" : "those in authority, collectively", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "官僚，官员", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

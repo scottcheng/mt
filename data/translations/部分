@@ -1,0 +1,68 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "部分", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "part", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "way, ways", "POS" : "n", "sense" : "divisions, parts", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "部分", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "end", "POS" : "n", "sense" : "portion, aspect", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "部分，方面", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "part", "POS" : "n", "sense" : "segment", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "部分，切片，（一）段，（一）块", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "part", "POS" : "n", "sense" : "section", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "部分，章节，部", "POS" : "n", "sense" : "文学作品等的"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "book", "POS" : "n", "sense" : "part of a written work", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "篇章，章节，部分", "POS" : "n", "sense" : "书中的"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "side", "POS" : "n", "sense" : "region of a city", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "地区，区域，部分", "POS" : "n", "sense" : "城市的区域"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "cut", "POS" : "n", "sense" : "portion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（分到的）部分", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "section", "POS" : "n", "sense" : "separate part", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "部分，部件", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "section", "POS" : "n", "sense" : "of document", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "章节，部分", "POS" : "n", "sense" : "文章等"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "section", "POS" : "n", "sense" : "of population", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "部分，层次", "POS" : "n", "sense" : "人口"}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "percentage", "POS" : "n", "sense" : "proportion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比例，部分", "POS" : "n", "sense" : "没提供确切数据时"}, 
+		"SecondTranslation" : {"term" : "百分比，百分率", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "portion", "POS" : "n", "sense" : "section", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "部分，一份", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "slice", "POS" : "n", "sense" : "portion of sth", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "份，部分", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "partition", "POS" : "n", "sense" : "division, section", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "分隔，隔开", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "划分，瓜分，分割", "POS" : "n", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "部分，分割间", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "segment", "POS" : "n", "sense" : "section, part", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "片，段，部分", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "瓣", "POS" : "n", "sense" : "水果的"}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "proportion", "POS" : "n", "sense" : "part, portion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "部分，分儿", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "quantum", "POS" : "n", "sense" : "amount", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "数量，总量，总额，总数", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "份额，部分", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "parts of", "POS" : "npl", "sense" : "pieces of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "...部分", "POS" : "npl", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

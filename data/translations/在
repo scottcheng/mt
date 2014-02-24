@@ -1,0 +1,174 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "在", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "at", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "in", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "on", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "be", "POS" : "vi", "sense" : "location", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "on", "POS" : "prep", "sense" : "time, occasion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在", "POS" : "prep", "sense" : "表示时间"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "about", "POS" : "prep", "sense" : "time: approximately", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…左右，在…前后", "POS" : "prep", "sense" : "时间"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "above", "POS" : "prep", "sense" : "over", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…的上方", "POS" : "prep", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "超过，多于，在…之上", "POS" : "prep", "sense" : "数目、程度等方面"}, 
+		"ThirdTranslation" : {"term" : "优于，优先于", "POS" : "prep", "sense" : "价值、重要性方面"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "after", "POS" : "prep", "sense" : "time: later", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…以后", "POS" : "prep", "sense" : "时间"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "after", "POS" : "conj", "sense" : "time: when, if", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…以后", "POS" : "conj", "sense" : "时间"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "are", "POS" : "v pres", "sense" : "present indicative of be", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在，存在", "POS" : "v pres", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "是，就是", "POS" : "v pres", "sense" : ""}, "Note" : "be 的现在式，复数形式"},
+	"7" :{
+		"OriginalTerm" : { "term" : "around", "POS" : "prep", "sense" : "from place to place", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…各处，在…各地", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "around", "POS" : "prep", "sense" : "approximately: time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…左右，在…前后", "POS" : "prep", "sense" : "时间"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "around", "POS" : "prep", "sense" : "in or near", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…附近", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "at", "POS" : "prep", "sense" : "location", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…上，在…里，在…旁", "POS" : "prep", "sense" : "地点"}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "at", "POS" : "prep", "sense" : "time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…时刻，在…点", "POS" : "prep", "sense" : "时间"}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "before", "POS" : "adv", "sense" : "earlier, sooner", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…以前，比较早", "POS" : "adv", "sense" : "时间"}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "before", "POS" : "prep", "sense" : "earlier than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…之前", "POS" : "prep", "sense" : "时间"}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "before", "POS" : "prep", "sense" : "preceding in order", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…之前", "POS" : "prep", "sense" : "顺序"}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "before", "POS" : "conj", "sense" : "previously", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…以前", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "before", "POS" : "conj", "sense" : "sooner than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…以前", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "by", "POS" : "prep", "sense" : "close: beside, near to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "靠近，在…旁边", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "by", "POS" : "prep", "sense" : "close: around", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…附近，在…周围", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "by", "POS" : "prep", "sense" : "time: not later than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…之前，不迟于", "POS" : "prep", "sense" : "时间"}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "in", "POS" : "prep", "sense" : "inside", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…内，在…中，在…里面", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "in", "POS" : "prep", "sense" : "time: within", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…内，在…期间", "POS" : "prep", "sense" : "时间"}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "in", "POS" : "prep", "sense" : "not until", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…之后", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "in", "POS" : "prep", "sense" : "transition of state", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "达到或处于…状态或情况，处于…中，在…情形下", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "live", "POS" : "vi", "sense" : "reside", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "住，在…住，生活", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "next", "POS" : "prep", "sense" : "nearest to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "挨着，在…旁边，在…近旁", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "on", "POS" : "prep", "sense" : "atop", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…上，在…上头，在…上面", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "on", "POS" : "prep", "sense" : "attached to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…上，挂在…上，以…为支撑", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "on", "POS" : "prep", "sense" : "according to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "根据，凭借，靠，在…上", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "on", "POS" : "prep", "sense" : "location", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "靠近，在…旁，挨着，靠着，沿着", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "over", "POS" : "prep", "sense" : "above", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…上方", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "until", "POS" : "conj", "sense" : "before", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在...以前，直到…才", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "when", "POS" : "adv", "sense" : "at the point in time that", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "当…的时侯，在…时", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "where", "POS" : "conj", "sense" : "in, at what place", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…地方，在…处", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "while", "POS" : "conj", "sense" : "during the time that", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "当...的时候，在…期间", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "with", "POS" : "prep", "sense" : "employed by, representing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "受雇于，在…工作", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "below", "POS" : "adv", "sense" : "beneath", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…下侧边", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "below", "POS" : "adv", "sense" : "farther down", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "低于，少于，在…以下", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"38" :{
+		"OriginalTerm" : { "term" : "below", "POS" : "prep", "sense" : "lower down than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…下面，在…下方", "POS" : "prep", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "低于，…以下", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"39" :{
+		"OriginalTerm" : { "term" : "between", "POS" : "prep", "sense" : "intermediate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…中间，介于…之间", "POS" : "prep", "sense" : "两者之间，指空间"}, 
+		"SecondTranslation" : {"term" : "在…中间，在…之间", "POS" : "prep", "sense" : "两者之间，指时间"}, "Note" : ""},
+	"40" :{
+		"OriginalTerm" : { "term" : "between", "POS" : "prep", "sense" : "comparing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…中间，在…之间", "POS" : "prep", "sense" : "表示比较"}, "Note" : ""},
+	"41" :{
+		"OriginalTerm" : { "term" : "during", "POS" : "prep", "sense" : "throughout", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…的整个期间", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"42" :{
+		"OriginalTerm" : { "term" : "near", "POS" : "prep", "sense" : "within a small distance, close to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…附近，在…旁边", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"43" :{
+		"OriginalTerm" : { "term" : "once", "POS" : "conj", "sense" : "after, when", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "当...的时候，在…以后", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"44" :{
+		"OriginalTerm" : { "term" : "outside", "POS" : "prep", "sense" : "toward the outside of sthg", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…的外面，向…的外面", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"45" :{
+		"OriginalTerm" : { "term" : "range", "POS" : "vi", "sense" : "vary within limits", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…范围内变化", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"46" :{
+		"OriginalTerm" : { "term" : "sit", "POS" : "vi", "sense" : "be placed", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在，放在，摆在，搁在", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"47" :{
+		"OriginalTerm" : { "term" : "successful", "POS" : "adj", "sense" : "good at", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成功的，擅长于…的，在…有成就的", "POS" : "adj", "sense" : "擅长"}, "Note" : ""},
+	"48" :{
+		"OriginalTerm" : { "term" : "under", "POS" : "prep", "sense" : "beneath", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…底下，在…下面", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"49" :{
+		"OriginalTerm" : { "term" : "under", "POS" : "prep", "sense" : "below the surface of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "在…表面下，由…覆盖着", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"50" :{
+		"OriginalTerm" : { "term" : "under", "POS" : "prep", "sense" : "of lower rank", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "低于，在…之下", "POS" : "prep", "sense" : "职位、权势等"}, "Note" : ""},
+	"51" :{
+		"OriginalTerm" : { "term" : "visit", "POS" : "vtr", "sense" : "go to see", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "拜访，看望，访问，在…作客", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "去…看看，参观，游览", "POS" : "vtr", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "探望（病人），找（医生等）请教", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

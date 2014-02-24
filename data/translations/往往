@@ -1,0 +1,15 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "往往", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "usually", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "often", "POS" : "adv", "sense" : "in many cases", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "往往，大多", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "more often than not", "POS" : "adv", "sense" : "usually", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "往往，多半", "POS" : "adv", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,87 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "调查", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "investigate; investigation", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "examine", "POS" : "vtr", "sense" : "investigate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "investigate", "POS" : "vtr", "sense" : "cause, why", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "look into sth", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查", "POS" : "", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "check into", "POS" : "vtr", "sense" : "investigate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "take a look", "POS" : "v", "sense" : "investigate sth", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "调查", "POS" : "v", "sense" : "非正式用语"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "check", "POS" : "n", "sense" : "inquiry", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "检查，调查，核对", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "study", "POS" : "n", "sense" : "investigation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，学术研究", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "research", "POS" : "n", "sense" : "investigation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，研究，钻研", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "research", "POS" : "vtr", "sense" : "investigate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，研究", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "survey", "POS" : "n", "sense" : "of opinions", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，民意调查，民意测验", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "enquiry", "POS" : "n", "sense" : "investigation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，盘问", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "examination", "POS" : "n", "sense" : "of evidence", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，检查", "POS" : "n", "sense" : "证据等"}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "inquiry", "POS" : "n", "sense" : "investigation", "usage" : "formal"}, 
+		"FirstTranslation" : {"term" : "调查，查究", "POS" : "n", "sense" : "书面语"}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "probe", "POS" : "n", "sense" : "inquiry", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，深究，伸入探索", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "probe", "POS" : "vtr", "sense" : "investigate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，深究", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "quest", "POS" : "n", "sense" : "for information", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "探索，调查", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "vet", "POS" : "vtr", "sense" : "review and approve", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，检查", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "exploration", "POS" : "n", "sense" : "investigation, research", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，研究", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "investigation", "POS" : "n", "sense" : "policy enquiry", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查，侦查", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "canvass", "POS" : "vtr", "sense" : "opinions: survey", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "调查（如选民等的）意见，民意调查", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "vetting", "POS" : "n", "sense" : "process of checking or appraisal", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "审查，调查，检查，核对，核实", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "recce", "POS" : "n", "sense" : "reconnaissance: search or survey", "usage" : "UK, informal"}, 
+		"FirstTranslation" : {"term" : "侦察，调查，勘察", "POS" : "n", "sense" : "英国用法，非正式用语"}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "reconnoiter", "POS" : "vi", "sense" : "search or survey an area", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "侦察，调查，勘察", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "check on", "POS" : "vtr", "sense" : "check state or progress of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "检查，核查，调查", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "inquire into, UK: enquire into", "POS" : "vtr", "sense" : "ask about, seek information about", "usage" : "US"}, 
+		"FirstTranslation" : {"term" : "调查，询问", "POS" : "vtr", "sense" : "美式拼法"}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "look into", "POS" : "vtr", "sense" : "investigate", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "调查，研究", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

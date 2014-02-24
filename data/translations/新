@@ -1,0 +1,12 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "新", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "new, fresh", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "last", "POS" : "n", "sense" : "the most recent thing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "最近（新）的事、物", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

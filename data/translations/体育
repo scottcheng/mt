@@ -1,0 +1,12 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "体育", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "physical education", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "physical education", "POS" : "n", "sense" : "P.E., school sports lessons", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "体育", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

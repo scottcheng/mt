@@ -1,0 +1,31 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "我", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "I", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "me", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "I", "POS" : "pron", "sense" : "first person: myself", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "我", "POS" : "pron", "sense" : "第一人称"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "me", "POS" : "pron", "sense" : "objective case of I", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "我", "POS" : "pron", "sense" : "人称代词，宾格"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "me", "POS" : "pron", "sense" : "dative case of I", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "我", "POS" : "pron", "sense" : "人称代词，受格"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "me", "POS" : "pron", "sense" : "instead of my with gerund", "usage" : "colloquial"}, 
+		"FirstTranslation" : {"term" : "我", "POS" : "pron", "sense" : "口语，做动名词的主语，代替my"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "us", "POS" : "pron", "sense" : "objective case of I", "usage" : "colloquial"}, 
+		"FirstTranslation" : {"term" : "我 ", "POS" : "pron", "sense" : "口语"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "moi", "POS" : "n", "sense" : "me: used humorously", "usage" : "French"}, 
+		"FirstTranslation" : {"term" : "我", "POS" : "n", "sense" : "法语，英语中用作诙谐语"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "by myself", "POS" : "adv", "sense" : "on my own", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（我）独立地，（我）独自地", "POS" : "adv", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

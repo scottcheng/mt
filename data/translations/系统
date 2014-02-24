@@ -1,0 +1,24 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "系统", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "system", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "system", "POS" : "n", "sense" : "nervous, digestive, lymphatic, etc.", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "系统", "POS" : "n", "sense" : "神经、消化、淋巴等"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "apparatus", "POS" : "n", "sense" : "anatomy: body parts", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "系统", "POS" : "n", "sense" : "一组器官：如消化系统"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "system", "POS" : "n", "sense" : "computer setup", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "工作系统，系统", "POS" : "n", "sense" : "计算机的"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "apparatus", "POS" : "n", "sense" : "system", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "组织，机制，系统", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "change-over, changeover", "POS" : "n", "sense" : "change from one system to anther", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（系统、工作方法等的）改变，转变，转换", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

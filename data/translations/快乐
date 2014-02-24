@@ -1,0 +1,33 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "快乐", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "happy, joyful", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "happiness", "POS" : "n", "sense" : "contentedness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "快乐，幸福", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "pleasure", "POS" : "n", "sense" : "agreeable feeling", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "高兴，快乐", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "welfare", "POS" : "n", "sense" : "happiness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "幸福，快乐", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "enjoyment", "POS" : "n", "sense" : "pleasure", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "享乐，快乐，享受", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "brightness", "POS" : "n", "sense" : "cheerfulness", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "欢快，乐天，快乐", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "felicity", "POS" : "n", "sense" : "happiness", "usage" : "literary"}, 
+		"FirstTranslation" : {"term" : "幸福，快乐", "POS" : "n", "sense" : "书面语"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "jocundity", "POS" : "n", "sense" : "joviality, jokeyness", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "欢乐，快乐，愉快", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "jollity", "POS" : "n", "sense" : "joviality", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "欢乐，欢庆，快乐，快活，欢闹", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

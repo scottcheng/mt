@@ -1,0 +1,16 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "碰", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "bump", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "touch", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "hit", "POS" : "n", "sense" : "contact", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "撞，碰", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "touch", "POS" : "vtr", "sense" : "enter into contact with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "接触，碰，轻拍", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

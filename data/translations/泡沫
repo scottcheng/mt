@@ -1,0 +1,30 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "泡沫", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "foam", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "bubble", "POS" : "n", "sense" : "liquid, soap", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "泡沫", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "foam", "POS" : "n", "sense" : "beer", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "泡沫", "POS" : "n", "sense" : "啤酒等的"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "foam", "POS" : "n", "sense" : "bubbly form", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "泡沫", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "froth", "POS" : "n", "sense" : "on a liquid: foam", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "泡沫", "POS" : "n", "sense" : "液体上的"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "spume", "POS" : "n", "sense" : "froth, foam", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "泡沫", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "head", "POS" : "n", "sense" : "beer, other foam", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "啤酒泡沫，泡沫", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "spray", "POS" : "n", "sense" : "mist, ocean", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "泡沫，浪花，水雾", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

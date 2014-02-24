@@ -1,0 +1,42 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "成熟", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "ripe; mature", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "mature", "POS" : "vi", "sense" : "person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成熟", "POS" : "vi", "sense" : "用于人"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "ripen", "POS" : "vi", "sense" : "fruit, etc.: mature", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成熟", "POS" : "vi", "sense" : "水果等"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "maturation", "POS" : "n", "sense" : "fruit: ripening", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成熟", "POS" : "n", "sense" : "水果等"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "maturate", "POS" : "vi", "sense" : "grow to maturity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成熟", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "grow", "POS" : "vi", "sense" : "mature", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成长，成熟", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "mature", "POS" : "vi", "sense" : "become mature, ripe", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成熟，长熟", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "maturity", "POS" : "n", "sense" : "person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成熟，完全长成，发育完全", "POS" : "n", "sense" : "人"}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "maturity", "POS" : "n", "sense" : "product, idea", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成熟，完善", "POS" : "n", "sense" : "作品、想法等"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "maturity", "POS" : "n", "sense" : "plant, animal", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成熟，完全长成，发育完全", "POS" : "n", "sense" : "动植物"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "reach maturity", "POS" : "v", "sense" : "grow up, become an adult", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成长，成熟，成年，成人", "POS" : "v", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "growing up", "POS" : "n", "sense" : "process of developing into adult", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成长，成熟，长大", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

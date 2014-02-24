@@ -1,0 +1,31 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "成长", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "grow up", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "grow", "POS" : "vi", "sense" : "mature", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成长，成熟", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "growth", "POS" : "n", "sense" : "process of growing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "发育，成长", "POS" : "n", "sense" : "人"}, 
+		"SecondTranslation" : {"term" : "生长，成长", "POS" : "n", "sense" : "植物等"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "growing", "POS" : "gerund", "sense" : "gerund of grow", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "生长，成长", "POS" : "gerund", "sense" : ""}, "Note" : "grow 的动名词"},
+	"3" :{
+		"OriginalTerm" : { "term" : "evolve", "POS" : "vi", "sense" : "living beings", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "进化，成长，发育", "POS" : "vi", "sense" : "生物"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "grow up", "POS" : "vi", "sense" : "become adult, mature", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "成长，长大", "POS" : "vi", "sense" : "本义"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "reach maturity", "POS" : "v", "sense" : "grow up, become an adult", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成长，成熟，成年，成人", "POS" : "v", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "growing up", "POS" : "n", "sense" : "process of developing into adult", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "成长，成熟，长大", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

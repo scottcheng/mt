@@ -1,0 +1,45 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "消息", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "news, information", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "message", "POS" : "n", "sense" : "communication", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "消息", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "news", "POS" : "n", "sense" : "interesting information", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "消息", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "information", "POS" : "n", "sense" : "news", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "消息，新闻", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "receive", "POS" : "vtr", "sense" : "be informed of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "收到，得到（消息）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "share", "POS" : "vtr", "sense" : "tell", "usage" : "esp UK"}, 
+		"FirstTranslation" : {"term" : "分享（消息）", "POS" : "vtr", "sense" : "尤见于英国用法"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "message", "POS" : "vtr", "sense" : "send a message to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给…消息", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "post", "POS" : "vtr", "sense" : "publish, advertise", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "公布，发布（消息、广告等）", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "word", "POS" : "n", "sense" : "news", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "消息，信息", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "good, goods", "POS" : "n", "sense" : "information", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "消息，情报，新闻", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "info", "POS" : "n", "sense" : "information", "usage" : "abbr, informal"}, 
+		"FirstTranslation" : {"term" : "消息，信息，情报", "POS" : "n", "sense" : "information的缩略形式，非正式用语"}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "gen", "POS" : "n", "sense" : "general information", "usage" : "abbr"}, 
+		"FirstTranslation" : {"term" : "情报，消息", "POS" : "n", "sense" : "general information的缩写形式"}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "guess what", "POS" : "interj", "sense" : "used to announce news", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "猜猜是什么（消息），猜一猜，猜猜看", "POS" : "interj", "sense" : "非正式用语，用于宣布某消息前"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

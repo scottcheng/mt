@@ -1,0 +1,51 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "持续", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "sustain", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "run", "POS" : "vi", "sense" : "continue", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "持续", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "endure", "POS" : "vtr", "sense" : "last through", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "持续", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "last", "POS" : "vi", "sense" : "duration", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "持续，继续", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "last", "POS" : "vtr", "sense" : "continue for the duration", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "继续，持续，延续", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "keep", "POS" : "vi", "sense" : "remain", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "继续做某事，持续（某一行为）", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "stay", "POS" : "vi", "sense" : "endure", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "坚持，持续", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "span, span sth", "POS" : "vtr", "sense" : "endure", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "持续，贯穿，延伸", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "endure", "POS" : "vi", "sense" : "last", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "持久，持续", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "insistence", "POS" : "n", "sense" : "act of insisting", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "坚持，持续", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "continuation", "POS" : "n", "sense" : "act of carrying on", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "继续，持续", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "progression", "POS" : "n", "sense" : "series, sequence", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "一系列，一连串，连续，持续", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "continuously", "POS" : "adv", "sense" : "without interruption", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "持续，连续，不间断", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "persist", "POS" : "vi", "sense" : "remain, continue", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "继续，持续", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "vicennial", "POS" : "adj", "sense" : "lasting for 20 years", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（持续）二十年的", "POS" : "adj", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

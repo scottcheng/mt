@@ -1,0 +1,63 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "表示", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "express; indicate", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "mean", "POS" : "vtr", "sense" : "signify", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表示，意味着", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "express", "POS" : "vtr", "sense" : "say", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表达，表示", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "express", "POS" : "vtr", "sense" : "manifest", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表示，表达", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "represent", "POS" : "vtr", "sense" : "correspond to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表示，等于，相当于", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "mark", "POS" : "n", "sense" : "indication, token", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（情感的）表示，标志", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "expression", "POS" : "n", "sense" : "manifestation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表达，表示，表现，体现", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "gesture", "POS" : "n", "sense" : "act", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "姿态，动作，表示", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "indication", "POS" : "n", "sense" : "sign, suggestion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "标示，暗示，表示，表明", "POS" : "n", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "迹象，象征", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "signify", "POS" : "vtr", "sense" : "indicate by signs", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表示，示意", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "designate", "POS" : "vtr", "sense" : "indicate, denote", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "指示，标示，表示", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "ampersand", "POS" : "n", "sense" : "character, symbol: and", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "[“&”的记号名称(表示“and”的符号)]", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "evince", "POS" : "vtr", "sense" : "prove, demonstrate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "证明，表明，表示，显示", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "signalize, UK: signalise", "POS" : "vtr", "sense" : "indicate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "标志着，表明，表示", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "betoken, betoken sth", "POS" : "vtr", "sense" : "indicate or symbolize", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "预示，表示，象征", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "denotative", "POS" : "adj", "sense" : "indicating sth", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "表示…的，表明…的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "elegiacal", "POS" : "adj", "sense" : "having the nature of an elegy, mournful", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "挽歌（体）的，（表示）哀悼的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "stand for", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "代表，表示", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "容忍，忍耐", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "支持，主张", "POS" : "", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

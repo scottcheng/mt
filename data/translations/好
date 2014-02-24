@@ -1,0 +1,45 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "好", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "good, nice", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "good", "POS" : "interj", "sense" : "expression of approval", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "好！很好！", "POS" : "interj", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "well", "POS" : "adv", "sense" : "in a proper way", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "好，妥善地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "well", "POS" : "adv", "sense" : "satisfactorily", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "好，令人满意地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "notice", "POS" : "vtr", "sense" : "treat favourably", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "客气地对待，对…好", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "fine", "POS" : "adj", "sense" : "OK", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "好，可以，没关系", "POS" : "adj", "sense" : "口语"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "hooray", "POS" : "excl", "sense" : "expressing praise", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "好！好啊！", "POS" : "excl", "sense" : "表达赞美的欢呼声"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "curry", "POS" : "vtr", "sense" : "favour: seek, solicit", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "讨（好）", "POS" : "vtr", "sense" : ""}, "Note" : "常作curry favour (with sb.)"},
+	"7" :{
+		"OriginalTerm" : { "term" : "outperform", "POS" : "vtr", "sense" : "do better than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "做得比...好，胜过…，超越…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "terrifically", "POS" : "adv", "sense" : "extremely, wonderfully", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "极端地，非常（好）地", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "rah", "POS" : "interj", "sense" : "sports cheer", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "好！太好了！", "POS" : "interj", "sense" : "体育比赛中的欢呼"}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "righto", "POS" : "interj", "sense" : "used to acknowledge or agree", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "好，行，可以", "POS" : "interj", "sense" : "非正式用语"}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "all right", "POS" : "adj", "sense" : "fine, well", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "好，行", "POS" : "adj", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

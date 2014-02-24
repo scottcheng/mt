@@ -1,0 +1,22 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "随后", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "following", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "later", "POS" : "adv", "sense" : "subsequently", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "随后", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "succeed", "POS" : "vtr", "sense" : "follow", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "继任，继承", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "接下来，接着，随后", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "consequently", "POS" : "adv", "sense" : "afterward", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "然后，随后", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "subsequently", "POS" : "adv", "sense" : "next, then", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "随后，后来，接下来", "POS" : "adv", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

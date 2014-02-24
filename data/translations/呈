@@ -1,0 +1,13 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "呈", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "appear, look like", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "hand in to a superior", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "take the shape of", "POS" : "v", "sense" : "assume the form of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "呈…形状，以某种形式出现", "POS" : "v", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

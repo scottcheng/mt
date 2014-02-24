@@ -1,0 +1,169 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "和", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "and", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "with", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "harmony", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "and", "POS" : "conj", "sense" : "alternatives", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和", "POS" : "conj", "sense" : "表示选择"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "and", "POS" : "conj", "sense" : "together with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和，再加上", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "and", "POS" : "conj", "sense" : "as well as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和，同，与，及", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "like", "POS" : "prep", "sense" : "in the same way as", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "和…相像，接近于，类似于", "POS" : "prep", "sense" : "非正式用语"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "with", "POS" : "prep", "sense" : "accompanying", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "随着，与…一起，和，同", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "against", "POS" : "prep", "sense" : "sports, games", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…比赛，对抗…，和…是竞争对手", "POS" : "prep", "sense" : "运动、比赛中"}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "against", "POS" : "prep", "sense" : "contrast", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "相对…来说，和…对照", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "against", "POS" : "prep", "sense" : "compensation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "根据…，和…对比", "POS" : "prep", "sense" : "赔偿"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "marry", "POS" : "vtr", "sense" : "take as wife or husband", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "嫁，和…结婚", "POS" : "vtr", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "娶，和…结婚", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "match", "POS" : "vtr", "sense" : "go with harmoniously", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…相称，和…相配，和…相适合", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "sign, sign sb", "POS" : "vtr", "sense" : "agent, team: hire or employ", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "签下，和…签约", "POS" : "vtr", "sense" : "通过签约来雇佣"}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "than", "POS" : "prep", "sense" : "in a comparison", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…比较，与…相比", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "battle", "POS" : "vtr", "sense" : "fight sb or some group", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…搏斗", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "bag", "POS" : "vtr", "sense" : "have sex with", "usage" : "offensive slang"}, 
+		"FirstTranslation" : {"term" : "与…性交，和…做爱", "POS" : "vtr", "sense" : "无礼，俚语"}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "border", "POS" : "vtr", "sense" : "form a border with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…交界，与…接壤", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "contradict", "POS" : "vtr", "sense" : "be at odds with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…不和，和…冲突，和…抵触", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "befriend", "POS" : "vtr", "sense" : "become friends with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…交朋友", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "appertain, appertain to sth", "POS" : "vi", "sense" : "relate or belong", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…有关，属于", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "as much as", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "多达，象…一样多", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "差不多，实际上", "POS" : "", "sense" : ""}, 
+		"ThirdTranslation" : {"term" : "和…程度相若", "POS" : "", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "get together with", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…聚会", "POS" : "", "sense" : ""}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "identify yourself with", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "参与（团体等）", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "和…打成一片", "POS" : "", "sense" : ""}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "meet with", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…会面", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "遭受，遭遇", "POS" : "", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "reason with", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…说理，和…讲道理", "POS" : "", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "associate with", "POS" : "vtr", "sense" : "keep the company of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…打交道，和…来往，联系…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "at variance with", "POS" : "prep", "sense" : "in disagreement with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…意见不同，和…有矛盾", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "blend in with", "POS" : "vtr", "sense" : "be camouflaged among", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "隐蔽于，和（环境等）融合在一起（以隐蔽）", "POS" : "vtr", "sense" : "本义"}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "come in contact with", "POS" : "vtr", "sense" : "meet sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "遇见，和（某人）接触", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "confer with", "POS" : "vtr", "sense" : "consult, discuss with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…商量，与…协商，和…商讨，同…商榷，与…商谈", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "contrary to", "POS" : "prep", "sense" : "in opposition to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…相反，与…相对", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "fool with", "POS" : "vtr", "sense" : "play around with", "usage" : "slang"}, 
+		"FirstTranslation" : {"term" : "玩弄，乱搞（男女关系），和…鬼混", "POS" : "vtr", "sense" : "俚语"}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "in concert with", "POS" : "prep", "sense" : "jointly with, in conjunction with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…协力，与…共同，和…一致，和…协调", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "in conflict with", "POS" : "prep", "sense" : "against, not agreeing with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…冲突，和…相抵触", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "join with", "POS" : "vtr", "sense" : "accompany", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…一起，和…共同", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "join with", "POS" : "vtr", "sense" : "combine, connect ", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…结合，和…连接，与…交接", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "nose to nose with", "POS" : "prep", "sense" : "very close to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…很亲昵，与…面对面，和…靠得很近", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "not square with", "POS" : "vtr", "sense" : "fail to correspond with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…不一致，和…不相符", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "nothing like", "POS" : "prep", "sense" : "totally dissimilar to, completely unlike", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…完全不同，和…丝毫不像", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "opposite to", "POS" : "prep", "sense" : "antithesis of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…对立，和…形成对照", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"38" :{
+		"OriginalTerm" : { "term" : "set against", "POS" : "vtr", "sense" : "contrast with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "把…和…进行比较", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"39" :{
+		"OriginalTerm" : { "term" : "smell like", "POS" : "vtr", "sense" : "have the same scent as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "闻起来像…，和…的味道差不多", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"40" :{
+		"OriginalTerm" : { "term" : "speak to", "POS" : "vtr", "sense" : "talk with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…谈话，和…说话", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"41" :{
+		"OriginalTerm" : { "term" : "speak with", "POS" : "vtr", "sense" : "talk to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…谈话，与…交谈", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"42" :{
+		"OriginalTerm" : { "term" : "take up with", "POS" : "vtr", "sense" : "start keeping company of", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "和…交往", "POS" : "vtr", "sense" : "非正式用语"}, "Note" : ""},
+	"43" :{
+		"OriginalTerm" : { "term" : "trade with", "POS" : "vtr", "sense" : "do business with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…做生意，与…进行贸易", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"44" :{
+		"OriginalTerm" : { "term" : "transact business with", "POS" : "vtr", "sense" : "have commercial dealings with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…进行交易，与…洽谈业务，和…做买卖", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"45" :{
+		"OriginalTerm" : { "term" : "travel with", "POS" : "vtr", "sense" : "accompany on a journey", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…结伴旅行，和…一起去旅游", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"46" :{
+		"OriginalTerm" : { "term" : "unite with", "POS" : "vtr", "sense" : "join forces with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…联合起来，和…团结起来", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"47" :{
+		"OriginalTerm" : { "term" : "very like", "POS" : "prep", "sense" : "almost identical to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "与…非常像，和…十分相像，近似于…，类似于…", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"48" :{
+		"OriginalTerm" : { "term" : "as good as", "POS" : "prep", "sense" : "of equal quality to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…几乎一样好", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"49" :{
+		"OriginalTerm" : { "term" : "as little as", "POS" : "prep", "sense" : "a quantity as small as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和…一样少", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"50" :{
+		"OriginalTerm" : { "term" : "be with", "POS" : "vtr", "sense" : "be in the company of", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和 ... 一起", "POS" : "vtr", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

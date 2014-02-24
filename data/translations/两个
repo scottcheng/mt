@@ -1,0 +1,26 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "both", "POS" : "pron", "sense" : "one as well as another", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "两个（都），两人（都）", "POS" : "pron", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "both", "POS" : "adj", "sense" : "one and the other thing", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "两个（…都），两者（…都）", "POS" : "adj", "sense" : "事物"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "both", "POS" : "adj", "sense" : "one and the other person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "两个…（都）", "POS" : "adj", "sense" : "人"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "two", "POS" : "n", "sense" : "cardinal number after one", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "二，两个", "POS" : "n", "sense" : "基数词"}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "couple", "POS" : "n", "sense" : "two", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "两个，一对", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "2", "POS" : "adj", "sense" : "two in number", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "两个（的），二（的）", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "a couple of", "POS" : "adj", "sense" : "two, a pair of", "usage" : "colloquial"}, 
+		"FirstTranslation" : {"term" : "两个，一双", "POS" : "", "sense" : "口语"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

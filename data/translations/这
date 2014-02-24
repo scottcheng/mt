@@ -1,0 +1,24 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "这", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "this, the", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "it", "POS" : "pron", "sense" : "origin: of an emotion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "这", "POS" : "pron", "sense" : "指某种情感的缘由"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "it", "POS" : "pron", "sense" : "person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "那，这", "POS" : "pron", "sense" : "指性别不祥的人"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "this", "POS" : "pron", "sense" : "sthg near", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "这，这个", "POS" : "pron", "sense" : "指面前或附近之物"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "this", "POS" : "adj", "sense" : "sthg or sb nearby", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "这，这个的，这人的，这事的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "this", "POS" : "adj", "sense" : "sthg or sb recently mentioned", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "这，这个", "POS" : "adj", "sense" : "指刚刚提到的人或事物"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

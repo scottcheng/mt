@@ -1,0 +1,12 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "somebody", "POS" : "pron", "sense" : "any person", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "有人", "POS" : "pron", "sense" : "（例：有人在吗？）"}, 
+		"SecondTranslation" : {"term" : "随便一个人", "POS" : "pron", "sense" : "（例：随便找个人做做便是。）"}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "someone", "POS" : "pron", "sense" : "somebody", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "某人，有人", "POS" : "pron", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

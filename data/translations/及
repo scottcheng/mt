@@ -1,0 +1,12 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "及", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "and", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "and", "POS" : "conj", "sense" : "as well as", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "和，同，与，及", "POS" : "conj", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

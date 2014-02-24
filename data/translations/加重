@@ -1,0 +1,21 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "加重", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "worsen, make more serious", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "compound, compound sth", "POS" : "vtr", "sense" : "make worse", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "加重，使恶化", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "exacerbate", "POS" : "vtr", "sense" : "intensify, worsen", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "加重，使恶化", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "aggravation", "POS" : "n", "sense" : "becoming more serious", "usage" : "literal"}, 
+		"FirstTranslation" : {"term" : "恶化，加重", "POS" : "n", "sense" : "本义"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "become aggravated", "POS" : "v", "sense" : "situation: become more serious", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "加剧，恶化，加重", "POS" : "v", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

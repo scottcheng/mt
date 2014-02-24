@@ -1,0 +1,30 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "leave", "POS" : "vtr", "sense" : "let remain", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "留下，留给，留着，留", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "leave", "POS" : "vtr", "sense" : "deposit, give", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "把…留在，留下，将…留给", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "hold", "POS" : "vi", "sense" : "remain, continue", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "留下，继续", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "keep", "POS" : "vtr", "sense" : "not return", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "留下，不退还", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "remain", "POS" : "vi", "sense" : "stay behind", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "依然在，继续在，留在，留下", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "stay", "POS" : "vi", "sense" : "remain", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "留下，逗留，暂住", "POS" : "vi", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "继续是，保持", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "stay", "POS" : "vi", "sense" : "sojourn", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "逗留，留下，暂住", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "stick around", "POS" : "vi", "sense" : "stay", "usage" : "informal"}, 
+		"FirstTranslation" : {"term" : "逗留，停留，留下，等着", "POS" : "vi", "sense" : "非正式用语"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

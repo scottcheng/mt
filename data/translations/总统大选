@@ -1,0 +1,8 @@
+{
+"term0" : {
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "presidential election", "POS" : "n", "sense" : "public voting for president", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "总统选举，总统大选，总统竞选", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

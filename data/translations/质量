@@ -1,0 +1,25 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "质量", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "quality", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "quality", "POS" : "n", "sense" : "relative excellence", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "质量", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "mass", "POS" : "n", "sense" : "physics", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "质量", "POS" : "n", "sense" : "物理"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "order", "POS" : "n", "sense" : "quality", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "质量，品质", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "accumulate", "POS" : "vi", "sense" : "increase, build up", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "积累，积聚，（数量）逐渐增加", "POS" : "vi", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "（质量）逐渐提高，积累", "POS" : "vi", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "caliber", "POS" : "n", "sense" : "degree or quality", "usage" : "US, figurative"}, 
+		"FirstTranslation" : {"term" : "质量，水准", "POS" : "n", "sense" : "美国用法，比喻"}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

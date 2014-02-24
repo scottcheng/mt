@@ -1,0 +1,40 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "趋势", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "trend", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "inclination", "POS" : "n", "sense" : "tendency", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "趋势", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "current", "POS" : "n", "sense" : "tendency", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "倾向，趋势", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "cast", "POS" : "n", "sense" : "tendency", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "趋势，倾向", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "trend", "POS" : "n", "sense" : "tendency", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "趋向，倾向，趋势", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "bias", "POS" : "n", "sense" : "prejudice, inclination", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "偏心，偏袒，偏向，偏见", "POS" : "n", "sense" : "歧视"}, 
+		"SecondTranslation" : {"term" : "倾向，趋势", "POS" : "n", "sense" : "倾向"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "strain", "POS" : "n", "sense" : "tendency", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "趋势，倾向", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "direction", "POS" : "npl", "sense" : "course", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "趋势，动向", "POS" : "npl", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "drift", "POS" : "n", "sense" : "insinuation", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（逐渐）趋向，趋势，动向，倾向", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "tide", "POS" : "n", "sense" : "opinion, flow", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "潮流，趋势，倾向", "POS" : "n", "sense" : "比喻"}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "tendency", "POS" : "n", "sense" : "wind, current: direction", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "趋势，趋向", "POS" : "n", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}

@@ -1,0 +1,142 @@
+{
+"term0" : {
+"Entries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "比", "POS" : "", "sense" : "", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "than", "POS" : "", "sense" : ""}, 
+		"SecondTranslation" : {"term" : "compare", "POS" : "", "sense" : ""}, "Note" : ""}},
+"OtherSideEntries" : {
+	"0" :{
+		"OriginalTerm" : { "term" : "better", "POS" : "adj", "sense" : "comparative of good", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "相比之下更好的，比…更好的，（两者中）较好的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"1" :{
+		"OriginalTerm" : { "term" : "more", "POS" : "adj", "sense" : "in greater degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "更多的，多出的，比…多的", "POS" : "adj", "sense" : "时间等"}, "Note" : ""},
+	"2" :{
+		"OriginalTerm" : { "term" : "more", "POS" : "adj", "sense" : "in greater quantity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "更多的，多出的，比…多的", "POS" : "adj", "sense" : "数量"}, "Note" : ""},
+	"3" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "compared with", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比，与…相比", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"4" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "opposition", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "相对，比", "POS" : "prep", "sense" : "表示比较"}, "Note" : ""},
+	"5" :{
+		"OriginalTerm" : { "term" : "to", "POS" : "prep", "sense" : "ratio", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比，比率", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"6" :{
+		"OriginalTerm" : { "term" : "raise", "POS" : "vtr", "sense" : "poker bet", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "给（赌注）加码，比…多下注", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"7" :{
+		"OriginalTerm" : { "term" : "under", "POS" : "adv", "sense" : "in a lower degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "低于…地，比…低", "POS" : "adv", "sense" : "度数等"}, "Note" : ""},
+	"8" :{
+		"OriginalTerm" : { "term" : "beat", "POS" : "vtr", "sense" : "arrive before", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…提前到达，胜过…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"9" :{
+		"OriginalTerm" : { "term" : "behind", "POS" : "prep", "sense" : "later in time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "落后于…，迟于…，比…晚", "POS" : "prep", "sense" : "时间上"}, "Note" : ""},
+	"10" :{
+		"OriginalTerm" : { "term" : "less", "POS" : "adj", "sense" : "smaller", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…小的，更小的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"11" :{
+		"OriginalTerm" : { "term" : "than", "POS" : "conj", "sense" : "in a comparison", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比，比较", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"12" :{
+		"OriginalTerm" : { "term" : "direct", "POS" : "adj", "sense" : "math: proportion", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "正（比）的", "POS" : "adj", "sense" : "数学术语"}, "Note" : ""},
+	"13" :{
+		"OriginalTerm" : { "term" : "survive", "POS" : "vtr", "sense" : "continue to exist after the death of sb", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "活过，在…过世后继续活着，比…活得久", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"14" :{
+		"OriginalTerm" : { "term" : "override", "POS" : "vtr", "sense" : "be more important than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…重要，优先于", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"15" :{
+		"OriginalTerm" : { "term" : "ratio", "POS" : "n", "sense" : "4:1, relative rate", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比，比率", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"16" :{
+		"OriginalTerm" : { "term" : "outlive", "POS" : "vtr", "sense" : "live longer than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…活得长", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"17" :{
+		"OriginalTerm" : { "term" : "cooler", "POS" : "adj", "sense" : "temperature: less warm", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "更冷的，比…冷的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"18" :{
+		"OriginalTerm" : { "term" : "outsmart", "POS" : "vtr", "sense" : "beat by cunning", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…更聪明，智胜", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"19" :{
+		"OriginalTerm" : { "term" : "shorter", "POS" : "adj", "sense" : "person: less tall", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "较矮的，比…矮的", "POS" : "adj", "sense" : "人"}, "Note" : ""},
+	"20" :{
+		"OriginalTerm" : { "term" : "shorter", "POS" : "adj", "sense" : "lasting less time", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…短暂的，更为短暂的", "POS" : "adj", "sense" : "时间"}, "Note" : ""},
+	"21" :{
+		"OriginalTerm" : { "term" : "outlast", "POS" : "vtr", "sense" : "last longer than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比...长久, 比…持续得长", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"22" :{
+		"OriginalTerm" : { "term" : "outbid", "POS" : "vtr", "sense" : "offer more money than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…出更高的价格，出价高于…，出高于…的价格", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"23" :{
+		"OriginalTerm" : { "term" : "outclass", "POS" : "vtr", "sense" : "be better than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "远胜于…，比…更好，比…更高级，大大地超过…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"24" :{
+		"OriginalTerm" : { "term" : "outrun", "POS" : "vtr", "sense" : "run faster than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…跑得快", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"25" :{
+		"OriginalTerm" : { "term" : "predate", "POS" : "vtr", "sense" : "date back earlier than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…时间早，早于…，将…日期填得早于实际日期", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"26" :{
+		"OriginalTerm" : { "term" : "upstage", "POS" : "vtr", "sense" : "outdo, be more impressive than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "盖过…的风头，抢…镜头，比…更吸引人", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"27" :{
+		"OriginalTerm" : { "term" : "outdraw, outdraw sb", "POS" : "vtr", "sense" : "attract more audience than ", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…吸引更多的人", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"28" :{
+		"OriginalTerm" : { "term" : "outdraw, outdraw sb", "POS" : "vtr", "sense" : "pull out a firearm faster than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…更快亮出武器", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"29" :{
+		"OriginalTerm" : { "term" : "a cut above", "POS" : "adj", "sense" : "superior to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "优于，比…更好，比…略胜一筹", "POS" : "", "sense" : ""}, "Note" : ""},
+	"30" :{
+		"OriginalTerm" : { "term" : "not comparable to", "POS" : "adj", "sense" : "inferior to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比不上…的，比…差的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"31" :{
+		"OriginalTerm" : { "term" : "not so many", "POS" : "adj", "sense" : "fewer", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "没有那么多的，比…少的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"32" :{
+		"OriginalTerm" : { "term" : "not so much", "POS" : "adj", "sense" : "less", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "较少的，（比）…少的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"33" :{
+		"OriginalTerm" : { "term" : "prevail over", "POS" : "vtr", "sense" : "triumph over, be greater than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "战胜…，胜过…，比…更有优势，强于…", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"34" :{
+		"OriginalTerm" : { "term" : "sooner than", "POS" : "conj", "sense" : "before, earlier than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…更早，比…更快", "POS" : "conj", "sense" : ""}, "Note" : ""},
+	"35" :{
+		"OriginalTerm" : { "term" : "subordinate to", "POS" : "prep", "sense" : "secondary to, less important than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比…次要", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"36" :{
+		"OriginalTerm" : { "term" : "subordinate to", "POS" : "prep", "sense" : "of lower rank than", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "比...级别或职位低", "POS" : "prep", "sense" : ""}, "Note" : ""},
+	"37" :{
+		"OriginalTerm" : { "term" : "be better than", "POS" : "vtr", "sense" : "be superior to", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "优于…，比…更好", "POS" : "vtr", "sense" : ""}, "Note" : ""},
+	"38" :{
+		"OriginalTerm" : { "term" : "be bigger than", "POS" : "vtr", "sense" : "be more important or far-reaching than", "usage" : "figurative"}, 
+		"FirstTranslation" : {"term" : "比…更重要，比…更意义深远", "POS" : "vtr", "sense" : "比喻"}, "Note" : ""},
+	"39" :{
+		"OriginalTerm" : { "term" : "much better", "POS" : "adj", "sense" : "greatly superior", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（比…）优秀多了的，好多了的", "POS" : "adj", "sense" : ""}, "Note" : ""},
+	"40" :{
+		"OriginalTerm" : { "term" : "much less", "POS" : "n", "sense" : "a considerably smaller quantity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（比…）少得多", "POS" : "", "sense" : ""}, "Note" : ""},
+	"41" :{
+		"OriginalTerm" : { "term" : "much less", "POS" : "adv", "sense" : "to a lesser degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（比…）程度低得多", "POS" : "adv", "sense" : ""}, "Note" : ""},
+	"42" :{
+		"OriginalTerm" : { "term" : "much more", "POS" : "n", "sense" : "a considerably larger quantity", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（比…）多得多", "POS" : "n", "sense" : ""}, "Note" : ""},
+	"43" :{
+		"OriginalTerm" : { "term" : "much more", "POS" : "adv", "sense" : "to a greater degree", "usage" : ""}, 
+		"FirstTranslation" : {"term" : "（比…）程度高得多", "POS" : "adv", "sense" : ""}, "Note" : ""}}},
+"Lines" : "End Reached", "END" : true
+}
