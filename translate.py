@@ -5,8 +5,9 @@ from util import read_json
 
 import config
 
-dictionary = read_json(config.WORD_TRANSLATION_JSON)
-segmented_sentences = read_json(config.SENTENCES_JSON)
+# use manually corrected dataset
+dictionary = read_json(config.WORD_TRANSLATION_JSON_CORRECTED)
+segmented_sentences = read_json(config.SENTENCES_JSON_CORRECTED)
 # random shuffle the sentences in deterministic fashion
 random.seed('CS124-MT')
 random.shuffle(segmented_sentences)
