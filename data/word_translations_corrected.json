@@ -84,7 +84,7 @@
     "一切": [
         [
             "all", 
-            ""
+            "adj"
         ], 
         [
             "anything", 
@@ -645,8 +645,12 @@
     ], 
     "尖端": [
         [
-            "sophisticated; sharp end", 
-            ""
+            "sophisticated", 
+            "adj"
+        ], 
+        [
+            "sharp end", 
+            "n"
         ], 
         [
             "tip", 
@@ -666,7 +670,7 @@
         ], 
         [
             "cutting-edge", 
-            "n"
+            "adj"
         ]
     ], 
     "许多": [
@@ -758,7 +762,7 @@
     "到": [
         [
             "arrive", 
-            ""
+            "vi"
         ], 
         [
             "into", 
@@ -956,7 +960,7 @@
     "生动": [
         [
             "vivid", 
-            ""
+            "adj"
         ], 
         [
             "color", 
@@ -1196,14 +1200,6 @@
         ]
     ], 
     "日": [
-        [
-            "sun", 
-            ""
-        ], 
-        [
-            "set", 
-            "n"
-        ], 
         [
             "sun", 
             "n"
@@ -1835,23 +1831,19 @@
     ], 
     "自由": [
         [
-            "liberty", 
-            ""
+            "free", 
+            "adj"
         ], 
         [
-            "freedom", 
-            "n"
-        ], 
-        [
-            "freedom", 
-            "n"
-        ], 
-        [
-            "freedom", 
-            "n"
+            "liberated", 
+            "adj"
         ], 
         [
             "liberty", 
+            "n"
+        ], 
+        [
+            "freedom", 
             "n"
         ], 
         [
@@ -1907,12 +1899,12 @@
     ], 
     "气": [
         [
-            "angry", 
-            ""
+            "be enraged", 
+            "vi"
         ], 
         [
             "unhappy", 
-            ""
+            "adj"
         ], 
         [
             "chi", 
@@ -2406,11 +2398,11 @@
     "残酷": [
         [
             "cruel", 
-            ""
+            "adj"
         ], 
         [
             "ruthless", 
-            ""
+            "adj"
         ], 
         [
             "cruelty", 
@@ -3006,7 +2998,7 @@
         ], 
         [
             "little", 
-            "n"
+            "adj"
         ], 
         [
             "touch", 
@@ -3665,15 +3657,15 @@
     ], 
     "自信": [
         [
-            "confident; confidence", 
-            ""
-        ], 
-        [
-            "authority", 
-            "n"
+            "confidenct", 
+            "adj"
         ], 
         [
             "confidence", 
+            "n"
+        ], 
+        [
+            "authority", 
             "n"
         ], 
         [
@@ -3682,7 +3674,7 @@
         ], 
         [
             "self-worth", 
-            ""
+            "n"
         ], 
         [
             "self-confidence", 
@@ -3858,14 +3850,10 @@
     "可以": [
         [
             "can", 
-            ""
+            "v aux"
         ], 
         [
             "may", 
-            ""
-        ], 
-        [
-            "can", 
             "v aux"
         ], 
         [
@@ -3874,14 +3862,6 @@
         ], 
         [
             "could", 
-            "v aux"
-        ], 
-        [
-            "can", 
-            "v aux"
-        ], 
-        [
-            "may", 
             "v aux"
         ], 
         [
@@ -3899,14 +3879,6 @@
         [
             "fine", 
             "adj"
-        ], 
-        [
-            "could", 
-            "v aux"
-        ], 
-        [
-            "could", 
-            "v aux"
         ], 
         [
             "okay", 
@@ -3928,7 +3900,7 @@
     "美式": [
         [
             "American-style",
-            ""
+            "adj"
         ]
     ], 
     "系统": [
@@ -4822,14 +4794,14 @@
     "阴暗": [
         [
             "dark", 
-            ""
+            "adj"
         ], 
         [
             "gloomy", 
-            ""
+            "adj"
         ], 
         [
-            "blackness", 
+            "darkness", 
             "n"
         ], 
         [
@@ -4863,12 +4835,16 @@
     ], 
     "加重": [
         [
+            "exacerbating", 
+            "adj"
+        ], 
+        [
             "worsen", 
-            ""
+            "vi"
         ], 
         [
             "make more serious", 
-            ""
+            "vtr"
         ], 
         [
             "compound", 
@@ -5728,7 +5704,7 @@
     "成长": [
         [
             "grow up", 
-            ""
+            "vi"
         ], 
         [
             "grow", 
@@ -5737,6 +5713,10 @@
         [
             "growth", 
             "n"
+        ], 
+        [
+            "growing up", 
+            "gerund"
         ], 
         [
             "growing", 
@@ -5768,11 +5748,11 @@
     "快乐": [
         [
             "happy", 
-            ""
+            "adj"
         ], 
         [
             "joyful", 
-            ""
+            "n"
         ], 
         [
             "happiness", 
@@ -5809,12 +5789,16 @@
     ], 
     "深情": [
         [
+            "fondly", 
+            "adv"
+        ], 
+        [
             "profound feeling", 
-            ""
+            "n"
         ], 
         [
             "deep love", 
-            ""
+            "n"
         ], 
         [
             "love", 
@@ -6388,7 +6372,7 @@
     "任何": [
         [
             "any", 
-            ""
+            "adj"
         ], 
         [
             "whatever", 
@@ -7135,6 +7119,10 @@
     ], 
     "该": [
         [
+            "this", 
+            "adj"
+        ], 
+        [
             "should", 
             ""
         ], 
@@ -7511,8 +7499,16 @@
     ], 
     "前": [
         [
+            "former", 
+            "adj"
+        ], 
+        [
             "front", 
-            ""
+            "adj"
+        ], 
+        [
+            "front", 
+            "n"
         ], 
         [
             "before", 
@@ -8150,11 +8146,11 @@
     "几乎": [
         [
             "nearly", 
-            ""
+            "adv"
         ], 
         [
             "almost", 
-            ""
+            "adv"
         ], 
         [
             "most", 
@@ -8169,19 +8165,7 @@
             "adv"
         ], 
         [
-            "almost", 
-            "adv"
-        ], 
-        [
             "near", 
-            "adv"
-        ], 
-        [
-            "near", 
-            "adv"
-        ], 
-        [
-            "nearly", 
             "adv"
         ], 
         [
@@ -8273,8 +8257,12 @@
     ], 
     "称": [
         [
+            "claim", 
+            "vi"
+        ], 
+        [
             "name as", 
-            ""
+            "vtr"
         ], 
         [
             "term", 
@@ -8323,8 +8311,12 @@
     ], 
     "关了门": [
         [
+            "was closed",
+            "v"
+        ],
+        [
             "closed the door",
-            ""
+            "v"
         ]
     ], 
     "民主": [

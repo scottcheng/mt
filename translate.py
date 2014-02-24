@@ -30,10 +30,7 @@ def translate_word(sentence, idx, dictionary):
         # punctuation
         return punctuation.get(word, word)
 
-    if word not in dictionary:
-        # should contain only alphanumeric characters
-        if not alphanumeric_pattern.match(word):
-            raise ValueError(u'Should have translation for word %s' % word)
+    if pos == 'eng':
         return word
 
     # translate normal word
