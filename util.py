@@ -15,7 +15,12 @@ def extract_sentences(f):
 
 def read_json(json_file):
     with open(json_file, 'rb') as in_file:
-        return json.load(in_file)
+        content = in_file.read()
+        try:
+            return json.loads(content)
+        except:
+            # patch errorneous json returned by wordreference.com JSON API
+            return json.loads(content + '}')
 
 if __name__ == '__main__':
     import sys

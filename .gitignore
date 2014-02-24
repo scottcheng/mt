@@ -1,6 +1,9 @@
 # OSX
 .DS_Store
 
+# vim temp files
+.*.sw[p-z]
+
 *.py[cod]
 
 # C extensions
