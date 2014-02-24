@@ -1,14 +1,16 @@
-import os.path
+import os
 import json
 import time
 import pickle
 import requests
-import jieba.posseg
 from util import extract_sentences, read_json
 
 import config
 
 def segment_sentence(sentences_file, out_file):
+    # load on demand to reduce file loading time
+    import jieba.posseg
+
     sentences = extract_sentences(sentences_file)
 
     segmented_sentences = []
@@ -58,11 +60,16 @@ def grab_word_translations(sentences, wr_api_keys, cache_dir):
 
 if __name__ == '__main__':
     import sys
+
     if len(sys.argv) < 2:
         print 'python %s <sentence_file>' % sys.argv[0]
         sys.exit(-1)
 
-    # segment_sentence(sys.argv[1], config.SENTENCES_JSON)
-    sentences = read_json(config.SENTENCES_JSON)
-    # use wordreference.com API to cache translations
-    grab_word_translations(sentences, config.WR_API_KEYS, config.TRANSLATION_DIR)
+    if not os.path.exists(config.SENTENCES_JSON):
+        # segmente sentences and store results to file
+        segment_sentence(sys.argv[1], config.SENTENCES_JSON)
+
+    if not os.path.exists(config.TRANSLATION_DIR) or len(os.listdir(config.TRANSLATION_DIR)) == 0:
+        sentences = read_json(config.SENTENCES_JSON)
+        # use wordreference.com API to cache translations
+        grab_word_translations(sentences, config.WR_API_KEYS, config.TRANSLATION_DIR)
