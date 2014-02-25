@@ -24,6 +24,31 @@ punctuation = {
 
 alphanumeric_pattern = re.compile(r'^\w+$')
 
+def match_pos(word_pos, trans_pos):
+    if word_pos[0] == 'n':
+        return trans_pos == 'n'
+    elif word_pos == 'v':
+        return len(trans_pos) and trans_pos[0] == 'v'
+
+    pos_map = {
+        'a': 'adj',
+        'ad': 'adv',
+        'd': 'adv',
+        'u': 'v aux',
+        'r': 'pron',
+        'p': 'prep',
+        'prep': 'prep',
+        'c': 'conj',
+        't': 'n'
+    }
+    return word_pos in pos_map and pos_map[word_pos] == trans_pos
+
+def select_translate(sentence, idx, word, translations):
+    for trans in translations:
+        if match_pos(word[1], trans[1]):
+            return trans
+    return translations[0]
+
 def translate_word(sentence, idx, dictionary):
     word, pos = sentence[idx]
     if pos == 'x':
@@ -34,9 +59,8 @@ def translate_word(sentence, idx, dictionary):
         return word
 
     # translate normal word
-    # for now, just use the first translation
     translations = dictionary[word]
-    trans, pos = translations[0]
+    trans, pos = select_translate(sentence, idx, (word, pos), translations)
 
     # handle multiple equivalence, e.g. 'express; indicate'
     if ';' in trans:
