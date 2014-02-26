@@ -3,6 +3,7 @@ import re
 import random
 from util import read_json
 
+from ngram import NGram
 import config
 
 # use manually corrected dataset
@@ -26,7 +27,7 @@ alphanumeric_pattern = re.compile(r'^\w+$')
 
 def match_pos(word_pos, trans_pos):
     if word_pos[0] == 'n':
-        return trans_pos == 'n'
+        return trans_pos == 'n' or trans_pos == 'gerund'
     elif word_pos == 'v':
         return len(trans_pos) and trans_pos[0] == 'v'
 
@@ -39,14 +40,20 @@ def match_pos(word_pos, trans_pos):
         'p': 'prep',
         'prep': 'prep',
         'c': 'conj',
-        't': 'n'
+        't': 'n',
+        'm': 'n'
     }
     return word_pos in pos_map and pos_map[word_pos] == trans_pos
 
 def select_translate(sentence, idx, word, translations):
-    for trans in translations:
-        if match_pos(word[1], trans[1]):
-            return trans
+    # construct a list of translations with the same pos as word
+    same_pos_translations = filter(lambda t: match_pos(word[1], t[1]), translations)
+    ng = NGram()
+
+    if len(same_pos_translations) > 0:
+        max_unigram_trans = max(same_pos_translations, key=lambda t: ng.get(t[0]))
+        return max_unigram_trans
+
     return translations[0]
 
 def translate_word(sentence, idx, dictionary):
