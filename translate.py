@@ -59,7 +59,7 @@ subject_pronoun = {
 
 DIGITS_PATTERN = re.compile(r'^\d+$')
 
-def select_translate(sentence, idx, word, translations):
+def select_translation(sentence, idx, word, translations):
     # make sure the subject pronoun is in subject form
     # heuristic: if it's the first word or the previous word is punctuation
     # or conjunction, it's considered a subject
@@ -103,11 +103,12 @@ def translate_word(sentence, idx, dictionary):
 
     # translate normal word
     translations = dictionary[word]
-    trans, pos = select_translate(sentence, idx, (word, pos), translations)
-
     # handle multiple equivalence, e.g. 'express; indicate'
-    if ';' in trans:
-        trans = trans[:trans.index(';')]
+    translations = map(
+        lambda t: (t[0][:t[0].index(';')], t[1]) if ';' in t[0] else t,
+        translations)
+
+    trans, pos = select_translation(sentence, idx, (word, pos), translations)
 
     return trans
 
