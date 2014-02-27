@@ -92,7 +92,22 @@ def select_translation(sentence, idx, word, translations):
 
     return translations[0]
 
+def find_clause(sentence, idx):
+    """find the clause that the word at idx belongs to"""
+    start = 0
+    end = len(sentence)
+    for i, word in enumerate(sentence):
+        if word[1] == 'x':
+            if i > idx:
+                end = i
+                break
+            else:
+                start = i + 1
+    return (sentence[start:end], start)
+
 def translate_word(sentence, idx, dictionary, translated):
+    clause, clause_start = find_clause(sentence, idx)
+
     word, pos_zh = sentence[idx]
     if pos_zh == 'x':
         # punctuation
@@ -114,13 +129,21 @@ def translate_word(sentence, idx, dictionary, translated):
 
     trans, pos_en = select_translation(sentence, idx, (word, pos_zh), translations)
 
-    # <v> <u>? <ul>|<ug> -> <v>'ed
+    if pos_zh == 'v':
+        # <v> <ul>|<ug> -> past tense
+        if idx < len(sentence) - 1 and sentence[idx + 1][1] in ['ul', 'ug']:
+            trans = transform_word(trans, 'past')
+        # <v> <u> <ul> -> past tense
+        elif idx < len(sentence) - 2 and sentence[idx + 1][1] == 'u' and sentence[idx + 2][1] == 'ul':
+            trans = transform_word(trans, 'past')
+        # immediately following third-person singular pronoun: third-person singular form
+        elif idx > 0 and sentence[idx - 1][0] in [u'他', u'她', u'它']:
+            trans = transform_word(trans, 'tps')
+
+    # remove <ul>, <ug> in <v> <u>? <ul>|<ug>
     if pos_zh in ['ul', 'ug']:
-        if idx > 0 and sentence[idx - 1][1] == 'v':
-            translated[idx - 1] = transform_word(translated[idx - 1], 'past')
-            trans = ''
-        elif idx > 1 and sentence[idx - 2][1] == 'v' and sentence[idx - 1][1] == 'u':
-            translated[idx - 2] = transform_word(translated[idx - 2], 'past')
+        if idx > 0 and sentence[idx - 1][1] == 'v' or\
+            idx > 1 and sentence[idx - 2][1] == 'v' and sentence[idx - 1][1] == 'u':
             trans = ''
 
     # remove <uz> in <v> <uz>

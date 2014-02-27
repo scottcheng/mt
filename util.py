@@ -103,6 +103,12 @@ def transform_word(word, form):
         else:
             return word + 'ed'
 
+    if form == 'tps':
+        if word[-1] == 's':
+            return word + 'es'
+        else:
+            return word + 's'
+
     return word
 
 if __name__ == '__main__':
