@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import re
 import random
-from util import read_json, translate_date
+from util import read_json, translate_date, transform_word
 
 from ngram import NGram
 import config
@@ -113,6 +113,14 @@ def translate_word(sentence, idx, dictionary):
         translations)
 
     trans, pos_en = select_translation(sentence, idx, (word, pos_zh), translations)
+
+    if len(pos_en) > 0 and pos_en[0] == 'v':
+        # <v> <ul>|<ug> -> past tense
+        if idx < len(sentence) - 1 and sentence[idx + 1][1] in ['ul', 'ug']:
+            trans = transform_word(trans, 'past')
+        # <v> <u> <ul> -> past tense
+        elif idx < len(sentence) - 2 and sentence[idx + 1][1] == 'u' and sentence[idx + 2][1] == 'ul':
+            trans = transform_word(trans, 'past')
 
     return trans
 

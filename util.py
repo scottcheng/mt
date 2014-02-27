@@ -69,6 +69,42 @@ def read_json(json_file):
             # patch errorneous json returned by wordreference.com JSON API
             return json.loads(content + '}')
 
+word_forms = {
+    'go': {
+        'past': 'went'
+    },
+    'leave': {
+        'past': 'left'
+    },
+    'be': {
+        'tps': 'is',
+        'ptps': 'was'
+    }
+}
+vows = ['a', 'e', 'i', 'o', 'u']
+
+def transform_word(word, form):
+    """transform a word to a different form.
+    @param form string 'past'
+                       'pp' (past participle)
+                       'tps' (third-person singular)
+                       'ptps' (past third-person singular)
+    """
+
+    if word in word_forms and form in word_forms[word]:
+        return word_forms[word][form]
+
+    if form == 'past' or form == 'pp':
+        # fallback transformation for past tense
+        if word[-1] == 'e':
+            return word + 'd'
+        elif len(word) >= 2 and word[-2] in vows and word[-1] not in vows:
+            return word + word[-1] + 'ed'
+        else:
+            return word + 'ed'
+
+    return word
+
 if __name__ == '__main__':
     import sys
     if len(sys.argv) < 2:
