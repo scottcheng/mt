@@ -92,7 +92,7 @@ def select_translation(sentence, idx, word, translations):
 
     return translations[0]
 
-def translate_word(sentence, idx, dictionary):
+def translate_word(sentence, idx, dictionary, translated):
     word, pos_zh = sentence[idx]
     if pos_zh == 'x':
         # punctuation
@@ -114,13 +114,14 @@ def translate_word(sentence, idx, dictionary):
 
     trans, pos_en = select_translation(sentence, idx, (word, pos_zh), translations)
 
-    if len(pos_en) > 0 and pos_en[0] == 'v':
-        # <v> <ul>|<ug> -> past tense
-        if idx < len(sentence) - 1 and sentence[idx + 1][1] in ['ul', 'ug']:
-            trans = transform_word(trans, 'past')
-        # <v> <u> <ul> -> past tense
-        elif idx < len(sentence) - 2 and sentence[idx + 1][1] == 'u' and sentence[idx + 2][1] == 'ul':
-            trans = transform_word(trans, 'past')
+    # <v> <u>? <ul>|<ug> -> <v>'ed
+    if pos_zh in ['ul', 'ug']:
+        if idx > 0 and sentence[idx - 1][1] == 'v':
+            translated[idx - 1] = transform_word(translated[idx - 1], 'past')
+            trans = ''
+        elif idx > 1 and sentence[idx - 2][1] == 'v' and sentence[idx - 1][1] == 'u':
+            translated[idx - 2] = transform_word(translated[idx - 2], 'past')
+            trans = ''
 
     return trans
 
@@ -130,7 +131,7 @@ if __name__ == '__main__':
     for sentence in dev_sentences:
         translations = []
         for i in range(len(sentence)):
-            w = translate_word(sentence, i, dictionary)
+            w = translate_word(sentence, i, dictionary, translations)
             if w:
                 # omit empty translation
                 translations.append(w)
