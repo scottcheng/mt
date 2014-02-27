@@ -25,24 +25,25 @@ punctuation = {
 
 alphanumeric_pattern = re.compile(r'^\w+$')
 
+pos_map = {
+    'a': 'adj',
+    'ad': 'adv',
+    'd': 'adv',
+    'u': 'v aux',
+    'r': 'pron',
+    'p': 'prep',
+    'prep': 'prep',
+    'c': 'conj',
+    't': 'n',
+    'm': 'n'
+}
+
 def match_pos(word_pos, trans_pos):
     if word_pos[0] == 'n':
         return trans_pos == 'n' or trans_pos == 'gerund'
     elif word_pos == 'v':
         return len(trans_pos) and trans_pos[0] == 'v'
 
-    pos_map = {
-        'a': 'adj',
-        'ad': 'adv',
-        'd': 'adv',
-        'u': 'v aux',
-        'r': 'pron',
-        'p': 'prep',
-        'prep': 'prep',
-        'c': 'conj',
-        't': 'n',
-        'm': 'n'
-    }
     return word_pos in pos_map and pos_map[word_pos] == trans_pos
 
 subject_pronoun = {
