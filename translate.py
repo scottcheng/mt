@@ -130,20 +130,40 @@ def translate_word(sentence, idx, dictionary, translated):
     trans, pos_en = select_translation(sentence, idx, (word, pos_zh), translations)
 
     if pos_zh == 'v':
+        # 被 <v> -> be <v>.pp
+        # 被 <n> <v> -> be <v>.pp by <n>
+        if idx > 0 and sentence[idx - 1][0] == u'被' and sentence[idx - 1][1] == 'p' or \
+           idx > 1 and sentence[idx - 2][0] == u'被' and sentence[idx - 2][1] == 'p' and sentence[idx - 1][1] == 'n':
+            be = 'is' # default to 'is'
+            if u'我' in clause[:idx - clause_start]:
+                be = 'am'
+            elif u'你' in clause[:idx - clause_start] or u'们' in clause[:idx - clause_start]:
+                be = 'are'
+            trans = transform_word(trans, 'pp')
+            if sentence[idx - 1][1] == 'n':
+                translated[idx - 2] = ''
+                # swap <n> and <v>
+                noun = translated[idx - 1]
+                translated[idx - 1] = '%s %s by' % (be, trans)
+                trans = noun
+            else:
+                translated[idx - 1] = ''
+                trans = '%s %s' % (be, trans)
         # <v> <ul>|<ug> -> past tense
-        if idx < len(sentence) - 1 and sentence[idx + 1][1] in ['ul', 'ug']:
+        elif idx < len(sentence) - 1 and sentence[idx + 1][1] in ['ul', 'ug']:
             trans = transform_word(trans, 'past')
         # <v> <u> <ul> -> past tense
         elif idx < len(sentence) - 2 and sentence[idx + 1][1] == 'u' and sentence[idx + 2][1] == 'ul':
             trans = transform_word(trans, 'past')
-        # immediately following third-person singular pronoun: third-person singular form
-        elif idx > 0 and sentence[idx - 1][0] in [u'他', u'她', u'它']:
+        # <tps> <adv>? <v> -> third-person singular form of <v>
+        elif idx > 0 and sentence[idx - 1][0] in [u'他', u'她', u'它'] or \
+             idx > 1 and sentence[idx - 2][0] in [u'他', u'她', u'它'] and sentence[idx - 1][1] in ['ad', 'd']:
             trans = transform_word(trans, 'tps')
 
     # remove <ul>, <ug> in <v> <u>? <ul>|<ug>
     if pos_zh in ['ul', 'ug']:
-        if idx > 0 and sentence[idx - 1][1] == 'v' or\
-            idx > 1 and sentence[idx - 2][1] == 'v' and sentence[idx - 1][1] == 'u':
+        if idx > 0 and sentence[idx - 1][1] == 'v' or \
+           idx > 1 and sentence[idx - 2][1] == 'v' and sentence[idx - 1][1] == 'u':
             trans = ''
 
     # remove <uz> in <v> <uz>
@@ -166,12 +186,11 @@ if __name__ == '__main__':
         translations = []
         for i in range(len(sentence)):
             w = translate_word(sentence, i, dictionary, translations)
-            if w:
-                # omit empty translation
-                translations.append(w)
+            translations.append(w)
 
         original = ' '.join('%s/%s'%tuple(t) for t in sentence)
-        translated = ' '.join(translations)
+        # omit empty translation
+        translated = ' '.join(filter(lambda t: t, translations))
         print '  Original:', original.encode('utf-8')
         print 'Translated:', translated.encode('utf-8')
         print
