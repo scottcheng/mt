@@ -16,6 +16,8 @@ random.shuffle(segmented_sentences)
 def get_development_set():
     return segmented_sentences[:10]
 
+def get_test_set():
+    return segmented_sentences[10:]
 
 # Chinese-to-English punctuation mapping
 punctuation = {
@@ -214,8 +216,26 @@ def translate_word(sentence, idx, dictionary, translated):
 
 
 if __name__ == '__main__':
-    dev_sentences = get_development_set()
-    for sentence in dev_sentences:
+    # dev_sentences = get_development_set()
+    # for sentence in dev_sentences:
+    #     # since we remove '的' from the original sentence, keep a copy of original sentence
+    #     sentence_cp = sentence[:]
+    #     translations = []
+    #     i = 0
+    #     while i< len(sentence_cp):
+    #         w = translate_word(sentence_cp, i, dictionary, translations)
+    #         translations.append(w)
+    #         i+=1
+
+    #     original = ' '.join('%s/%s'%tuple(t) for t in sentence)
+    #     # omit empty translation
+    #     translated = ' '.join(filter(lambda t: t, translations))
+    #     print '  Original:', original.encode('utf-8')
+    #     print 'Translated:', translated.encode('utf-8')
+    #     print
+
+    test_sentences = get_test_set()
+    for sentence in test_sentences:
         # since we remove '的' from the original sentence, keep a copy of original sentence
         sentence_cp = sentence[:]
         translations = []
