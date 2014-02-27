@@ -71,7 +71,7 @@ def select_translate(sentence, idx, word, translations):
         if DIGITS_PATTERN.match(word[0]):
             if idx+1 < len(sentence) and sentence[idx+1][0] == u'日':
                 # return proper date string
-                return (translate_date(word[0]), 'n')
+                return (translate_date(int(word[0])), 'n')
             else:
                 # return digits directly
                 return (word[0], 'n')

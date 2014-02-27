@@ -2,15 +2,51 @@ import json
 import string
 
 def translate_date(day):
-    value = int(day) % 100
-    if day[-1] == '1' and (value == 1 or value > 20):
-        return day + 'st'
-    elif day[-1] == '2' and (value == 2 or value > 20):
-        return day + 'nd'
-    elif day[-1] == '3' and (value == 3 or value > 20):
-        return day + 'rd'
-    else:
-        return day + 'th'
+    """Return proper date string from day.
+    @param day int
+
+    >>> translate_date(1)
+    '1st'
+    >>> translate_date(2)
+    '2nd'
+    >>> translate_date(3)
+    '3rd'
+    >>> translate_date(4)
+    '4th'
+    >>> translate_date(11)
+    '11th'
+    >>> translate_date(12)
+    '12th'
+    >>> translate_date(13)
+    '13th'
+    >>> translate_date(14)
+    '14th'
+    >>> translate_date(21)
+    '21st'
+    >>> translate_date(22)
+    '22nd'
+    >>> translate_date(23)
+    '23rd'
+    >>> translate_date(24)
+    '24th'
+    >>> translate_date(101)
+    '101st'
+    >>> translate_date(102)
+    '102nd'
+    >>> translate_date(103)
+    '103rd'
+    >>> translate_date(104)
+    '104th'
+    """
+    last_digit = day % 10
+    suffix = 'th'
+    specials = [(1, 'st'), (2, 'nd'), (3, 'rd')]
+    for ld, sfx in specials:
+        if last_digit == ld and (day == ld or day > 20):
+            suffix = sfx
+            break
+
+    return '%d%s' % (day, suffix)
 
 def extract_sentences(f):
     """Read sentences from file f."""
