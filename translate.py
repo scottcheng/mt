@@ -45,9 +45,28 @@ def match_pos(word_pos, trans_pos):
     }
     return word_pos in pos_map and pos_map[word_pos] == trans_pos
 
+subject_pronoun = {
+    u'我': 'I',
+    u'我们': 'we',
+    u'她': 'she',
+    u'她们': 'they',
+    u'他': 'he',
+    u'他们': 'they',
+    u'它们': 'they',
+    # it/you don't matter
+}
+
 def select_translate(sentence, idx, word, translations):
+    # make sure the subject pronoun is in subject form
+    # heuristic: if it's the first word or the previous word is punctuation
+    # or conjunction, it's considered a subject
+    if word[1] == 'r' and word[0] in subject_pronoun:
+        if idx == 0 or sentence[idx-1][1] in ['x', 'c']:
+            return subject_pronoun[word[0]], 'pron'
+
     # construct a list of translations with the same pos as word
     same_pos_translations = filter(lambda t: match_pos(word[1], t[1]), translations)
+
     ng = NGram()
 
     if len(same_pos_translations) > 0:
@@ -85,6 +104,6 @@ if __name__ == '__main__':
 
         original = ' '.join('%s/%s'%tuple(t) for t in sentence)
         translated = ' '.join(translations)
-        print '  Original:', original
-        print 'Translated:', translated
+        print '  Original:', original.encode('utf-8')
+        print 'Translated:', translated.encode('utf-8')
         print
