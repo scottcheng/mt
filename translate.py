@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import re
 import random
-from util import read_json
+from util import read_json, translate_date
 
 from ngram import NGram
 import config
@@ -56,13 +56,29 @@ subject_pronoun = {
     # it/you don't matter
 }
 
+DIGITS_PATTERN = re.compile(r'^\d+$')
+
 def select_translate(sentence, idx, word, translations):
     # make sure the subject pronoun is in subject form
     # heuristic: if it's the first word or the previous word is punctuation
     # or conjunction, it's considered a subject
     if word[1] == 'r' and word[0] in subject_pronoun:
         if idx == 0 or sentence[idx-1][1] in ['x', 'c']:
-            return subject_pronoun[word[0]], 'pron'
+            return (subject_pronoun[word[0]], 'pron')
+
+    # handle special case: <digits>/m 日/m
+    if word[1] == 'm':
+        if DIGITS_PATTERN.match(word[0]):
+            if idx+1 < len(sentence) and sentence[idx+1][0] == u'日':
+                # return proper date string
+                return (translate_date(word[0]), 'n')
+            else:
+                # return digits directly
+                return (word[0], 'n')
+        elif word[0] == u'日':
+            # symmetric case
+            if idx > 0 and DIGITS_PATTERN.match(sentence[i-1][0]):
+                return ('', '')
 
     # construct a list of translations with the same pos as word
     same_pos_translations = filter(lambda t: match_pos(word[1], t[1]), translations)
@@ -100,7 +116,10 @@ if __name__ == '__main__':
     for sentence in dev_sentences:
         translations = []
         for i in range(len(sentence)):
-            translations.append(translate_word(sentence, i, dictionary))
+            w = translate_word(sentence, i, dictionary)
+            if w:
+                # omit empty translation
+                translations.append(w)
 
         original = ' '.join('%s/%s'%tuple(t) for t in sentence)
         translated = ' '.join(translations)

@@ -1,6 +1,17 @@
 import json
 import string
 
+def translate_date(day):
+    value = int(day) % 100
+    if day[-1] == '1' and (value == 1 or value > 20):
+        return day + 'st'
+    elif day[-1] == '2' and (value == 2 or value > 20):
+        return day + 'nd'
+    elif day[-1] == '3' and (value == 3 or value > 20):
+        return day + 'rd'
+    else:
+        return day + 'th'
+
 def extract_sentences(f):
     """Read sentences from file f."""
     sentences = []
