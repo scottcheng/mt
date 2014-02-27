@@ -38,13 +38,13 @@ pos_map = {
     'm': 'n'
 }
 
-def match_pos(word_pos, trans_pos):
-    if word_pos[0] == 'n':
-        return trans_pos == 'n' or trans_pos == 'gerund'
-    elif word_pos == 'v':
-        return len(trans_pos) and trans_pos[0] == 'v'
+def match_pos(pos_zh, pos_en):
+    if pos_zh[0] == 'n':
+        return pos_en == 'n' or pos_en == 'gerund'
+    elif pos_zh == 'v':
+        return len(pos_en) and pos_en[0] == 'v'
 
-    return word_pos in pos_map and pos_map[word_pos] == trans_pos
+    return pos_zh in pos_map and pos_map[pos_zh] == pos_en
 
 subject_pronoun = {
     u'我': 'I',
@@ -93,13 +93,17 @@ def select_translation(sentence, idx, word, translations):
     return translations[0]
 
 def translate_word(sentence, idx, dictionary):
-    word, pos = sentence[idx]
-    if pos == 'x':
+    word, pos_zh = sentence[idx]
+    if pos_zh == 'x':
         # punctuation
         return punctuation.get(word, word)
 
-    if pos == 'eng':
+    if pos_zh == 'eng':
         return word
+
+    # remove '到' after verbs
+    if idx > 0 and word == u'到' and pos_zh in ['u', 'p'] and sentence[idx - 1][1] == 'v':
+        return ''
 
     # translate normal word
     translations = dictionary[word]
@@ -108,7 +112,7 @@ def translate_word(sentence, idx, dictionary):
         lambda t: (t[0][:t[0].index(';')], t[1]) if ';' in t[0] else t,
         translations)
 
-    trans, pos = select_translation(sentence, idx, (word, pos), translations)
+    trans, pos_en = select_translation(sentence, idx, (word, pos_zh), translations)
 
     return trans
 
