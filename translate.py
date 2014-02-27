@@ -177,16 +177,53 @@ def translate_word(sentence, idx, dictionary, translated):
         if idx > 0 and sentence[idx - 1][1] in ['ad', 'd']:
             trans = ''
 
+    #10. remove <adj> 的 <n>
+    if idx > 0 and word == u'的' and pos_zh == 'uj' and sentence[idx - 1][1] == 'a':
+        return ''        
+
+    #11. <n1> 的 <n2> -> <n1>’s <n2>
+    if idx > 0 and word == u'的' and pos_zh == 'uj' and sentence[idx - 1][1] == 'n':
+        return "'s" 
+
+    #12. 我/r 的/uj -> my
+    if idx > 0 and word == u'我' and sentence[idx + 1][0] == u'的':
+        del sentence[idx + 1]
+        return "my"   
+
+    #   你/r 的/uj -> my
+    if idx > 0 and word == u'你' and sentence[idx + 1][0] == u'的':
+        del sentence[idx + 1]
+        return "your" 
+
+    #   他/r 的/uj -> my
+    if idx > 0 and word == u'他' and sentence[idx + 1][0] == u'的':
+        del sentence[idx + 1]
+        return "his" 
+
+    #   她/r 的/uj -> my
+    if idx > 0 and word == u'她' and sentence[idx + 1][0] == u'的':
+        del sentence[idx + 1]
+        return "her"   
+
+    #13. 还/d 会/v ->还会
+    if idx > 0 and word == u'还' and sentence[idx + 1][0] == u'会':
+        del sentence[idx + 1]
+        return "also" 
+        
     return trans
 
 
 if __name__ == '__main__':
     dev_sentences = get_development_set()
     for sentence in dev_sentences:
+        # since we remove '的' from the original sentence, keep a copy of original sentence
+        sentence_cp = sentence[:]
         translations = []
-        for i in range(len(sentence)):
-            w = translate_word(sentence, i, dictionary, translations)
+        i = 0
+        while i< len(sentence_cp):
+            w = translate_word(sentence_cp, i, dictionary, translations)
             translations.append(w)
+            i+=1
 
         original = ' '.join('%s/%s'%tuple(t) for t in sentence)
         # omit empty translation
