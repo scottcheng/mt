@@ -123,6 +123,17 @@ def translate_word(sentence, idx, dictionary, translated):
             translated[idx - 2] = transform_word(translated[idx - 2], 'past')
             trans = ''
 
+    # remove <uz> in <v> <uz>
+    # (although <uz> sometimes implies the state of doing something)
+    if pos_zh == 'uz':
+        if idx > 0 and sentence[idx - 1][1] == 'v':
+            trans = ''
+
+    # remove <uv> in <ad>|<d> <uv>
+    if pos_zh == 'uv':
+        if idx > 0 and sentence[idx - 1][1] in ['ad', 'd']:
+            trans = ''
+
     return trans
 
 
