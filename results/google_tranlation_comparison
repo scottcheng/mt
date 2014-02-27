@@ -1,0 +1,60 @@
+1.	Original: 
+对/p 这个/r 问题/n 因为/c 好/a 的/uj 回答/n 而/c 留下/v 好/a 印象/n 很/d 难/a ，/x 关键/n 是/v 避免/v 留下/v 坏/a 印象/n
+	Translated: 
+to this case for fine response whilst stay fine show only hard , key is help stay bad show
+	Google Translated:
+Good answer to this question because while a good impression is difficult, the key is to avoid a bad impression
+
+2.	Original: 
+人性/n 的/uj 阴暗/n 、/x 政治/n 的/uj 残酷/n 、/x 美式/a 政治/n ....../x 美国/ns 政治/n 题材/n 的/uj 影视作品/n 往往/d 把/p 这些/r 抽象概念/l 变得/v 生动/a 、/x 具体/a 。/x
+	Translated: 
+humanity 's obscurity 、 action 's cruelty 、 American-style action ...... republicanism action subject 's produce often handle these abstract run vivid 、 specific .
+	Google Translated:
+Humanity's dark, brutal politics, American politics ...... American political movies and television work is often put these abstractions become vivid and specific.
+
+3.	Original: 
+宝玉/nr 听/v 了/ul 这些/r 话/n ，/x 气/v 的/uj 浑身/n 乱战/v 。/x
+	Translated: 
+Baoyu hearded these word , catch great all over the body quiver .
+	Google Translated:
+Baoyu heard these words, the gas did shake.
+
+4.	Original: 
+滑冰场/n 关了门/v ，/x 政府/n 几乎/ad 没有/v 任何/a 资金投入/n ，/x 许多/m 教练/vn 都/d 离开/v 了/ul 俄罗斯/ns 。/x
+	Translated: 
+skating rink was closed , state about lack any capital investment , much coach already parted Russia .
+	Google Translated:
+Skating rink shut the door, almost no government funding, many coaches have left Russia.
+
+
+5.	Original: 
+有人/r 担心/v ，/x Facebook/eng 这种/r 更/d 重视/v 用户数量/n 而/c 不是/c 营收/n 的/uj 做法/n ，/x 是/v 在/p 给/p 新/a 的/uj 互联网/n 泡沫/n 推波助澜/i 。/x
+	Translated: 
+somebody concern , Facebook of this kind more prize number of users whilst but revenue 's course , is in for new web head fuel .
+	Google Translated:
+Some worry, Facebook is more emphasis on the number of users of this revenue rather than practice, is to the new Internet bubble fueled.
+
+*** Comparison: google translation is better.
+	Among all the different phrase translation below, google did a better job that the phrases fit the context better than our MT.
+				Google 			MT
+	'这种'		is 				of this kind
+	'重视'		emphasis		prize
+	'而不是'		rather			whilst but 		
+	'泡沫'		bubble			head
+
+-	'这种'
+google: '这种' -> 'is'. This is reasonable for Chinese-English tranlation since '这种' states the belonging relationship to the subject before this phrase. However, using "'s" would be better.
+MT:  '这种' -> 'of this kind'. This is more like a word-to-word translation which is good in phrase translation but no quite suitable for sentence translation.
+
+-	'重视'
+google: '重视' -> 'emphasis'. This is most frequent and context-reasonable word tranlation for '重视'. 
+MT:  '重视' -> 'prize'. Our random chosed translation just does not make sense in this context.
+
+-	'而不是'
+google: '而不是' -> 'rather'. This is most frequent and context-reasonable word tranlation for '而不是'. 
+MT:  '而不是' -> 'whilst but'. Our MT system segments '而不是' into '而' and '不是' so that it not only gives much word-to-word translation but also did not pick a good word-to-word translation for these two phrases.
+
+-	'泡沫'
+google: '泡沫' -> 'bubble'. This is most frequent and context-reasonable word tranlation for '泡沫'. 
+MT:  '泡沫' -> 'head'. Our random chosed translation just does not make sense in this context.
+
