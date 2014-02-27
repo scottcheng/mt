@@ -182,7 +182,7 @@ def translate_word(sentence, idx, dictionary, translated):
         return ''        
 
     #11. <n1> 的 <n2> -> <n1>’s <n2>
-    if idx > 0 and word == u'的' and pos_zh == 'uj' and sentence[idx - 1][1] == 'n':
+    if idx > 0 and word == u'的' and pos_zh == 'uj' and sentence[idx - 1][1][0] == 'n':
         return "'s" 
 
     #12. 我/r 的/uj -> my
@@ -208,8 +208,8 @@ def translate_word(sentence, idx, dictionary, translated):
     #13. 还/d 会/v ->还会
     if idx > 0 and word == u'还' and sentence[idx + 1][0] == u'会':
         del sentence[idx + 1]
-        return "also" 
-        
+        return "also"  
+
     return trans
 
 
