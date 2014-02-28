@@ -5,12 +5,122 @@ to this case for fine response whilst stay fine show only hard , key is help sta
 	Google Translated:
 Good answer to this question because while a good impression is difficult, the key is to avoid a bad impression
 
+same:
+而 		while	('whilst' is while, it is a source-tranlation error, which we don't bother to change it manually.)
+对这个	to this
+是		is
+坏		bad
+
+differences:
+		google 				mt
+问题		question			case 
+因为		because				for 
+好/好的	good 				fine 
+回答 	answer				response  
+留下		-					stay 
+印象		impression			show 		
+很		-					only 
+难		difficult			hard 
+关键		the key				key 
+避免		avoid				help 
+
+analysis:
+-	Where google did better?
+关键		the key				key
+It's language convention to use 'the key' instead of 'key'. Our MT system does not have a strategy to deal with countable noun or add 'the' to nouns.
+
+避免		avoid				help 
+回答 	answer				response
+印象		impression			show 		
+Clearly, 'avoid' is more suitable for this context. Our MT system pick 'help' from all the translation of '避免' because 'help' has the highest unigram score. It does not make sense since we did not count in the probability of Chinese-to-English tranlation. Although P(help) > P(avoid), P(help|避免) < P(avoid|避免).
+Same reasoning for (回答,answer,response) and (印象,impression,show).
+
+-	Where we did better?
+因为		because				for
+It would make more sense to use 'because of' rather than 'because', which is connection between sentences rather than phrases, where 'for' makes more sense here.
+
+-	Where both google and our MT did reasonble?
+The translation google and our MT agreed with makes sense.
+Since the context is not quite specific, the following ones are both acceptable tranlations.
+问题		question			case
+好/好的	good 				fine
+难		difficult			hard
+
+-	Where neither google and our MT did reasonble?
+很		-					only
+留下		-					stay
+
+'很' -> really is a good translation. google did not translate at all which somehow loss the meaning of the word. 'only' does not make sense here.
+Same reasoning for '留下'.
+
+
+
 2.	Original: 
 人性/n 的/uj 阴暗/n 、/x 政治/n 的/uj 残酷/n 、/x 美式/a 政治/n ....../x 美国/ns 政治/n 题材/n 的/uj 影视作品/n 往往/d 把/p 这些/r 抽象概念/l 变得/v 生动/a 、/x 具体/a 。/x
 	Translated: 
 humanity 's obscurity 、 action 's cruelty 、 American-style action ...... republicanism action subject 's produce often handle these abstract run vivid 、 specific .
 	Google Translated:
 Humanity's dark, brutal politics, American politics ...... American political movies and television work is often put these abstractions become vivid and specific.
+
+same:
+人性的	humanity 's
+往往		often
+这些		these
+生动		vivid
+具体		specific
+
+differences:
+		google 						mt
+阴暗		dark						obscurity
+政治的	politics/political			action 's
+残酷		brutal						cruelty
+美式		American 					American-style
+美国		American					republicanism
+题材		-							subject
+影视作品	movies and television work  produce
+把		put							handle
+抽象概念	abstractions				abstract
+变得		become						run
+
+analysis:
+-	Where google did better?
+政治 	politics					action
+美式		American 					American-style
+影视作品	movies and television work  produce
+
+Clearly, 'politics' is more suitable for this context. Our MT system pick 'action' from all the translation of '政治' because 'action' has the highest unigram score. It does not make sense since we did not count in the probability of Chinese-to-English tranlation. Although P(action) > P(politics), P(action|政治) < P(politics|政治).
+Same reasoning for (美式,American,American-style)
+
+影视作品	movies and television work  produce
+Google's translation 'movies and television work' must be a work of statitical model result since this is quite hard to get from a single word translation of '影视作品'. Our MT system does not support such good strategie.
+
+-	Where we did better?
+残酷			brutal					cruelty		(政治的残酷	brutal politics			action 's cruelty)
+Here '残酷' is supposed to be a noun and the whole translation of the phrase would be like 'the cruelty of politics'. As mentioned, our MT did bad on the '政治' part but ours gives the correct noun characteritics of '残酷' and this is the result of our good word segmentation and word characteritics assignment.
+
+-	Where both google and our MT did reasonble?
+The translation google and our MT agreed with makes sense.
+Since the context is not quite specific, the following ones are both acceptable tranlations.
+阴暗		dark						obscurity
+抽象概念	abstractions				abstract
+
+-	Where neither google and our MT did reasonble?
+		Google 						MT
+把		put							handle
+Google is doing a little bit better but '把' has way better translation than these two.
+
+变得		become						run
+These translations are just not working.
+
+题材		-							subject
+google did not translate at all which somehow loss the info of this word. 'subject' does not make sense here.
+
+美国		American					republicanism
+Google messed up the characteristcs of the word where our MT translation did. However,'republicanism' is not a proper tranlation here.
+
+
+
+
 
 3.	Original: 
 宝玉/nr 听/v 了/ul 这些/r 话/n ，/x 气/v 的/uj 浑身/n 乱战/v 。/x
@@ -19,12 +129,88 @@ Baoyu hearded these word , catch great all over the body quiver .
 	Google Translated:
 Baoyu heard these words, the gas did shake.
 
+same:
+宝玉		Baoyu
+这些		these
+
+differences:
+		google 				mt
+听了		heard 				heared
+话		words				word
+气的浑身	the gas did			catch great all over the body
+乱战		shake 				quiver
+
+analysis:
+-	Where google did better?
+话		words				word
+'话' typically stands for sentences or words. In some scenarios, single word also makes sense. In general, 'words' is a better translation. Our MT system pick 'word' from all the translation of '话' because 'word' has the highest unigram score, which is not a clever choice in this case.
+
+-	Where we did better?
+听了		heard 				heared
+Our MT catch the past tense of the sentence from the word '了', which is one of our strategy. Thus, we did better.
+
+-	Where both google and our MT did reasonble?
+The translation google and our MT agreed with makes sense.
+乱战		shake 				quiver
+Maybe 'shake' is a little better 'quiver', but they are both good translations.
+
+-	Where neither google and our MT did reasonble?
+气的浑身	the gas did			catch great all over the body
+This is just a really difficult phrases combination for translation. I guess only using huge corpus with statistical model would result in good translation.
+
+
+
 4.	Original: 
 滑冰场/n 关了门/v ，/x 政府/n 几乎/ad 没有/v 任何/a 资金投入/n ，/x 许多/m 教练/vn 都/d 离开/v 了/ul 俄罗斯/ns 。/x
 	Translated: 
 skating rink was closed , state about lack any capital investment , much coach already parted Russia .
 	Google Translated:
 Skating rink shut the door, almost no government funding, many coaches have left Russia.
+
+same:
+滑冰场	skating rink
+都		-
+俄罗斯	Russia
+
+differences:
+		google 				mt
+关了门	shut the door		was closed
+政府		government			state
+几乎		almost				about 		
+没有		no 					lack
+任何		- 					any
+资金投入	funding				capital investment
+许多教练	many coaches		much coach
+离开了	have left			already parted
+	
+analysis:
+-	Where google did better?
+		Google 				our MT
+许多教练	many coaches		much coach
+Google catches 'coach' is countable noun and use 'many' to describe it, while we do not support such strategy so we both did bad on 'much' and miss the plural translation of 'coach'.
+
+离开 	left				parted
+Clearly, 'left' is more suitable for this context. Our MT system pick 'parted' from all the translation of '离开' because 'parted' has the highest unigram score. It does not make sense since we did not count in the probability of Chinese-to-English tranlation. Although P(parted) > P(left), P(parted|离开) < P(left|离开).
+Same reasoning for (几乎,almost,about) and (没有,no,lack).
+
+
+-	Where we did better?
+关了门	shut the door		was closed
+Google uses 'shut the door' which is a more physical translation while our 'was closed' definitely is more reasonable since the original sentence is stating the place is shut down rather than the door is shut down. This is the result of our unigram strategy.
+
+-	Where both google and our MT did reasonble?
+The translation google and our MT agreed with makes sense.
+
+政府		government			state
+资金投入	funding				capital investment
+Since the context is not quite specific, the above ones are both acceptable tranlations.
+
+任何		- 					any
+It won't hurt if did not translate '任何' as google did and it also makes sense to translate '任何' into 'any'.
+
+-	Where neither google and our MT did reasonble?
+None
+	
 
 
 5.	Original: 
@@ -34,27 +220,54 @@ somebody concern , Facebook of this kind more prize number of users whilst but r
 	Google Translated:
 Some worry, Facebook is more emphasis on the number of users of this revenue rather than practice, is to the new Internet bubble fueled.
 
-*** Comparison: google translation is better.
-	Among all the different phrase translation below, google did a better job that the phrases fit the context better than our MT.
-				Google 			MT
-	'这种'		is 				of this kind
-	'重视'		emphasis		prize
-	'而不是'		rather			whilst but 		
-	'泡沫'		bubble			head
+same:
+更		more
+用户数量	number of users
+营收 	revenue
+是		is
+新的		new
 
--	'这种'
-google: '这种' -> 'is'. This is reasonable for Chinese-English tranlation since '这种' states the belonging relationship to the subject before this phrase. However, using "'s" would be better.
-MT:  '这种' -> 'of this kind'. This is more like a word-to-word translation which is good in phrase translation but no quite suitable for sentence translation.
+differences:
+			google 			mt
+有人			some 			somebody
+担心			worry 			concern
+这种 		is 				of this kind
+重视 		emphasis		prize
+而不是 		rather than		whilst but 	
+做法			practice 		course
+在给			to 				in for
+互联网		Internet		web
+泡沫 		bubble			head
+推波助澜		fueled			fuel
 
--	'重视'
-google: '重视' -> 'emphasis'. This is most frequent and context-reasonable word tranlation for '重视'. 
-MT:  '重视' -> 'prize'. Our random chosed translation just does not make sense in this context.
+analysis:
+-	Where google did better?
+重视 		emphasis		prize
+泡沫 		bubble			head
+Clearly, 'emphasis' is more suitable for this context. Our MT system pick 'prize' from all the translation of '重视' because 'prize' has the highest unigram score. It does not make sense since we did not count in the probability of Chinese-to-English tranlation. Although P(prize) > P(emphasis), P(prize|重视) < P(emphasis|重视).
+Same reasoning for (泡沫,bubble,head)
 
--	'而不是'
-google: '而不是' -> 'rather'. This is most frequent and context-reasonable word tranlation for '而不是'. 
-MT:  '而不是' -> 'whilst but'. Our MT system segments '而不是' into '而' and '不是' so that it not only gives much word-to-word translation but also did not pick a good word-to-word translation for these two phrases.
+而不是 		rather than		whilst but 	
+We did poor on this because our sentence segmentation segments this phrase into '而' and '不是' so that it could not catch the right sense of the whole phrase.
 
--	'泡沫'
-google: '泡沫' -> 'bubble'. This is most frequent and context-reasonable word tranlation for '泡沫'. 
-MT:  '泡沫' -> 'head'. Our random chosed translation just does not make sense in this context.
+推波助澜		fueled			fuel
+Google gets the sense of 'be fueled' rather than actively 'fuel'. This is a minor thing but our MT just did not have such strategy.
+
+-	Where we did better?
+None
+
+-	Where both google and our MT did reasonble?
+The translation google and our MT agreed with makes sense.
+Since the context is not quite specific, the following ones are both acceptable tranlations.
+有人			some 			somebody
+担心			worry 			concern
+互联网		Internet		web
+
+-	Where neither google and our MT did reasonble?
+这种 		is 				of this kind
+做法			practice 		course
+A good translation would be 'such action/behavior'. It's just that none of Google or our MT did well. Our system would do better if '这种做法' was not segmented into two separate phrases.
+
+在给			to 				in for
+our sentence segmentation segments this phrase into '在' and '给' so that it could not catch the right sense of the whole phrase while google did do well either.
 
