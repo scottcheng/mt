@@ -13,16 +13,16 @@ same:
 
 differences:
 		google 				mt
-问题		question			case 
-因为		because				for 
+问题	question			case 
+因为	because				for 
 好/好的	good 				fine 
 回答 	answer				response  
-留下		-					stay 
-印象		impression			show 		
+留下	-					stay 
+印象	impression			show 		
 很		-					only 
 难		difficult			hard 
-关键		the key				key 
-避免		avoid				help 
+关键	the key				key 
+避免	avoid				help 
 
 analysis:
 -	Where google did better?
@@ -30,7 +30,7 @@ analysis:
 It's language convention to use 'the key' instead of 'key'. Our MT system does not have a strategy to deal with countable noun or add 'the' to nouns.
 
 避免		avoid				help 
-回答 	answer				response
+回答 		answer				response
 印象		impression			show 		
 Clearly, 'avoid' is more suitable for this context. Our MT system pick 'help' from all the translation of '避免' because 'help' has the highest unigram score. It does not make sense since we did not count in the probability of Chinese-to-English tranlation. Although P(help) > P(avoid), P(help|避免) < P(avoid|避免).
 Same reasoning for (回答,answer,response) and (印象,impression,show).
